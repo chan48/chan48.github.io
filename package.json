@@ -25,6 +25,6 @@
   },
   "scripts": {
     "start": "node node_modules/hexo/bin/hexo server -w",
-    "deploy": "node node_modules/hexo/bin/hexo deploy"
+    "deploy": "node node_modules/hexo/bin/hexo clean && node node_modules/hexo/bin/hexo deploy"
   }
 }
