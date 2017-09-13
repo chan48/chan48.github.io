@@ -45,7 +45,7 @@ favicon: favicon.png
 duoshuo_shortname: #freemindtheme
 
 # Analytics
-google_analytics:
+google_analytics: 
   enable: true
   siteid:
 baidu_tongji:
