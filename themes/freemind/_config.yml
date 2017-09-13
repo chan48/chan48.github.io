@@ -1,0 +1,70 @@
+slogan: "POSTs"
+
+theme: cosmo
+inverse: false
+
+menu:
+  - title: Archives
+    url: archives
+    intro: "All the articles."
+    icon: "fa fa-archive"
+  - title: Categories
+    url: categories
+    intro: "All the categories."
+    icon: "fa fa-folder"
+  - title: Tags
+    url: tags
+    intro: "All the tags."
+    icon: "fa fa-tags"
+  - title: About
+    url: about
+    intro: "About me."
+    icon: "fa fa-user"
+
+links:
+  - title: "S-CHAN Github"
+    url: https://github.com/chan48
+    intro: "My Github account."
+    icon: "fa fa-github"
+  - title: "S-CHAN LinkedIn"
+    url: https://www.linkedin.com/in/choi-seung-chan/
+    intro: "My Linkin account."
+    icon: "fa fa-linkedin"
+
+widgets:
+- search
+- recent_comments
+- category
+- tagcloud
+- recent_posts
+- links
+
+rss:
+fancybox: true
+favicon: favicon.png
+duoshuo_shortname: #freemindtheme
+
+# Analytics
+google_analytics:
+  enable: false
+  siteid:
+baidu_tongji:
+  enable: false
+  siteid:
+
+# search
+# swiftype_key: ZP2ZSuHgipSZfRyU8uTR
+
+# share widgets
+bdshare: true
+jiathis: false
+
+
+# built-in comment system
+comment_js:
+  type: "github"
+  user: "chan48"
+  repo: "chan48.github.io"
+  client_id: "7179d6ca581e24cefa48"
+  client_secret: "c48a9967591f833abb9b901f752e88875d8830f9"
+  count: 5
