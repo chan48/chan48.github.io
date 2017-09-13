@@ -78,3 +78,16 @@ deploy:
 search:
   path: search.xml
   field: all
+
+toc:
+  maxdepth: 3
+  class: toc
+  slugify: transliteration
+  indent: true # default(true) 
+  firstHeaderTagSkip: false # default(false) 
+  anchor:
+    contents:
+      style: contents-header
+    heading:
+      style: header-anchor
+      notIncludeHeading: false # default(false) 
