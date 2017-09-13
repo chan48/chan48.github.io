@@ -79,5 +79,5 @@ theme: freemind
 deploy:
   type: git
   repo: https://github.com/chan48/chan48.github.io
-  branch: master
+  branch: gh-pages
   
