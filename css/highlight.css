@@ -3,13 +3,13 @@
 /* highlight */
 
 pre, .highlight {  
-  background: #333 !important;
+  background: #FFE07B !important;
   margin: 0.5em 0;
   padding: 1em 2%;
   overflow: auto;
-  color: #ccc!important;
+  color: #D83846!important;
   font-size: 14px;
-  text-shadow: none;
+  text-shadow: none; 
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;  
@@ -68,46 +68,6 @@ pre code {
 
 /* gist */
 
-.container .gist .gist-file {
-  border: none;
-  font-family: Menlo, "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Monaco, Consolas, monospace;    
-  margin: 0;
-}
-.container .gist .gist-file .gist-data {
-  background: none;
-  border: none;
-}
-.container .gist .gist-file .gist-data .line-numbers .blob-num .js-line-number {
-  background: none;
-  border: none;
-  padding-right: 20px;
-  color: #666 !important;
-  text-align: left;  
-}
-.container .gist .gist-file .gist-data .line-data {
-  padding: 0 !important;
-}
-.container .gist .gist-file .highlight {
-  margin: 0;
-  padding: 0;
-  border: none;
-}
-.container .gist .gist-file .gist-meta {
-  background: #C9A7C3;
-  color: #999;
-  font: 0.85em "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-shadow: 0 0;
-  padding: 0;
-  margin-top: 1em;
-  margin-left: 20px;
-}
-.container .gist .gist-file .gist-meta a {
-  color: #258fb8;
-  font-weight: normal;
-}
-.container .gist .gist-file .gist-meta a:hover {
-  text-decoration: underline;
-}
 
 
 /* figcaption */
@@ -160,7 +120,7 @@ pre .constant {
 pre .class,
 pre .ruby .class .title,
 pre .css .rules .attribute {
-  color: #9c9!important;
+  color: #376137!important;
 }
 pre .string,
 pre .value,
@@ -168,7 +128,7 @@ pre .inheritance,
 pre .header,
 pre .ruby .symbol,
 pre .xml .cdata {
-  color: #9c9!important;
+  color: #25323B!important;
 }
 pre .css .hexcolor {
   color: #6cc!important;
