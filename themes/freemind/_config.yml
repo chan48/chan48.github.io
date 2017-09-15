@@ -38,6 +38,15 @@ links:
     url: http://fontawesome.io/icons/
     intro: "Awesome icon."
     icon: "fa fa-file-image-o"
+  - title: "Taskworld-as-trello"
+    url: https://enterprise.taskworld.com/s-chan/#/projects
+    intro: "Taskworld-as-trello."
+    icon: "fa fa-trello"
+  - title: "Mind42-MindMap"
+    url: https://mind42.com/
+    intro: "Mind42-MindMap."
+    icon: "fa fa-map-marker"
+
   - title: "S-CHAN Facebook"
     url: https://www.facebook.com/schan.choi.48
     intro: "My Facebook account."
