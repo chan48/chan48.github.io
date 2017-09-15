@@ -22,14 +22,14 @@ menu:
     icon: "fa fa-user"
 
 links:
+  - title: "EditingMD-ByAdmin"
+    url: http://prose.io/#chan48/chan48.github.io/tree/gh-pages/source
+    intro: "My Github editor."
+    icon: "fa fa-pencil-square"
   - title: "S-CHAN Facebook"
     url: https://www.facebook.com/schan.choi.48
     intro: "My Facebook account."
     icon: "fa fa-facebook-square"
-  - title: "PROSE-MD-Editor"
-    url: http://prose.io/#chan48
-    intro: "My Github editor."
-    icon: "fa fa-pencil-square"
   - title: "S-CHAN Github"
     url: https://github.com/chan48
     intro: "My Github account."
