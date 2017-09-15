@@ -2,14 +2,15 @@
 title: Demo Hi~HEXO
 date: 2017-09-13 20:04:10
 description: "Hexo blog Demo Test page 입니다."
-tags: Demo, test, start
+tags: [Demo, test, start]
 categories: test
 toc: true
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
 
 ## Quick Start
+
+Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+
 
 ### Create a new post
 
