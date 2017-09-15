@@ -3,7 +3,7 @@ title: {{ title }}
 date: {{ date }}
 description: ""
 categories:
-tags:
+tags: []
 toc: true
 
 ---
