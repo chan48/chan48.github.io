@@ -26,6 +26,18 @@ links:
     url: http://prose.io/#chan48/chan48.github.io/tree/gh-pages/source
     intro: "My Github editor."
     icon: "fa fa-pencil-square"
+  - title: "CODE-PEN"
+    url: https://codepen.io/ch9/
+    intro: "My CODE-PEN."
+    icon: "fa fa-codepen"
+  - title: "Markdown-Mastering"
+    url: https://guides.github.com/features/mastering-markdown/#examples
+    intro: "My Linkin account."
+    icon: "fa fa-file-text"
+  - title: "Awesome-Icon"
+    url: http://fontawesome.io/icons/
+    intro: "Awesome icon."
+    icon: "fa fa-file-image-o"
   - title: "S-CHAN Facebook"
     url: https://www.facebook.com/schan.choi.48
     intro: "My Facebook account."
@@ -37,7 +49,11 @@ links:
   - title: "S-CHAN LinkedIn"
     url: https://www.linkedin.com/in/choi-seung-chan/
     intro: "My Linkin account."
-    icon: "fa fa-linkedin"
+    icon: "fa fa-linkedin-square"
+ 
+ 
+
+    
 
 
 widgets:
