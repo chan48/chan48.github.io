@@ -46,7 +46,24 @@ links:
     url: https://mind42.com/
     intro: "Mind42-MindMap."
     icon: "fa fa-map-marker"
+  - title: "Awesome-devblog"
+    url: https://github.com/sarojaba/awesome-devblog
+    intro: "Awesome-devblog."
+    icon: "fa fa-star"
+  - title: "AWS-HandsOn"
+    url: https://qwiklabs.com/catalog
+    intro: "AWS-Study."
+    icon: "fa fa-cloud"
 
+  - title: "CodeWars"
+    url: https://www.codewars.com/users/chan48
+    intro: "CodeWars."
+    icon: "fa fa-code"
+  - title: "Hacker-rank"
+    url: https://www.hackerrank.com/dashboard
+    intro: "Hacker-rank."
+    icon: "fa fa-hacker-news"
+  
   - title: "S-CHAN Facebook"
     url: https://www.facebook.com/schan.choi.48
     intro: "My Facebook account."
