@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[TIL-17-09-15]]></title>
       <url>/2017/09/15/TIL-17-09-15/</url>
-      <content type="html"><![CDATA[<p>For Using AWS resource + </p>
+      <content type="html"><![CDATA[<p>For Study AWS resource + </p>
 ]]></content>
       
         <categories>
@@ -100,17 +100,17 @@
   
     
     <entry>
-      <title><![CDATA[Categories]]></title>
-      <url>/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[About]]></title>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[
 Something about me. ;-)
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Categories]]></title>
+      <url>/categories/index.html</url>
+      <content type="html"></content>
     </entry>
     
     <entry>
