@@ -26,6 +26,10 @@ links:
     url: http://prose.io/#chan48/chan48.github.io/tree/gh-pages/source
     intro: "My Github editor."
     icon: "fa fa-pencil-square"
+  - title: "Editing-Dynalist"
+    url: https://dynalist.io/
+    intro: "Editing-Dynalist."
+    icon: "fa fa-pencil-square-o"
   - title: "CODE-PEN"
     url: https://codepen.io/ch9/
     intro: "My CODE-PEN."
