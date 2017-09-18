@@ -42,6 +42,8 @@ links:
     url: http://fontawesome.io/icons/
     intro: "Awesome icon."
     icon: "fa fa-file-image-o"
+
+  # Devtool
   - title: "QuickMockup"
     url: https://jdittrich.github.io/quickMockup/
     intro: "QuickMockup."
@@ -58,6 +60,8 @@ links:
     url: https://github.com/sarojaba/awesome-devblog
     intro: "Awesome-devblog."
     icon: "fa fa-star"
+
+  # AWS
   - title: "AWS-HandsOn"
     url: https://qwiklabs.com/catalog
     intro: "AWS-Study."
@@ -70,15 +74,34 @@ links:
     url: http://docs.aws.amazon.com/ko_kr/codepipeline/latest/userguide/welcome.html
     intro: "AWS-CODEPIPELINE."
     icon: "fa fa-book"
-  - title: "AWS-DOCs"
-    url: http://docs.aws.amazon.com/ko_kr/codecommit/latest/userguide/welcome.html
-    intro: "AWS-DOCs."
-    icon: "fa fa-book"
   - title: "AWS-DevOpsBlog"
     url: https://brunch.co.kr/magazine/devops
     intro: "AWS-DevOpsBlog."
     icon: "fa fa-book"
+  - title: "AWS-DOCs"
+    url: http://docs.aws.amazon.com/ko_kr/codecommit/latest/userguide/welcome.html
+    intro: "AWS-DOCs."
+    icon: "fa fa-book"
 
+  # DOCs
+  - title: "MDN-JS-DOC"
+    url: https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects
+    intro: "MDN-JS-Doc."
+    icon: "fa fa-book"
+  - title: "Python-DOC"
+    url: https://docs.python.org/3/
+    intro: "Python-Doc."
+    icon: "fa fa-book"
+  - title: "Dev-DOCs"
+    url: http://devdocs.io/
+    intro: "Dev-Doc."
+    icon: "fa fa-book"
+  - title: "StackOver-Doc"
+    url: https://stackoverflow.com/documentation/
+    intro: "StackOverFlow-Doc."
+    icon: "fa fa-stack-overflow"
+
+  # IDE+
   - title: "Cloud9-IDE"
     url: https://c9.io/chan48
     intro: "Cloud9-IDE."
@@ -99,15 +122,12 @@ links:
     url: https://www.freecodecamp.org/chan48
     intro: "FreecodeCamp."
     icon: "fa fa-list-alt"
-  - title: "StackOver-Doc"
-    url: https://stackoverflow.com/documentation/
-    intro: "StackOverFlow-Doc."
-    icon: "fa fa-stack-overflow"
   - title: "Jira-Atlassian"
     url: https://quiz-aws.atlassian.net/secure/Dashboard.jspa
     intro: "Jira-Atlassian."
     icon: "fa fa-th"
   
+  # Personal
   - title: "S-CHAN Facebook"
     url: https://www.facebook.com/schan.choi.48
     intro: "My Facebook account."
