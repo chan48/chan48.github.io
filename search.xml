@@ -100,6 +100,12 @@
   
     
     <entry>
+      <title><![CDATA[Tags]]></title>
+      <url>/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[About]]></title>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[
@@ -110,12 +116,6 @@ Something about me. ;-)
     <entry>
       <title><![CDATA[Categories]]></title>
       <url>/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Tags]]></title>
-      <url>/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
