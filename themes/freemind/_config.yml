@@ -42,6 +42,10 @@ links:
     url: http://fontawesome.io/icons/
     intro: "Awesome icon."
     icon: "fa fa-file-image-o"
+  - title: "QuickMockup"
+    url: https://jdittrich.github.io/quickMockup/
+    intro: "QuickMockup."
+    icon: "fa fa-picture-o"
   - title: "Taskworld-as-trello"
     url: https://enterprise.taskworld.com/s-chan/#/projects
     intro: "Taskworld-as-trello."
