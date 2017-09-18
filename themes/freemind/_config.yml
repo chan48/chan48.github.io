@@ -79,6 +79,10 @@ links:
     url: https://stackoverflow.com/documentation/
     intro: "StackOverFlow-Doc."
     icon: "fa fa-stack-overflow"
+  - title: "Jira-Atlassian"
+    url: https://quiz-aws.atlassian.net/secure/Dashboard.jspa
+    intro: "Jira-Atlassian."
+    icon: "fa fa-th"
 
   - title: "S-CHAN Facebook"
     url: https://www.facebook.com/schan.choi.48
