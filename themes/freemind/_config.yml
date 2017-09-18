@@ -62,11 +62,23 @@ links:
     url: https://qwiklabs.com/catalog
     intro: "AWS-Study."
     icon: "fa fa-cloud"
+  - title: "AWS-IAM"
+    url: https://console.aws.amazon.com/iam/
+    intro: "Amazon-AWS-IAM."
+    icon: "fa fa-cloud"
+  - title: "AWS-CODEPIPELINE"
+    url: http://docs.aws.amazon.com/ko_kr/codepipeline/latest/userguide/welcome.html
+    intro: "AWS-CODEPIPELINE."
+    icon: "fa fa-book"
+  - title: "AWS-DOCs"
+    url: http://docs.aws.amazon.com/ko_kr/codecommit/latest/userguide/welcome.html
+    intro: "AWS-DOCs."
+    icon: "fa fa-book"
+  - title: "AWS-DevOpsBlog"
+    url: https://brunch.co.kr/magazine/devops
+    intro: "AWS-DevOpsBlog."
+    icon: "fa fa-book"
 
-  - title: "CodeWars"
-    url: https://www.codewars.com/users/chan48
-    intro: "CodeWars."
-    icon: "fa fa-code"
   - title: "Cloud9-IDE"
     url: https://c9.io/chan48
     intro: "Cloud9-IDE."
@@ -75,10 +87,14 @@ links:
     url: https://codingtest.goorm.io/
     intro: "Goorm-TEST."
     icon: "fa fa-terminal"
+  - title: "CodeWars"
+    url: https://www.codewars.com/users/chan48
+    intro: "CodeWars."
+    icon: "fa fa-code"
   - title: "Hacker-rank"
     url: https://www.hackerrank.com/dashboard
     intro: "Hacker-rank."
-    icon: "fa fa-hacker-news"
+    icon: "fa fa-code"
   - title: "FreecodeCamp"
     url: https://www.freecodecamp.org/chan48
     intro: "FreecodeCamp."
@@ -91,23 +107,7 @@ links:
     url: https://quiz-aws.atlassian.net/secure/Dashboard.jspa
     intro: "Jira-Atlassian."
     icon: "fa fa-th"
-  - title: "Amazon-AWS-IAM"
-    url: https://console.aws.amazon.com/iam/
-    intro: "Amazon-AWS-IAM."
-    icon: "fa fa-amazon"
-  - title: "Amazon-AWS-CODEPIPELINE"
-    url: http://docs.aws.amazon.com/ko_kr/codepipeline/latest/userguide/welcome.html
-    intro: "Amazon-AWS-CODEPIPELINE."
-    icon: "fa fa-amazon"
-  - title: "Amazon-AWS-DOCs"
-    url: http://docs.aws.amazon.com/ko_kr/codecommit/latest/userguide/welcome.html
-    intro: "Amazon-AWS-DOCs."
-    icon: "fa fa-amazon"
-  - title: "Amazon-AWS-DevOpsBlog"
-    url: https://brunch.co.kr/magazine/devops
-    intro: "Amazon-AWS-DevOpsBlog."
-    icon: "fa fa-amazon"
-
+  
   - title: "S-CHAN Facebook"
     url: https://www.facebook.com/schan.choi.48
     intro: "My Facebook account."
