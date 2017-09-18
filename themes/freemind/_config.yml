@@ -59,6 +59,14 @@ links:
     url: https://www.codewars.com/users/chan48
     intro: "CodeWars."
     icon: "fa fa-code"
+  - title: "Cloud9-IDE"
+    url: https://c9.io/chan48
+    intro: "Cloud9-IDE."
+    icon: "fa fa-terminal"
+  - title: "Goorm-IDE-TEST"
+    url: https://codingtest.goorm.io/
+    intro: "Goorm-TEST."
+    icon: "fa fa-terminal"
   - title: "Hacker-rank"
     url: https://www.hackerrank.com/dashboard
     intro: "Hacker-rank."
@@ -67,6 +75,10 @@ links:
     url: https://www.freecodecamp.org/chan48
     intro: "FreecodeCamp."
     icon: "fa fa-list-alt"
+  - title: "StackOver-Doc"
+    url: https://stackoverflow.com/documentation/
+    intro: "StackOverFlow-Doc."
+    icon: "fa fa-stack-overflow"
 
   - title: "S-CHAN Facebook"
     url: https://www.facebook.com/schan.choi.48
