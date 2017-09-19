@@ -42,7 +42,7 @@ published: true
 ---
 # 9월 19일 (화)
 
-- Taskworld Kaban (like trello) 모듈 작업계획 수정갱신 및 일정에 따른 학습/작업 우선순위 고민 해보기
+- Taskworld Kanban (like trello) 모듈 작업계획 수정갱신 및 일정에 따른 학습/작업 우선순위 고민 해보기
 - Quiz-AWS Project study
 > FrontEnd Study > [Codecademy Pro Intensive > Build Front-End Web Apps](https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbwa) : From Day 9 ~ 
 > BackEnd Study > About AWS > [serverless-with-graphql](https://acloud.guru/learn/serverless-with-graphql): Day 1 (CHAPTER 1> Section 1) 
