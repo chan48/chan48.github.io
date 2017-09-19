@@ -91,6 +91,10 @@ links:
     url: http://docs.aws.amazon.com/ko_kr/codecommit/latest/userguide/welcome.html
     intro: "AWS-DOCs-CODECOMMIT."
     icon: "fa fa-book"
+  - title: "AWS-DOCs-CLI"
+    url: http://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-help.html
+    intro: "AWS-DOCs-CLI."
+    icon: "fa fa-book"
   - title: "AWS-DOCs-CODEPIPELINE"
     url: http://docs.aws.amazon.com/ko_kr/codepipeline/latest/userguide/welcome.html
     intro: "AWS-CODEPIPELINE."
