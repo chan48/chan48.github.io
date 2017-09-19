@@ -83,6 +83,10 @@ links:
     url: https://hexo.io/ko/docs/asset-folders.html
     intro: "HEXO-DOCs."
     icon: "fa fa-book"
+  - title: "GIT-DOCs"
+    url: https://git-scm.com/docs
+    intro: "GIT-DOCs."
+    icon: "fa fa-book"
   - title: "AWS-DOCs"
     url: http://docs.aws.amazon.com/ko_kr/codecommit/latest/userguide/welcome.html
     intro: "AWS-DOCs-CODECOMMIT."
