@@ -45,7 +45,15 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
 
-### List Tests (들여쓰기-tab)
+### Alias Generate & Deploy (My Customizing)
+
+``` bash
+$ npm run git-up
+$ npm run deploy
+$ npm run git-pull
+```
+
+### 들여쓰기 Tests (list-tab)
 > 
 - test1
 	- **test2** 
