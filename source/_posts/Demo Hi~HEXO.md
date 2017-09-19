@@ -102,11 +102,11 @@ $ npm run git-pull
 ### Mind42 > 
 ```js
 // embed code
-<iframe width='640' height='480' frameborder='0' src='https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed'></iframe>
+<iframe width='860' height='780' frameborder='0' src='https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed'></iframe>
 ```
 ---
 #### Example > 
-<iframe width='640' height='480' frameborder='0' src='https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed'></iframe>
+<iframe width='860' height='780' frameborder='0' src='https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed'></iframe>
 
 
 
