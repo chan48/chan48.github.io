@@ -78,7 +78,11 @@ links:
     url: https://brunch.co.kr/magazine/devops
     intro: "AWS-DevOpsBlog."
     icon: "fa fa-book"
-
+  
+  - title: "HEXO-DOCs"
+    url: https://hexo.io/ko/docs/asset-folders.html
+    intro: "HEXO-DOCs."
+    icon: "fa fa-book"
   - title: "AWS-DOCs"
     url: http://docs.aws.amazon.com/ko_kr/codecommit/latest/userguide/welcome.html
     intro: "AWS-DOCs-CODECOMMIT."
