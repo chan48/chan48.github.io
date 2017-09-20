@@ -62,6 +62,19 @@ links:
     icon: "fa fa-star"
 
   # AWS plus
+  - title: "AWS-Whitepapers"
+    url: https://aws.amazon.com/ko/whitepapers/
+    intro: "AWS-Whitepapers."
+    icon: "fa fa-cloud"
+  - title: "AWS-Webinar"
+    url: https://aws.amazon.com/ko/blogs/korea/category/webinar/
+    intro: "AWS-Webinar."
+    icon: "fa fa-cloud"
+  - title: "AWSKR-SlideShare"
+    url: https://www.slideshare.net/awskorea/presentations
+    intro: "AWSKR-SlideShare."
+    icon: "fa fa-cloud"
+
   - title: "AWS-HandsOn"
     url: https://qwiklabs.com/catalog
     intro: "AWS-Study."

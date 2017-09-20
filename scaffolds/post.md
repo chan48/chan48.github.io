@@ -2,8 +2,11 @@
 title: {{ title }} 
 date: {{ date }}
 description: ""
-categories:
+lang: kr
 tags: []
+categories:
+-
+
 toc: true
 
 ---

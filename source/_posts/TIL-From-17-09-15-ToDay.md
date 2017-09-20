@@ -1,10 +1,12 @@
 ---
 title: TIL-From-17-09-15-ToDay
 description: "TIL Log 입니다. 오늘 한 일을 기록합니다."
-toc: true
+lang: kr
 date: 2017-09-15 22:04:10
-categories: TIL
+categories: 
+- TIL
 tags: [TIL-LOG, AWS, PROJECT, qiuzAWS, serverless, graghQL]
+toc: true
 published: true
 ---
 

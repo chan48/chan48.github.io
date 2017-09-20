@@ -27,6 +27,9 @@
   },
   "scripts": {
     "start": "node node_modules/hexo/bin/hexo server -w",
+    "n-post": "hexo n demo-post --lang kr",
+    "p-post": "hexo p demo-post",
+    "g": "node node_modules/hexo/bin/hexo clean && node node_modules/hexo/bin/hexo g",
     "deploy": "node node_modules/hexo/bin/hexo clean && node node_modules/hexo/bin/hexo d --generate",
     "git-pull": "git pull origin gh-pages",
     "git-up": "git add . && git commit -m \"update on `date +\"%Y/%m/%d %H:%M:%S\"`\" && git push origin gh-pages"
