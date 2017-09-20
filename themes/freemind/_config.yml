@@ -112,6 +112,16 @@ links:
     url: http://docs.aws.amazon.com/ko_kr/Route53/latest/APIReference/Welcome.html
     intro: "AWS-DOCs-Route53."
     icon: "fa fa-book"
+
+  - title: "AWS-DOCs-VPC"
+    url: http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_Introduction.html
+    intro: "AWS-DOCs-VPC."
+    icon: "fa fa-book"
+  - title: "AWS-DOCs-CloudFormation"
+    url: http://docs.aws.amazon.com/ko_kr/AWSCloudFormation/latest/UserGuide/Welcome.html
+    intro: "AWS-DOCs-CloudFormation."
+    icon: "fa fa-book"
+
   - title: "AWS-DOCs-ELB"
     url: http://docs.aws.amazon.com/ko_kr/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html
     intro: "AWS-DOCs-ELB."
