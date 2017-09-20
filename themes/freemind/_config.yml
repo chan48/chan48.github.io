@@ -97,10 +97,7 @@ links:
     url: https://git-scm.com/docs
     intro: "GIT-DOCs."
     icon: "fa fa-book"
-  - title: "AWS-DOCs"
-    url: http://docs.aws.amazon.com/ko_kr/codecommit/latest/userguide/welcome.html
-    intro: "AWS-DOCs-CODECOMMIT."
-    icon: "fa fa-book"
+  
   - title: "AWS-DOCs-CLI"
     url: http://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-help.html
     intro: "AWS-DOCs-CLI."
@@ -146,7 +143,7 @@ links:
     icon: "fa fa-book"
 
   - title: "MDN-JS-DOC"
-    url: https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects
+    url: https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/
     intro: "MDN-JS-Doc."
     icon: "fa fa-book"
   - title: "Coffee-DOCs"
@@ -154,7 +151,7 @@ links:
     intro: "Coffeescript-DOCs."
     icon: "fa fa-book"
   - title: "Python-DOC"
-    url: https://docs.python.org/3/
+    url: https://docs.python.org/3.5/library/functions.html
     intro: "Python-Doc."
     icon: "fa fa-book"
   
