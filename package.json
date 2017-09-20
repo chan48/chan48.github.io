@@ -27,7 +27,7 @@
   },
   "scripts": {
     "start": "node node_modules/hexo/bin/hexo server -w",
-    "n-post": "hexo n demo-post --lang kr",
+    "n-post": "hexo n demo-post",
     "p-post": "hexo p demo-post",
     "g": "node node_modules/hexo/bin/hexo clean && node node_modules/hexo/bin/hexo g",
     "deploy": "node node_modules/hexo/bin/hexo clean && node node_modules/hexo/bin/hexo d --generate",

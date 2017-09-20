@@ -2,7 +2,6 @@
 title: {{ title }} 
 date: {{ date }}
 description: ""
-lang: kr
 tags: []
 categories:
 -
