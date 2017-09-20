@@ -17,7 +17,7 @@ root: /
 # permalink: :category/:lang/:title
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-  lang: en
+  # lang: en
   # lang: kr
 
 # Directory
