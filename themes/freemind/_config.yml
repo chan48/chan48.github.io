@@ -128,9 +128,30 @@ links:
     url: http://devdocs.io/
     intro: "Dev-Doc."
     icon: "fa fa-book"
+  - title: "React-DOCs"
+    url: https://facebook.github.io/react/docs/components-and-props.html
+    intro: "React-DOCs."
+    icon: "fa fa-book"
+  - title: "Node-DOCs"
+    url: https://nodejs.org/api/synopsis.html
+    intro: "Node-DOCs."
+    icon: "fa fa-book"
+  - title: "Node-Expressjs-DOCs"
+    url: http://expressjs.com/ko/4x/api.html
+    intro: "Node>Expressjs-DOCs."
+    icon: "fa fa-book"
+  - title: "MeteorPlatform-DOCs"
+    url: https://guide.meteor.com/
+    intro: "MeteorPlatform-DOCs."
+    icon: "fa fa-book"
+
   - title: "MDN-JS-DOC"
     url: https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects
     intro: "MDN-JS-Doc."
+    icon: "fa fa-book"
+  - title: "Coffee-DOCs"
+    url: http://coffeescript.org/#functions
+    intro: "Coffeescript-DOCs."
     icon: "fa fa-book"
   - title: "Python-DOC"
     url: https://docs.python.org/3/
@@ -166,6 +187,10 @@ links:
     url: https://www.codecademy.com/learn
     intro: "Codecademy."
     icon: "fa fa-list-alt"
+  - title: "RecursionJS"
+    url: https://www.codecademy.com/courses/javascript-lesson-205/0/1
+    intro: "RecursionJS."
+    icon: "fa fa-list-alt"
   - title: "Udacity"
     url: https://classroom.udacity.com/me
     intro: "Udacity."
@@ -184,10 +209,19 @@ links:
     url: https://c9.io/chan48
     intro: "Cloud9-IDE."
     icon: "fa fa-terminal"
-  - title: "Goorm-IDE-TEST"
+  - title: "Goorm-TEST"
     url: https://codingtest.goorm.io/
     intro: "Goorm-TEST."
     icon: "fa fa-terminal"
+  - title: "Jupyterhub"
+    url: https://play.dobest.io/hub/login
+    intro: "Jupyterhub."
+    icon: "fa fa-terminal"
+  - title: "Plotly-DataVisualizePy"
+    url: https://plot.ly/python/ipython-notebook-tutorial/#3d-plotting
+    intro: "Plotly-DataVisualize."
+    icon: "fa fa-eye"
+
   - title: "CodeWars"
     url: https://www.codewars.com/users/chan48
     intro: "CodeWars."
@@ -200,7 +234,7 @@ links:
     url: https://codepen.io/ch9/
     intro: "My CODE-PEN."
     icon: "fa fa-codepen"
-    
+
   - title: "YouTuberDev-codespitz"
     url: https://www.youtube.com/user/as3as3as3as3/feed
     intro: "YouTuberDev-codespitz."
@@ -208,6 +242,14 @@ links:
   - title: "YouTuberDev-velopert"
     url: https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg/featured
     intro: "YouTuberDev-velopert."
+    icon: "fa fa-youtube-play"
+  - title: "YouTuberDev-Meteor-Tutorial"
+    url: https://www.youtube.com/watch?v=BI8IslJHSag&list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V
+    intro: "YouTuberDev-Meteor-Tutorial."
+    icon: "fa fa-youtube-play"
+  - title: "FramerjsByCoffee-Tutorial"
+    url: https://www.udemy.com/framerjs-prototyping-design-interaction-animation/learn/v4/content
+    intro: "FramerjsByCoffee-Tutorial."
     icon: "fa fa-youtube-play"
 
   - title: "CodingInterView-1"
