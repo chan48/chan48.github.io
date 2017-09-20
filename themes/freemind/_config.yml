@@ -79,7 +79,7 @@ links:
     intro: "AWSKR-SlideShare."
     icon: "fa fa-cloud"
 
-  - title: "AWS-HandsOn"
+  - title: "AWS-HandsOn-Qwiklabs"
     url: https://qwiklabs.com/catalog
     intro: "AWS-Study."
     icon: "fa fa-cloud"
