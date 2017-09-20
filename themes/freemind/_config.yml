@@ -157,6 +157,16 @@ links:
     url: https://www.hackerrank.com/dashboard
     intro: "Hacker-rank."
     icon: "fa fa-code"
+
+  - title: "CodingInterView-1"
+    url: https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ
+    intro: "CodingInterView-1."
+    icon: "fa fa-youtube-play"
+  - title: "CodingInterView-2"
+    url: https://www.youtube.com/playlist?list=PLVNY1HnUlO24RlncfRjfoZHnD0YWVsvhq&v=piDwgBqmqKM
+    intro: "CodingInterView-2."
+    icon: "fa fa-youtube-play"
+
   - title: "StackOver-Doc"
     url: https://stackoverflow.com/documentation/
     intro: "StackOverFlow-Doc."
