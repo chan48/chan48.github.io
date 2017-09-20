@@ -30,10 +30,7 @@ links:
     url: https://dynalist.io/
     intro: "Editing-Dynalist."
     icon: "fa fa-pencil-square-o"
-  - title: "CODE-PEN"
-    url: https://codepen.io/ch9/
-    intro: "My CODE-PEN."
-    icon: "fa fa-codepen"
+  
   - title: "Markdown-Mastering"
     url: https://guides.github.com/features/mastering-markdown/#examples
     intro: "My Linkin account."
@@ -140,42 +137,6 @@ links:
     intro: "Python-Doc."
     icon: "fa fa-book"
   
-  # IDE+
-  - title: "Cloud9-IDE"
-    url: https://c9.io/chan48
-    intro: "Cloud9-IDE."
-    icon: "fa fa-terminal"
-  - title: "Goorm-IDE-TEST"
-    url: https://codingtest.goorm.io/
-    intro: "Goorm-TEST."
-    icon: "fa fa-terminal"
-  - title: "CodeWars"
-    url: https://www.codewars.com/users/chan48
-    intro: "CodeWars."
-    icon: "fa fa-code"
-  - title: "Hacker-rank"
-    url: https://www.hackerrank.com/dashboard
-    intro: "Hacker-rank."
-    icon: "fa fa-code"
-
-  - title: "CodingInterView-1"
-    url: https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ
-    intro: "CodingInterView-1."
-    icon: "fa fa-youtube-play"
-  - title: "CodingInterView-2"
-    url: https://www.youtube.com/playlist?list=PLVNY1HnUlO24RlncfRjfoZHnD0YWVsvhq&v=piDwgBqmqKM
-    intro: "CodingInterView-2."
-    icon: "fa fa-youtube-play"
-
-  - title: "YouTuberDev-codespitz"
-    url: https://www.youtube.com/user/as3as3as3as3/feed
-    intro: "YouTuberDev-codespitz."
-    icon: "fa fa-youtube-play"
-  - title: "YouTuberDev-velopert"
-    url: https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg/featured
-    intro: "YouTuberDev-velopert."
-    icon: "fa fa-youtube-play"
-
   - title: "StackOver-Doc"
     url: https://stackoverflow.com/documentation/
     intro: "StackOverFlow-Doc."
@@ -217,6 +178,46 @@ links:
     url: http://academy.nomadcoders.co/courses/enrolled
     intro: "Nomadcoders."
     icon: "fa fa-list-alt"
+  
+  # IDE+
+  - title: "Cloud9-IDE"
+    url: https://c9.io/chan48
+    intro: "Cloud9-IDE."
+    icon: "fa fa-terminal"
+  - title: "Goorm-IDE-TEST"
+    url: https://codingtest.goorm.io/
+    intro: "Goorm-TEST."
+    icon: "fa fa-terminal"
+  - title: "CodeWars"
+    url: https://www.codewars.com/users/chan48
+    intro: "CodeWars."
+    icon: "fa fa-code"
+  - title: "Hacker-rank"
+    url: https://www.hackerrank.com/dashboard
+    intro: "Hacker-rank."
+    icon: "fa fa-code"
+  - title: "CODE-PEN"
+    url: https://codepen.io/ch9/
+    intro: "My CODE-PEN."
+    icon: "fa fa-codepen"
+    
+  - title: "YouTuberDev-codespitz"
+    url: https://www.youtube.com/user/as3as3as3as3/feed
+    intro: "YouTuberDev-codespitz."
+    icon: "fa fa-youtube-play"
+  - title: "YouTuberDev-velopert"
+    url: https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg/featured
+    intro: "YouTuberDev-velopert."
+    icon: "fa fa-youtube-play"
+
+  - title: "CodingInterView-1"
+    url: https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ
+    intro: "CodingInterView-1."
+    icon: "fa fa-youtube-play"
+  - title: "CodingInterView-2"
+    url: https://www.youtube.com/playlist?list=PLVNY1HnUlO24RlncfRjfoZHnD0YWVsvhq&v=piDwgBqmqKM
+    intro: "CodingInterView-2."
+    icon: "fa fa-youtube-play"
   
   # Personal
   - title: "S-CHAN Facebook"
