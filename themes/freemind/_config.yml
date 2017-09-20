@@ -232,10 +232,6 @@ links:
     url: https://play.dobest.io/hub/login
     intro: "Jupyterhub."
     icon: "fa fa-terminal"
-  - title: "Plotly-DataVisualizePy"
-    url: https://plot.ly/python/ipython-notebook-tutorial/#3d-plotting
-    intro: "Plotly-DataVisualize."
-    icon: "fa fa-eye"
 
   - title: "CodeWars"
     url: https://www.codewars.com/users/chan48
@@ -249,6 +245,10 @@ links:
     url: https://codepen.io/ch9/
     intro: "My CODE-PEN."
     icon: "fa fa-codepen"
+  - title: "Plotly-DataVisualizePy"
+    url: https://plot.ly/python/ipython-notebook-tutorial/#3d-plotting
+    intro: "Plotly-DataVisualize."
+    icon: "fa fa-eye"
 
   - title: "YouTuberDev-codespitz"
     url: https://www.youtube.com/user/as3as3as3as3/feed
