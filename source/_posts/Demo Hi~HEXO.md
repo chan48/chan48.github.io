@@ -74,18 +74,19 @@ $ npm run git-pull
 
 ## Insert Etc. code & embed 
 
-### SlideShare > 
-
+### SlideShare >
 ```js
 // embed code
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3G6d3GWSW3COF4" width="860" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/awskorea/aws-code-star-devops" title="AWS 6월 웨비나 | AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)" target="_blank">AWS 6월 웨비나 | AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)</a> </strong> from <strong><a href="https://www.slideshare.net/awskorea" target="_blank">Amazon Web Services Korea</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3G6d3GWSW3COF4" width="860" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 ```
+
 #### Example >
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3G6d3GWSW3COF4" width="860" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/awskorea/aws-code-star-devops" title="AWS 6월 웨비나 | AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)" target="_blank">AWS 6월 웨비나 | AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)</a> </strong> from <strong><a href="https://www.slideshare.net/awskorea" target="_blank">Amazon Web Services Korea</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3G6d3GWSW3COF4" width="860" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
-### Gist > 
+[AWS 6월 웨비나  AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)](https://www.slideshare.net/awskorea/aws-code-star-devops)
 
+### Gist >
 ```js
 //code
 {% gist chan48/ec4c9293a5e14b88a7778692c3e64c56 %}
