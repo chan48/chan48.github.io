@@ -121,6 +121,10 @@ links:
     url: http://docs.aws.amazon.com/ko_kr/AWSCloudFormation/latest/UserGuide/Welcome.html
     intro: "AWS-DOCs-CloudFormation."
     icon: "fa fa-book"
+  - title: "AWS-DOCs-CloudWatch"
+    url: http://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html
+    intro: "AWS-DOCs-CloudWatch."
+    icon: "fa fa-book"
 
   - title: "AWS-DOCs-ELB"
     url: http://docs.aws.amazon.com/ko_kr/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html
