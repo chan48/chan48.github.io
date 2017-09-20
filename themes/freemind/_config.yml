@@ -246,6 +246,10 @@ links:
     url: https://play.dobest.io/hub/login
     intro: "Jupyterhub."
     icon: "fa fa-terminal"
+  - title: "Yaml-parser"
+    url: http://yaml-online-parser.appspot.com/
+    intro: "Yaml-parser."
+    icon: "fa fa-terminal"
 
   - title: "CodeWars"
     url: https://www.codewars.com/users/chan48
