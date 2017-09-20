@@ -55,7 +55,11 @@ links:
   - title: "Mind42-MindMap"
     url: https://mind42.com/
     intro: "Mind42-MindMap."
-    icon: "fa fa-map-marker"
+    icon: "fa fa-sitemap"
+  - title: "Jira-Atlassian"
+    url: https://quiz-aws.atlassian.net/secure/Dashboard.jspa
+    intro: "Jira-Atlassian."
+    icon: "fa fa-th"
   - title: "Awesome-devblog"
     url: https://github.com/sarojaba/awesome-devblog
     intro: "Awesome-devblog."
@@ -83,10 +87,6 @@ links:
     url: https://console.aws.amazon.com/iam/
     intro: "Amazon-AWS-IAM."
     icon: "fa fa-cloud"
-  - title: "Jira-Atlassian"
-    url: https://quiz-aws.atlassian.net/secure/Dashboard.jspa
-    intro: "Jira-Atlassian."
-    icon: "fa fa-th"
   - title: "AWS-DevOpsBlog"
     url: https://brunch.co.kr/magazine/devops
     intro: "AWS-DevOpsBlog."
@@ -167,6 +167,15 @@ links:
     intro: "CodingInterView-2."
     icon: "fa fa-youtube-play"
 
+  - title: "YouTuberDev-codespitz"
+    url: https://www.youtube.com/user/as3as3as3as3/feed
+    intro: "YouTuberDev-codespitz."
+    icon: "fa fa-youtube-play"
+  - title: "YouTuberDev-velopert"
+    url: https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg/featured
+    intro: "YouTuberDev-velopert."
+    icon: "fa fa-youtube-play"
+
   - title: "StackOver-Doc"
     url: https://stackoverflow.com/documentation/
     intro: "StackOverFlow-Doc."
@@ -174,6 +183,39 @@ links:
   - title: "FreecodeCamp"
     url: https://www.freecodecamp.org/chan48
     intro: "FreecodeCamp."
+    icon: "fa fa-list-alt"
+  - title: "AcloudGuru"
+    url: https://acloud.guru/courses
+    intro: "AcloudGuru."
+    icon: "fa fa-list-alt"
+
+  - title: "Udemy"
+    url: https://www.udemy.com/home/my-courses/learning/
+    intro: "Udemy."
+    icon: "fa fa-list-alt"
+  - title: "Inflearn"
+    url: https://www.inflearn.com/members/chan-3/course/
+    intro: "Inflearn."
+    icon: "fa fa-list-alt"
+  - title: "AskDjango"
+    url: https://nomade.kr/accounts/
+    intro: "AskDjango."
+    icon: "fa fa-list-alt"
+  - title: "Codecademy"
+    url: https://www.codecademy.com/learn
+    intro: "Codecademy."
+    icon: "fa fa-list-alt"
+  - title: "Udacity"
+    url: https://classroom.udacity.com/me
+    intro: "Udacity."
+    icon: "fa fa-list-alt"  
+  - title: "생활코딩"
+    url: https://opentutorials.org/course/2136
+    intro: "생활코딩."
+    icon: "fa fa-list-alt"
+  - title: "Nomadcoders"
+    url: http://academy.nomadcoders.co/courses/enrolled
+    intro: "Nomadcoders."
     icon: "fa fa-list-alt"
   
   # Personal
