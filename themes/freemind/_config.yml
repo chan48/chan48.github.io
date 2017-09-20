@@ -41,17 +41,21 @@ links:
   - title: "Markdown-Mastering"
     url: https://guides.github.com/features/mastering-markdown/#examples
     intro: "My Linkin account."
-    icon: "fa fa-file-text"  
+    icon: "fa fa-file-text" 
+  - title: "QuickMockup"
+    url: https://jdittrich.github.io/quickMockup/
+    intro: "QuickMockup."
+    icon: "fa fa-picture-o" 
   - title: "Awesome-Icon"
     url: http://fontawesome.io/icons/
     intro: "Awesome icon."
     icon: "fa fa-file-image-o"
+  - title: "Awesome-Vim"
+    url: https://vimawesome.com/
+    intro: "Awesome-Vim."
+    icon: "fa fa-plug"
 
   # Devtool
-  - title: "QuickMockup"
-    url: https://jdittrich.github.io/quickMockup/
-    intro: "QuickMockup."
-    icon: "fa fa-picture-o"
   - title: "Taskworld-as-trello"
     url: https://enterprise.taskworld.com/s-chan/#/projects
     intro: "Taskworld-as-trello."
@@ -140,7 +144,7 @@ links:
     icon: "fa fa-book"
 
   - title: "AWS-DOCs-APIGATEWAY"
-    url: http://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/welcome.html
+    url: http://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/api-gateway-set-up-simple-proxy.html#api-gateway-simple-proxy-for-lambda-input-format
     intro: "AWS-APIGATEWAY."
     icon: "fa fa-book"
   - title: "AWS-DOCs-LAMBDA"
@@ -148,8 +152,12 @@ links:
     intro: "AWS-DOCs-LAMBDA."
     icon: "fa fa-book"
   - title: "Serverless-DOCs"
-    url: https://serverless.com/framework/docs/providers/aws/
+    url: https://serverless.com/framework/docs/providers/aws/guide/serverless.yml/
     intro: "Serverless-DOCs."
+    icon: "fa fa-book"
+  - title: "RESTpatterns-DOCs"
+    url: https://restpatterns.mindtouch.us/HTTP_Status_Codes
+    intro: "Restpatterns-DOCs."
     icon: "fa fa-book"
 
   # DOCs plus
