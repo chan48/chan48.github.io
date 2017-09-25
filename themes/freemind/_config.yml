@@ -68,6 +68,14 @@ links:
     url: https://quiz-aws.atlassian.net/secure/Dashboard.jspa
     intro: "Jira-Atlassian."
     icon: "fa fa-th"
+  - title: "12 Factor-APP"
+    url: https://12factor.net/ko/
+    intro: "12factor-APP."
+    icon: "fa fa-th"
+  - title: "Salary-Calculate"
+    url: https://stackoverflow.com/jobs/salary
+    intro: "Salary-Calculate."
+    icon: "fa fa-th"
   - title: "Awesome-devblog"
     url: https://github.com/sarojaba/awesome-devblog
     intro: "Awesome-devblog."
@@ -95,6 +103,10 @@ links:
     url:  https://com-chan.signin.aws.amazon.com/console
     intro: "Amazon-AWS-IAM."
     icon: "fa fa-cloud"
+  - title: "AWS IAM Reference"
+    url: https://iam.cloudonaut.io/
+    intro: "AWS IAM Reference."
+    icon: "fa fa-book"
   - title: "AWS-DevOpsBlog"
     url: https://brunch.co.kr/magazine/devops
     intro: "AWS-DevOpsBlog."
@@ -159,6 +171,14 @@ links:
     url: https://restpatterns.mindtouch.us/HTTP_Status_Codes
     intro: "Restpatterns-DOCs."
     icon: "fa fa-book"
+  - title: "Graphql-DOCs"
+    url: http://graphql.org/learn/
+    intro: "Graphql-DOCs-DOCs."
+    icon: "fa fa-book"
+  - title: "Vulcanjs-DOCs"
+    url: http://docs.vulcanjs.org/index.html
+    intro: "Vulcanjs-DOCs."
+    icon: "fa fa-book"
 
   # DOCs plus
   - title: "Dev-DOCs"
@@ -186,6 +206,14 @@ links:
     url: https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/
     intro: "MDN-JS-Doc."
     icon: "fa fa-book"
+  - title: "Javascript-Info"
+    url: https://javascript.info/
+    intro: "Javascript-Info."
+    icon: "fa fa-book"
+  - title: "Web-Boss-JS-ES6"
+    url: https://es6.io/
+    intro: "Web-Boss-JS-ES6."
+    icon: "fa fa-book"
   - title: "Coffee-DOCs"
     url: http://coffeescript.org/#functions
     intro: "Coffeescript-DOCs."
@@ -203,6 +231,10 @@ links:
     url: https://www.freecodecamp.org/chan48
     intro: "FreecodeCamp."
     icon: "fa fa-list-alt"
+  - title: "Hacker-Noon"
+    url: https://hackernoon.com/javascript/home
+    intro: "Hacker-Noon."
+    icon: "fa fa-list-alt"
   - title: "AcloudGuru"
     url: https://acloud.guru/courses
     intro: "AcloudGuru."
@@ -216,9 +248,13 @@ links:
     url: https://www.inflearn.com/members/chan-3/course/
     intro: "Inflearn."
     icon: "fa fa-list-alt"
-  - title: "AskDjango"
+  - title: "AskDjango-PY"
     url: https://nomade.kr/accounts/
     intro: "AskDjango."
+    icon: "fa fa-list-alt"
+  - title: "Nomadcoders-PY"
+    url: http://academy.nomadcoders.co/courses/enrolled
+    intro: "Nomadcoders."
     icon: "fa fa-list-alt"
   - title: "Codecademy"
     url: https://www.codecademy.com/learn
@@ -232,14 +268,23 @@ links:
     url: https://classroom.udacity.com/me
     intro: "Udacity."
     icon: "fa fa-list-alt"  
+  - title: "Coursera"
+    url: https://www.coursera.org/
+    intro: "Coursera."
+    icon: "fa fa-list-alt"
+  - title: "EDX"
+    url: https://www.edx.org/
+    intro: "EDX."
+    icon: "fa fa-list-alt"
   - title: "생활코딩"
     url: https://opentutorials.org/course/2136
     intro: "생활코딩."
     icon: "fa fa-list-alt"
-  - title: "Nomadcoders"
-    url: http://academy.nomadcoders.co/courses/enrolled
-    intro: "Nomadcoders."
+  - title: "칸아카데미"
+    url: https://ko.khanacademy.org/computing
+    intro: "칸아카데미."
     icon: "fa fa-list-alt"
+  
   
   # IDE+
   - title: "Cloud9-IDE"
