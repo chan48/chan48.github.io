@@ -3,6 +3,74 @@
   
     
     <entry>
+      <title><![CDATA[TIL-From-17-09-20-ToDay]]></title>
+      <url>/2017/09/25/TIL-From-17-09-20-ToDay/</url>
+      <content type="html"><![CDATA[<h1 id="9weol-20il-su"><a href="#9weol-20il-su" class="header-anchor">1. </a><a href="#9월-20일-수" class="headerlink" title="9월 20일 (수)"></a>9월 20일 (수)</h1><ul>
+<li><p>Quiz-AWS Project Work&amp; Study</p>
+<blockquote>
+<p>FrontEnd Study &gt; <a href="https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbwa" target="_blank" rel="external">Codecademy Pro Intensive &gt; Build Front-End Web Apps</a> : Day 9 ~ Day 13</p>
+<ul>
+<li>아직까지 어려운 내용은 없으나 조금씩 진도가 밀리기 시작했음</li>
+<li>역시 스터디와 프로젝트 병행하며 1달 내에 프로젝트를 완성하는 것은 조금 무리인듯 함.</li>
+</ul>
+<p>BackEnd Study &gt; About AWS &gt; <a href="https://acloud.guru/learn/serverless-with-graphql" target="_blank" rel="external">serverless-with-graphql</a>: Section 1 ~ Section 3</p>
+<ul>
+<li>Graphql 내용이 아직 잘 이해가 잘 안됨, 일단 전체를 빠르게 x1.3 배속으로 보고 있음</li>
+</ul>
+</blockquote>
+</li>
+</ul>
+<hr>
+<h1 id="9weol-21il-mog"><a href="#9weol-21il-mog" class="header-anchor">2. </a><a href="#9월-21일-목" class="headerlink" title="9월 21일 (목)"></a>9월 21일 (목)</h1><ul>
+<li>AWS DevDay &amp; Community Day 행사참여 <blockquote>
+<p><a href="https://www.facebook.com/sangjae.shin/posts/1589297184424803" target="_blank" rel="external">Serverless 로 구현한 AWS project 데모가 흥미로웠음</a> </p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<h1 id="9weol-22il-geum"><a href="#9weol-22il-geum" class="header-anchor">3. </a><a href="#9월-22일-금" class="headerlink" title="9월 22일 (금)"></a>9월 22일 (금)</h1><ul>
+<li><p>Quiz-AWS Project Work&amp; Study</p>
+<blockquote>
+<p>BackEnd Study &gt; About AWS &gt; <a href="https://acloud.guru/learn/serverless-with-graphql" target="_blank" rel="external">serverless-with-graphql</a>: Section 4 ~ Section 6 (완강)</p>
+<ul>
+<li>전체를 완강하였으나 graphql 대한 내용이 바로 와닿지 않음, 소스코드를 보고 좀 더 연구를 ㅠ.ㅜ </li>
+<li>Serverless 리소스 배포를 위해선 CloudFormation 을 추가로 공부해야 할 필요가 ㅠ.ㅜ </li>
+</ul>
+<p>Project repo 설정:  AWS codecommit 을 메인 remote repo 로 사용하되 github 을 추가 Repo 로 설정 (<em>동시에 push 되도록 설정, Second 는 push only</em>)</p>
+<ul>
+<li>REF. <a href="http://docs.aws.amazon.com/ko_kr/codecommit/latest/userguide/how-to-mirror-repo-pushes.html" target="_blank" rel="external">Main &amp; Second 추가 repo 설정</a> </li>
+</ul>
+</blockquote>
+</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> TIL </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> TIL-LOG </tag>
+            
+            <tag> AWS </tag>
+            
+            <tag> PROJECT </tag>
+            
+            <tag> qiuzAWS </tag>
+            
+            <tag> serverless </tag>
+            
+            <tag> graghQL </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[TIL-From-17-09-15-ToDay]]></title>
       <url>/2017/09/15/TIL-From-17-09-15-ToDay/</url>
       <content type="html"><![CDATA[<h1 id="9weol-15il-geum"><a href="#9weol-15il-geum" class="header-anchor">1. </a><a href="#9월-15일-금" class="headerlink" title="9월 15일 (금)"></a>9월 15일 (금)</h1><ul>
