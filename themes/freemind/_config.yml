@@ -134,7 +134,7 @@ links:
     intro: "AWS-DOCs-VPC."
     icon: "fa fa-book"
   - title: "AWS-DOCs-CloudFormation"
-    url: http://docs.aws.amazon.com/ko_kr/AWSCloudFormation/latest/UserGuide/Welcome.html
+    url: http://docs.aws.amazon.com/ko_kr/AWSCloudFormation/latest/UserGuide/working-with-templates-cfn-designer-overview.html
     intro: "AWS-DOCs-CloudFormation."
     icon: "fa fa-book"
   - title: "AWS-DOCs-CloudWatch"
