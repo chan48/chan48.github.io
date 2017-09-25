@@ -210,6 +210,15 @@ links:
     url: https://javascript.info/
     intro: "Javascript-Info."
     icon: "fa fa-book"
+  - title: "Unpkg-CDN-service"
+    url: https://unpkg.com/#/stats
+    intro: "Unpkg-CDN-service."
+    icon: "fa fa-book"
+  - title: "Jsdelivr-CDN-service"
+    url: https://www.jsdelivr.com/
+    intro: "Jsdelivr-CDN-service."
+    icon: "fa fa-book"
+
   - title: "Web-Boss-JS-ES6"
     url: https://es6.io/
     intro: "Web-Boss-JS-ES6."
