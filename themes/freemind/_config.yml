@@ -20,6 +20,10 @@ menu:
     url: Dev-Roadmap
     intro: "Dev-Roadmap."
     icon: "fa fa-code-fork"
+  - title: ENG-Study-Ref
+    url: ENG-Study-Ref
+    intro: "ENG-Study-Ref."
+    icon: "fa fa-globe"
   - title: Re-Invent-JS
     url: re-invent-js
     intro: "Re-Invent-JS."
