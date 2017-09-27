@@ -1,11 +1,11 @@
 ---
-title: Demo Hi~HEXO
+title: Hi~HEXO Demo-Ref-EX
 date: 2017-09-13 20:04:10
 description: "Hexo blog Demo Test page 입니다."
 lang: kr
-tags: [Demo-test, start]
+tags: [Demo-test, start, ref-ex]
 categories: 
-- test/poo
+- test/ref-ex
 toc: true
 ---
 
@@ -115,15 +115,27 @@ $ npm run git-pull
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 
+### Stackblitz > 
+```js
+<iframe style="border:none" width="100%" height="350px" src="https://stackblitz.com/edit/react-sb6bgp?embed=1&file=index.js"></iframe>
+```
+
+---
+#### Example > 
+<iframe style="border:none" width="100%" height="350px" src="https://stackblitz.com/edit/react-sb6bgp?embed=1&file=index.js"></iframe>
+
+
+
+
 ### Mind42 > 
 
 ```js
 // embed code
-<iframe width='860' height='780' frameborder='0' src='https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed'></iframe>
+<iframe width='100%' height='860' frameborder='0' src='https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed'></iframe>
 ```
 ---
 #### Example > 
 
-<iframe width='860' height='780' frameborder='0' src='https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed'></iframe>
+<iframe width='100%' height='760' frameborder='0' src='https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed'></iframe>
 
 

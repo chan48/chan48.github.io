@@ -1,4 +1,4 @@
-slogan: "POSTs"
+slogan: "Dare to Learn! Learn to Dare!: 기록은 기억을 지배한다!~"
 
 theme: sandstone
 inverse: false
@@ -16,10 +16,19 @@ menu:
     url: tags
     intro: "All the tags."
     icon: "fa fa-tags"
-  - title: About
-    url: about
-    intro: "About me."
-    icon: "fa fa-user"
+  - title: Dev-Roadmap
+    url: Dev-Roadmap
+    intro: "Dev-Roadmap."
+    icon: "fa fa-code-fork"
+  - title: Re-Invent-JS
+    url: re-invent-js
+    intro: "Re-Invent-JS."
+    icon: "fa fa-refresh"
+  - title: PRJTs
+    url: PRJTs
+    intro: "PRJTs by me."
+    icon: "fa fa-tasks"
+
 
 links:
   - title: "HEXOBLG-DOCs"
@@ -38,6 +47,11 @@ links:
     url: https://dynalist.io/
     intro: "Editing-Dynalist."
     icon: "fa fa-pencil-square-o"
+  - title: "Editing-GitBook"
+    url: https://www.gitbook.com/@chan48/dashboard
+    intro: "Editing-GitBook."
+    icon: "fa fa-file-text" 
+
   - title: "Markdown-Mastering"
     url: https://guides.github.com/features/mastering-markdown/#examples
     intro: "My Linkin account."
@@ -80,6 +94,64 @@ links:
     url: https://github.com/sarojaba/awesome-devblog
     intro: "Awesome-devblog."
     icon: "fa fa-star"
+  
+  - title: "FreecodeCamp"
+    url: https://www.freecodecamp.org/chan48
+    intro: "FreecodeCamp."
+    icon: "fa fa-list-alt"
+  - title: "Hacker-Noon"
+    url: https://hackernoon.com/javascript/home
+    intro: "Hacker-Noon."
+    icon: "fa fa-list-alt"
+  - title: "AcloudGuru"
+    url: https://acloud.guru/courses
+    intro: "AcloudGuru."
+    icon: "fa fa-list-alt"
+
+  - title: "Udemy"
+    url: https://www.udemy.com/home/my-courses/learning/
+    intro: "Udemy."
+    icon: "fa fa-list-alt"
+  - title: "Inflearn"
+    url: https://www.inflearn.com/members/chan-3/course/
+    intro: "Inflearn."
+    icon: "fa fa-list-alt"
+  - title: "AskDjango-PY"
+    url: https://nomade.kr/accounts/
+    intro: "AskDjango."
+    icon: "fa fa-list-alt"
+  - title: "Nomadcoders-PY"
+    url: http://academy.nomadcoders.co/courses/enrolled
+    intro: "Nomadcoders."
+    icon: "fa fa-list-alt"
+  - title: "Codecademy"
+    url: https://www.codecademy.com/learn
+    intro: "Codecademy."
+    icon: "fa fa-list-alt"
+  - title: "RecursionJS"
+    url: https://www.codecademy.com/courses/javascript-lesson-205/0/1
+    intro: "RecursionJS."
+    icon: "fa fa-list-alt"
+  - title: "Udacity"
+    url: https://classroom.udacity.com/me
+    intro: "Udacity."
+    icon: "fa fa-list-alt"  
+  - title: "Coursera"
+    url: https://www.coursera.org/
+    intro: "Coursera."
+    icon: "fa fa-list-alt"
+  - title: "EDX"
+    url: https://www.edx.org/
+    intro: "EDX."
+    icon: "fa fa-list-alt"
+  - title: "생활코딩"
+    url: https://opentutorials.org/course/2136
+    intro: "생활코딩."
+    icon: "fa fa-list-alt"
+  - title: "칸아카데미"
+    url: https://ko.khanacademy.org/computing
+    intro: "칸아카데미."
+    icon: "fa fa-list-alt"
 
   # AWS plus
   - title: "AWS-Whitepapers"
@@ -171,24 +243,38 @@ links:
     url: https://restpatterns.mindtouch.us/HTTP_Status_Codes
     intro: "Restpatterns-DOCs."
     icon: "fa fa-book"
+  
+  - title: "VulcanjsOnMeteror-DOCs"
+    url: http://docs.vulcanjs.org/example-movies.html
+    intro: "Vulcanjs-DOCs."
+    icon: "fa fa-book"
+  - title: "Vulcanjs-Blog-Ref"
+    url: http://spectrumdig.blogspot.kr/search?q=vulcan
+    intro: "Vulcanjs-Blog-Ref."
+    icon: "fa fa-book"
+  - title: "Meteor-DOCs"
+    url: https://guide.meteor.com/
+    intro: "MeteorPlatform-DOCs."
+    icon: "fa fa-book"
+  - title: "Meteor-KR-Ref"
+    url: http://kr.discovermeteor.com/
+    intro: "Meteor-KR-Ref."
+    icon: "fa fa-book"
+  
+  - title: "React-DOCs"
+    url: https://facebook.github.io/react/docs/components-and-props.html
+    intro: "React-DOCs."
+    icon: "fa fa-book"
   - title: "Graphql-DOCs"
     url: http://graphql.org/learn/
     intro: "Graphql-DOCs-DOCs."
-    icon: "fa fa-book"
-  - title: "Vulcanjs-DOCs"
-    url: http://docs.vulcanjs.org/index.html
-    intro: "Vulcanjs-DOCs."
-    icon: "fa fa-book"
+    icon: "fa fa-book" 
 
   # DOCs plus
   - title: "Dev-DOCs"
     url: http://devdocs.io/
     intro: "Dev-Doc."
-    icon: "fa fa-book"  
-  - title: "React-DOCs"
-    url: https://facebook.github.io/react/docs/components-and-props.html
-    intro: "React-DOCs."
-    icon: "fa fa-book"
+    icon: "fa fa-book"   
   - title: "Node-DOCs"
     url: https://nodejs.org/api/synopsis.html
     intro: "Node-DOCs."
@@ -196,10 +282,6 @@ links:
   - title: "Node-Expressjs-DOCs"
     url: http://expressjs.com/ko/4x/api.html
     intro: "Node>Expressjs-DOCs."
-    icon: "fa fa-book"
-  - title: "MeteorPlatform-DOCs"
-    url: https://guide.meteor.com/
-    intro: "MeteorPlatform-DOCs."
     icon: "fa fa-book"
 
   - title: "MDN-JS-DOC"
@@ -210,6 +292,16 @@ links:
     url: https://javascript.info/
     intro: "Javascript-Info."
     icon: "fa fa-book"
+
+  - title: "lib-lodash(UnderScore)-DOC"
+    url: https://lodash.com/docs/4.17.4
+    intro: "lib-lodash(UnderScore)."
+    icon: "fa fa-book"
+  - title: "lib-ramda-DOC"
+    url: http://ramdajs.com/docs/
+    intro: "lib-ramda-DOC."
+    icon: "fa fa-book"
+
   - title: "Unpkg-CDN-service"
     url: https://unpkg.com/#/stats
     intro: "Unpkg-CDN-service."
@@ -236,64 +328,6 @@ links:
     url: https://stackoverflow.com/documentation/
     intro: "StackOverFlow-Doc."
     icon: "fa fa-stack-overflow"
-  - title: "FreecodeCamp"
-    url: https://www.freecodecamp.org/chan48
-    intro: "FreecodeCamp."
-    icon: "fa fa-list-alt"
-  - title: "Hacker-Noon"
-    url: https://hackernoon.com/javascript/home
-    intro: "Hacker-Noon."
-    icon: "fa fa-list-alt"
-  - title: "AcloudGuru"
-    url: https://acloud.guru/courses
-    intro: "AcloudGuru."
-    icon: "fa fa-list-alt"
-
-  - title: "Udemy"
-    url: https://www.udemy.com/home/my-courses/learning/
-    intro: "Udemy."
-    icon: "fa fa-list-alt"
-  - title: "Inflearn"
-    url: https://www.inflearn.com/members/chan-3/course/
-    intro: "Inflearn."
-    icon: "fa fa-list-alt"
-  - title: "AskDjango-PY"
-    url: https://nomade.kr/accounts/
-    intro: "AskDjango."
-    icon: "fa fa-list-alt"
-  - title: "Nomadcoders-PY"
-    url: http://academy.nomadcoders.co/courses/enrolled
-    intro: "Nomadcoders."
-    icon: "fa fa-list-alt"
-  - title: "Codecademy"
-    url: https://www.codecademy.com/learn
-    intro: "Codecademy."
-    icon: "fa fa-list-alt"
-  - title: "RecursionJS"
-    url: https://www.codecademy.com/courses/javascript-lesson-205/0/1
-    intro: "RecursionJS."
-    icon: "fa fa-list-alt"
-  - title: "Udacity"
-    url: https://classroom.udacity.com/me
-    intro: "Udacity."
-    icon: "fa fa-list-alt"  
-  - title: "Coursera"
-    url: https://www.coursera.org/
-    intro: "Coursera."
-    icon: "fa fa-list-alt"
-  - title: "EDX"
-    url: https://www.edx.org/
-    intro: "EDX."
-    icon: "fa fa-list-alt"
-  - title: "생활코딩"
-    url: https://opentutorials.org/course/2136
-    intro: "생활코딩."
-    icon: "fa fa-list-alt"
-  - title: "칸아카데미"
-    url: https://ko.khanacademy.org/computing
-    intro: "칸아카데미."
-    icon: "fa fa-list-alt"
-  
   
   # IDE+
   - title: "Cloud9-IDE"
@@ -311,6 +345,15 @@ links:
   - title: "Yaml-parser"
     url: http://yaml-online-parser.appspot.com/
     intro: "Yaml-parser."
+    icon: "fa fa-terminal"
+  
+  - title: "ReactOnline-Editor"
+    url: https://stackblitz.com/edit/react-sb6bgp
+    intro: "ReactOnline-Editor."
+    icon: "fa fa-terminal"
+  - title: "Reactarmory-Ref"
+    url: https://reactarmory.com/examples/hello-world/raw-hello-world
+    intro: "Reactarmory-Ref."
     icon: "fa fa-terminal"
 
   - title: "CodeWars"
@@ -337,6 +380,10 @@ links:
   - title: "YouTuberDev-velopert"
     url: https://www.youtube.com/channel/UCmMgRlN-3GKQ_CH7cOtLdvg/featured
     intro: "YouTuberDev-velopert."
+    icon: "fa fa-youtube-play"
+  - title: "YouTuberDev-Vulcan-Tutorial"
+    url: https://www.youtube.com/channel/UCGIvQQ6zw7ov2cHgD70HFlA/playlists
+    intro: "YouTuberDev-Vulcan-Tutorial."
     icon: "fa fa-youtube-play"
   - title: "YouTuberDev-Meteor-Tutorial"
     url: https://www.youtube.com/watch?v=BI8IslJHSag&list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V
