@@ -24,6 +24,10 @@ menu:
     url: re-invent-js
     intro: "Re-Invent-JS."
     icon: "fa fa-refresh"
+  - title: GraphQL
+    url: GraphQL
+    intro: "GraphQL."
+    icon: "fa fa-pie-chart"
   - title: PRJTs
     url: PRJTs
     intro: "PRJTs by me."
@@ -391,6 +395,10 @@ links:
     icon: "fa fa-youtube-play"
   - title: "FramerjsByCoffee-Tutorial"
     url: https://www.udemy.com/framerjs-prototyping-design-interaction-animation/learn/v4/content
+    intro: "FramerjsByCoffee-Tutorial."
+    icon: "fa fa-youtube-play"
+  - title: "Graphql-Tutorial"
+    url: https://www.udemy.com/graphql-with-react-course/learn/v4/content
     intro: "FramerjsByCoffee-Tutorial."
     icon: "fa fa-youtube-play"
 
