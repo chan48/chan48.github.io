@@ -249,6 +249,20 @@
     </entry>
     
     <entry>
+      <title><![CDATA[ENG-Study-Ref]]></title>
+      <url>/ENG-Study-Ref/index.html</url>
+      <content type="html"><![CDATA[<h2 id="bigvoca-8000"><a href="#bigvoca-8000" class="header-anchor">1. </a><a href="#BigVoca-8000" class="headerlink" title="BigVoca - 8000"></a>BigVoca - 8000</h2><ul>
+<li><a href="https://www.listennotes.com/search/?q=%EB%B9%85%EB%B3%B4%EC%B9%B4%20%EC%98%88%EB%AC%B8%201&amp;sort_by_date=0&amp;scope=episode&amp;offset=0" target="_blank" rel="external">빅보카 예문</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLWJO94GPBqA7ZWUkaUEK4WbwBubseLoBF" target="_blank" rel="external">빅보카 암기</a></li>
+</ul>
+<p>Ref . </p>
+<blockquote>
+<p><a href="http://kimjongwook.com/2016/07/21/voca-howandwhat/" target="_blank" rel="external">어떻게 영어 단어를 공부해야 할까</a><br><a href="https://m.blog.naver.com/PostView.nhn?blogId=justalive&amp;logNo=220983117860&amp;proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F" target="_blank" rel="external">빅보카</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[GraphQL]]></title>
       <url>/GraphQL/index.html</url>
       <content type="html"><![CDATA[<hr>
@@ -284,6 +298,12 @@ Something about me. ;-)
     </entry>
     
     <entry>
+      <title><![CDATA[Tags]]></title>
+      <url>/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[re-invent-js]]></title>
       <url>/re-invent-js/index.html</url>
       <content type="html"><![CDATA[<h2 id="it-s-functional-programming-not-oop-method"><a href="#it-s-functional-programming-not-oop-method" class="header-anchor">1. </a><a href="#It’s-Functional-Programming-Not-OOP-method" class="headerlink" title="It’s Functional Programming Not OOP method~!!"></a>It’s Functional Programming Not OOP method~!!</h2><pre><code>- 함수형 프로그래밍 사고를 기르자
@@ -296,12 +316,6 @@ Something about me. ;-)
 <hr>
 <p>Ref .<br><a href="https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/" target="_blank" rel="external">자바스크립트 언어에 대한 애정의 90%를 쓰레기통에 버리면서 다시 발견했던 과정</a><br><a href="https://rhostem.github.io/posts/2017-04-20-curry-and-partial-application/" target="_blank" rel="external">함수형 프로그래밍: partial application과 curry</a></p>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Tags]]></title>
-      <url>/tags/index.html</url>
-      <content type="html"></content>
     </entry>
     
   
