@@ -2,11 +2,11 @@
 title: Hi~HEXO Demo-Ref-EX
 date: 2017-09-13 20:04:10
 description: "Hexo blog Demo Test page 입니다."
-lang: kr
 tags: [Demo-test, start, ref-ex]
 categories: 
 - test/ref-ex
 toc: true
+published: true
 ---
 
 ## Quick Start
