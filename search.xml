@@ -191,9 +191,9 @@
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 
-<h3 id="stackblitz-gt"><a href="#stackblitz-gt" class="header-anchor">2.4. </a><a href="#Stackblitz-gt" class="headerlink" title="Stackblitz &gt;"></a>Stackblitz &gt;</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;iframe style=<span class="string">"border:none"</span> width=<span class="string">"100%"</span> height=<span class="string">"350px"</span> src=<span class="string">"https://stackblitz.com/edit/react-sb6bgp?embed=1&amp;file=index.js"</span>&gt;&lt;/iframe&gt;</div></pre></td></tr></table></figure>
+<h3 id="stackblitz-gt"><a href="#stackblitz-gt" class="header-anchor">2.4. </a><a href="#Stackblitz-gt" class="headerlink" title="Stackblitz &gt;"></a>Stackblitz &gt;</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;iframe style=<span class="string">"border:none"</span> width=<span class="string">"100%"</span> height=<span class="string">"650px"</span> src=<span class="string">"https://stackblitz.com/edit/react-sb6bgp?embed=1&amp;file=index.js"</span>&gt;&lt;/iframe&gt;</div></pre></td></tr></table></figure>
 <hr>
-<h4 id="example-gt"><a href="#example-gt" class="header-anchor">2.4.1. </a><a href="#Example-gt-3" class="headerlink" title="Example &gt;"></a>Example &gt;</h4><iframe style="border:none" width="100%" height="350px" src="https://stackblitz.com/edit/react-sb6bgp?embed=1&file=index.js"></iframe>
+<h4 id="example-gt"><a href="#example-gt" class="header-anchor">2.4.1. </a><a href="#Example-gt-3" class="headerlink" title="Example &gt;"></a>Example &gt;</h4><iframe style="border:none" width="100%" height="650px" src="https://stackblitz.com/edit/react-sb6bgp?embed=1&file=index.js"></iframe>
 
 
 
@@ -284,6 +284,21 @@
     </entry>
     
     <entry>
+      <title><![CDATA[re-invent-js]]></title>
+      <url>/re-invent-js/index.html</url>
+      <content type="html"><![CDATA[<h2 id="it-s-functional-programming-not-oop-method"><a href="#it-s-functional-programming-not-oop-method" class="header-anchor">1. </a><a href="#It’s-Functional-Programming-Not-OOP-method" class="headerlink" title="It’s Functional Programming Not OOP method~!!"></a>It’s Functional Programming Not OOP method~!!</h2><pre><code>- 함수형 프로그래밍 사고를 기르자
+- JS 뿐만 아닌 CoffeeScript 나 Python Code 에도 익숙해지자
+</code></pre><h2 id="algorijeum-hunryeoneul-ggujunhi-haja"><a href="#algorijeum-hunryeoneul-ggujunhi-haja" class="header-anchor">2. </a><a href="#알고리즘-훈련을-꾸준히-하자" class="headerlink" title="알고리즘 훈련을 꾸준히 하자~!!"></a>알고리즘 훈련을 꾸준히 하자~!!</h2><pre><code>- CodeWar 나 기타 사이트를 통한 트레이닝
+- 자료구조나 기타 주요한 수학적 알고리즘 익히기
+</code></pre><blockquote>
+<p>To be continue…</p>
+</blockquote>
+<hr>
+<p>Ref .<br><a href="https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/" target="_blank" rel="external">자바스크립트 언어에 대한 애정의 90%를 쓰레기통에 버리면서 다시 발견했던 과정</a><br><a href="https://rhostem.github.io/posts/2017-04-20-curry-and-partial-application/" target="_blank" rel="external">함수형 프로그래밍: partial application과 curry</a></p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[About]]></title>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[
@@ -301,21 +316,6 @@ Something about me. ;-)
       <title><![CDATA[Tags]]></title>
       <url>/tags/index.html</url>
       <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[re-invent-js]]></title>
-      <url>/re-invent-js/index.html</url>
-      <content type="html"><![CDATA[<h2 id="it-s-functional-programming-not-oop-method"><a href="#it-s-functional-programming-not-oop-method" class="header-anchor">1. </a><a href="#It’s-Functional-Programming-Not-OOP-method" class="headerlink" title="It’s Functional Programming Not OOP method~!!"></a>It’s Functional Programming Not OOP method~!!</h2><pre><code>- 함수형 프로그래밍 사고를 기르자
-- JS 뿐만 아닌 CoffeeScript 나 Python Code 에도 익숙해지자
-</code></pre><h2 id="algorijeum-hunryeoneul-ggujunhi-haja"><a href="#algorijeum-hunryeoneul-ggujunhi-haja" class="header-anchor">2. </a><a href="#알고리즘-훈련을-꾸준히-하자" class="headerlink" title="알고리즘 훈련을 꾸준히 하자~!!"></a>알고리즘 훈련을 꾸준히 하자~!!</h2><pre><code>- CodeWar 나 기타 사이트를 통한 트레이닝
-- 자료구조나 기타 주요한 수학적 알고리즘 익히기
-</code></pre><blockquote>
-<p>To be continue…</p>
-</blockquote>
-<hr>
-<p>Ref .<br><a href="https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/" target="_blank" rel="external">자바스크립트 언어에 대한 애정의 90%를 쓰레기통에 버리면서 다시 발견했던 과정</a><br><a href="https://rhostem.github.io/posts/2017-04-20-curry-and-partial-application/" target="_blank" rel="external">함수형 프로그래밍: partial application과 curry</a></p>
-]]></content>
     </entry>
     
   
