@@ -343,6 +343,15 @@ links:
     url: https://stackoverflow.com/documentation/
     intro: "StackOverFlow-Doc."
     icon: "fa fa-stack-overflow"
+
+  - title: "CODE-PEN"
+    url: https://codepen.io/ch9/
+    intro: "My CODE-PEN."
+    icon: "fa fa-codepen"
+  - title: "Plotly-DataVisualizePy"
+    url: https://plot.ly/python/ipython-notebook-tutorial/#3d-plotting
+    intro: "Plotly-DataVisualize."
+    icon: "fa fa-eye"
   
   # IDE+
   - title: "Jupyterhub"
@@ -370,15 +379,6 @@ links:
     url: https://reactarmory.com/examples/hello-world/raw-hello-world
     intro: "Reactarmory-Ref."
     icon: "fa fa-terminal"
-
-  - title: "CODE-PEN"
-    url: https://codepen.io/ch9/
-    intro: "My CODE-PEN."
-    icon: "fa fa-codepen"
-  - title: "Plotly-DataVisualizePy"
-    url: https://plot.ly/python/ipython-notebook-tutorial/#3d-plotting
-    intro: "Plotly-DataVisualize."
-    icon: "fa fa-eye"
 
   - title: "Programmers-Algo"
     url: https://programmers.co.kr/learn/challenges
