@@ -117,12 +117,12 @@ $ npm run git-pull
 
 ### Stackblitz > 
 ```js
-<iframe style="border:none" width="100%" height="350px" src="https://stackblitz.com/edit/react-sb6bgp?embed=1&file=index.js"></iframe>
+<iframe style="border:none" width="100%" height="650px" src="https://stackblitz.com/edit/react-sb6bgp?embed=1&file=index.js"></iframe>
 ```
 
 ---
 #### Example > 
-<iframe style="border:none" width="100%" height="350px" src="https://stackblitz.com/edit/react-sb6bgp?embed=1&file=index.js"></iframe>
+<iframe style="border:none" width="100%" height="650px" src="https://stackblitz.com/edit/react-sb6bgp?embed=1&file=index.js"></iframe>
 
 
 
