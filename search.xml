@@ -255,9 +255,18 @@
 <li><a href="https://www.listennotes.com/search/?q=%EB%B9%85%EB%B3%B4%EC%B9%B4%20%EC%98%88%EB%AC%B8%201&amp;sort_by_date=0&amp;scope=episode&amp;offset=0" target="_blank" rel="external">빅보카 예문</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLWJO94GPBqA7ZWUkaUEK4WbwBubseLoBF" target="_blank" rel="external">빅보카 암기</a></li>
 </ul>
+<h2 id="top-voca"><a href="#top-voca" class="header-anchor">2. </a><a href="#Top-Voca" class="headerlink" title="Top Voca"></a>Top Voca</h2><ul>
+<li><a href="http://ko.talkenglish.com/vocabulary/english-vocabulary.aspx" target="_blank" rel="external">자주 쓰이는 영단어</a></li>
+</ul>
+<hr>
+<h2 id="media"><a href="#media" class="header-anchor">3. </a><a href="#Media" class="headerlink" title="Media"></a>Media</h2><ul>
+<li><a href="https://www.youtube.com/channel/UC28bjCQmwcux8QoImFomIEQ" target="_blank" rel="external">2쌤영어!</a> </li>
+<li><a href="https://learningenglish.voanews.com/a/toefl-or-ielts-comparing/2904490.html" target="_blank" rel="external">VOA</a></li>
+<li><a href="https://www.ted.com/" target="_blank" rel="external">TED</a> </li>
+</ul>
 <p>Ref . </p>
 <blockquote>
-<p><a href="http://kimjongwook.com/2016/07/21/voca-howandwhat/" target="_blank" rel="external">어떻게 영어 단어를 공부해야 할까</a><br><a href="https://m.blog.naver.com/PostView.nhn?blogId=justalive&amp;logNo=220983117860&amp;proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F" target="_blank" rel="external">빅보카</a></p>
+<p><a href="http://kimjongwook.com/2016/07/21/voca-howandwhat/" target="_blank" rel="external">어떻게 영어 단어를 공부해야 할까</a><br><a href="http://m.wikitree.co.kr/main/news_view.php?id=188593&amp;ref=m.facebook.com#read" target="_blank" rel="external">통째 외워두면 쏠쏠한 영어문장 130선</a><br><a href="https://m.blog.naver.com/PostView.nhn?blogId=justalive&amp;logNo=220983117860&amp;proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F" target="_blank" rel="external">빅보카</a></p>
 </blockquote>
 ]]></content>
     </entry>
@@ -284,6 +293,20 @@
     </entry>
     
     <entry>
+      <title><![CDATA[About]]></title>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[
+Something about me. ;-)
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Categories]]></title>
+      <url>/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[re-invent-js]]></title>
       <url>/re-invent-js/index.html</url>
       <content type="html"><![CDATA[<h2 id="it-s-functional-programming-not-oop-method"><a href="#it-s-functional-programming-not-oop-method" class="header-anchor">1. </a><a href="#It’s-Functional-Programming-Not-OOP-method" class="headerlink" title="It’s Functional Programming Not OOP method~!!"></a>It’s Functional Programming Not OOP method~!!</h2><pre><code>- 함수형 프로그래밍 사고를 기르자
@@ -296,20 +319,6 @@
 <hr>
 <p>Ref .<br><a href="https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/" target="_blank" rel="external">자바스크립트 언어에 대한 애정의 90%를 쓰레기통에 버리면서 다시 발견했던 과정</a><br><a href="https://rhostem.github.io/posts/2017-04-20-curry-and-partial-application/" target="_blank" rel="external">함수형 프로그래밍: partial application과 curry</a></p>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[About]]></title>
-      <url>/about/index.html</url>
-      <content type="html"><![CDATA[
-Something about me. ;-)
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Categories]]></title>
-      <url>/categories/index.html</url>
-      <content type="html"></content>
     </entry>
     
     <entry>
