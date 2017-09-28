@@ -380,10 +380,6 @@ links:
     intro: "Plotly-DataVisualize."
     icon: "fa fa-eye"
 
-  - title: "Goorm-TEST"
-    url: https://codingtest.goorm.io/
-    intro: "Goorm-TEST."
-    icon: "fa fa-terminal"
   - title: "Programmers-Algo"
     url: https://programmers.co.kr/learn/challenges
     intro: "Programmers-Algo."
