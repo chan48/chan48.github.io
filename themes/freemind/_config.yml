@@ -59,6 +59,10 @@ links:
     url: https://www.gitbook.com/@chan48/dashboard
     intro: "Editing-GitBook."
     icon: "fa fa-file-text" 
+  - title: "G-Translator Toolkit"
+    url: https://translate.google.com/toolkit/list?hl=ko#translations/active
+    intro: "G-Translator Toolkit."
+    icon: "fa fa-file-text" 
 
   - title: "Markdown-Mastering"
     url: https://guides.github.com/features/mastering-markdown/#examples
@@ -132,6 +136,10 @@ links:
     url: http://academy.nomadcoders.co/courses/enrolled
     intro: "Nomadcoders."
     icon: "fa fa-list-alt"
+  - title: "Marco-imagineer-PY"
+    url: http://www.imagineer.io/p/python
+    intro: "Marco-imagineer-PY."
+    icon: "fa fa-list-alt"
   - title: "Codecademy"
     url: https://www.codecademy.com/learn
     intro: "Codecademy."
@@ -162,6 +170,15 @@ links:
     icon: "fa fa-list-alt"
 
   # AWS plus
+  - title: "AWS-IAM"
+    url:  https://com-chan.signin.aws.amazon.com/console
+    intro: "Amazon-AWS-IAM."
+    icon: "fa fa-users"
+  - title: "AWS-Support-Plans"
+    url: https://aws.amazon.com/ko/premiumsupport/compare-plans/
+    intro: "AWS-Support Plans."
+    icon: "fa fa-credit-card"
+
   - title: "AWS-Whitepapers"
     url: https://aws.amazon.com/ko/whitepapers/
     intro: "AWS-Whitepapers."
@@ -179,17 +196,13 @@ links:
     url: https://qwiklabs.com/catalog
     intro: "AWS-Study."
     icon: "fa fa-cloud"
-  - title: "AWS-IAM"
-    url:  https://com-chan.signin.aws.amazon.com/console
-    intro: "Amazon-AWS-IAM."
-    icon: "fa fa-cloud"
-  - title: "AWS IAM Reference"
-    url: https://iam.cloudonaut.io/
-    intro: "AWS IAM Reference."
-    icon: "fa fa-book"
   - title: "AWS-DevOpsBlog"
     url: https://brunch.co.kr/magazine/devops
     intro: "AWS-DevOpsBlog."
+    icon: "fa fa-book"
+  - title: "AWS IAM Reference"
+    url: https://iam.cloudonaut.io/
+    intro: "AWS IAM Reference."
     icon: "fa fa-book"
   
   - title: "AWS-DOCs-CLI"
@@ -366,6 +379,10 @@ links:
   - title: "Yaml-parser"
     url: http://yaml-online-parser.appspot.com/
     intro: "Yaml-parser."
+    icon: "fa fa-terminal"
+  - title: "SWAPI-GraphQLer"
+    url: http://graphql.org/swapi-graphql/
+    intro: "SWAPI-GraphQLer."
     icon: "fa fa-terminal"
   - title: "Fiddles"
     url: https://fiddles.io/#
