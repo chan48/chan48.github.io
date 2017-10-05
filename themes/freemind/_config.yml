@@ -317,11 +317,6 @@ links:
     url: https://javascript.info/
     intro: "Javascript-Info."
     icon: "fa fa-book"
-  - title: "JavaScript-Basic"
-    url: https://www.codecademy.com/articles/bwa-javascript-reference
-    intro: "JavaScript-Basic."
-    icon: "fa fa-book"
-
   - title: "Web-Boss-JS-ES6"
     url: https://es6.io/
     intro: "Web-Boss-JS-ES6."
