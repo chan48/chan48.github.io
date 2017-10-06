@@ -251,17 +251,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[GraphQL]]></title>
-      <url>/GraphQL/index.html</url>
-      <content type="html"><![CDATA[<hr>
-<p>Ref . </p>
-<blockquote>
-<p><a href="https://www.howtographql.com/" target="_blank" rel="external">howtographql</a><br><a href="https://www.youtube.com/watch?v=Tpf9kVE2AY8&amp;list=RDTpf9kVE2AY8&amp;t=90" target="_blank" rel="external">How to write a GraphQL server</a><br><a href="https://scotch.io/search?q=GraphQL" target="_blank" rel="external">scotch</a><br><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">udemy</a></p>
-</blockquote>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[Dev-Roadmap]]></title>
       <url>/Dev-Roadmap/index.html</url>
       <content type="html"><![CDATA[<h2 id="basic-knowledge"><a href="#basic-knowledge" class="header-anchor">1. </a><a href="#🚀-Basic-knowledge" class="headerlink" title="🚀 Basic-knowledge"></a>🚀 Basic-knowledge</h2><p><img src="/images/intro-map.png" alt=""></p>
@@ -278,6 +267,17 @@
 <hr>
 <blockquote>
 <p>Ref .<br><a href="https://github.com/WegraLee/developer-roadmap" target="_blank" rel="external">웹 개발자가 되는 로드맵 (2017년 버전)</a><br><a href="https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/" target="_blank" rel="external">자바스크립트 피로감을 줄여주기 위한 학습 계획</a><br><a href="https://rhostem.github.io/posts/2017-01-07-git-basic/" target="_blank" rel="external">버전 관리 시스템 Git 기초</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[GraphQL]]></title>
+      <url>/GraphQL/index.html</url>
+      <content type="html"><![CDATA[<hr>
+<p>Ref . </p>
+<blockquote>
+<p><a href="https://www.howtographql.com/" target="_blank" rel="external">howtographql</a><br><a href="https://www.youtube.com/watch?v=Tpf9kVE2AY8&amp;list=RDTpf9kVE2AY8&amp;t=90" target="_blank" rel="external">How to write a GraphQL server</a><br><a href="https://scotch.io/search?q=GraphQL" target="_blank" rel="external">scotch</a><br><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">udemy</a></p>
 </blockquote>
 ]]></content>
     </entry>
@@ -319,7 +319,7 @@ Something about me. ;-)
 <hr>
 <p>Ref-1<br><a href="https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/" target="_blank" rel="external">자바스크립트 언어에 대한 애정의 90%를 쓰레기통에 버리면서 다시 발견했던 과정</a><br><a href="https://rhostem.github.io/posts/2017-04-20-curry-and-partial-application/" target="_blank" rel="external">함수형 프로그래밍: partial application과 curry</a></p>
 <hr>
-<p>Ref-2<br><a href="https://www.codecademy.com/articles/bwa-javascript-reference" target="_blank" rel="external">JS-Basic</a><br><a href="https://www.codecademy.com/courses/intermediate-javascript-modules/lessons/modules/exercises/review?action=lesson_resume&amp;program_content_id=f76141681ae1fe73defa7f1003aa5dcc&amp;program_id=6b0a63280379cf8f3763afb1fccd186e" target="_blank" rel="external">Modules</a><br><a href="https://jongmin92.github.io/2016/08/25/Node/module-exports_exports/" target="_blank" rel="external"> module.exports와 exports 차이 이해하기</a><br><a href="https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f/" target="_blank" rel="external">require vs import</a></p>
+<p>Ref-2<br><a href="https://www.codecademy.com/articles/bwa-javascript-reference" target="_blank" rel="external">JS-Basic</a><br><a href="https://www.codecademy.com/courses/intermediate-javascript-modules/lessons/modules/exercises/review?action=lesson_resume&amp;program_content_id=f76141681ae1fe73defa7f1003aa5dcc&amp;program_id=6b0a63280379cf8f3763afb1fccd186e" target="_blank" rel="external">Modules</a><br><a href="https://jongmin92.github.io/2016/08/25/Node/module-exports_exports/" target="_blank" rel="external"> module.exports와 exports 차이 이해하기</a><br><a href="https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f/" target="_blank" rel="external">require vs import</a><br><a href="http://es6-features.org/#BlockScopedVariables" target="_blank" rel="external">es6-features</a></p>
 ]]></content>
     </entry>
     
