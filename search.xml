@@ -3,8 +3,8 @@
   
     
     <entry>
-      <title><![CDATA[TIL-From-17-09-20-ToDay]]></title>
-      <url>/2017/09/25/TIL-From-17-09-25-ToDay/</url>
+      <title><![CDATA[TIL-From-17-09-25-ToDay]]></title>
+      <url>/2017/10/09/TIL-From-17-09-25-ToDay/</url>
       <content type="html"><![CDATA[<h1 id="9weol-25il-weol"><a href="#9weol-25il-weol" class="header-anchor">1. </a><a href="#9월-25일-월" class="headerlink" title="9월 25일 (월)"></a>9월 25일 (월)</h1><ul>
 <li>Quiz-AWS Project Work&amp; Study<blockquote>
 <p>BackEnd Study &gt; About AWS &gt; <a href="https://acloud.guru/course/github-devops/dashboard" target="_blank" rel="external">GitHub for DevOps</a>: Section 1 ~ Section 4 (3H course 완강)</p>
@@ -325,17 +325,6 @@
   
     
     <entry>
-      <title><![CDATA[GraphQL]]></title>
-      <url>/GraphQL/index.html</url>
-      <content type="html"><![CDATA[<hr>
-<p>Ref . </p>
-<blockquote>
-<p><a href="https://www.howtographql.com/" target="_blank" rel="external">howtographql</a><br><a href="https://www.youtube.com/watch?v=Tpf9kVE2AY8&amp;list=RDTpf9kVE2AY8&amp;t=90" target="_blank" rel="external">How to write a GraphQL server</a><br><a href="https://scotch.io/search?q=GraphQL" target="_blank" rel="external">scotch</a><br><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">udemy</a></p>
-</blockquote>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[Dev-Roadmap]]></title>
       <url>/Dev-Roadmap/index.html</url>
       <content type="html"><![CDATA[<h2 id="basic-knowledge"><a href="#basic-knowledge" class="header-anchor">1. </a><a href="#🚀-Basic-knowledge" class="headerlink" title="🚀 Basic-knowledge"></a>🚀 Basic-knowledge</h2><p><img src="/images/intro-map.png" alt=""></p>
@@ -352,16 +341,6 @@
 <hr>
 <blockquote>
 <p>Ref .<br><a href="https://github.com/WegraLee/developer-roadmap" target="_blank" rel="external">웹 개발자가 되는 로드맵 (2017년 버전)</a><br><a href="https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/" target="_blank" rel="external">자바스크립트 피로감을 줄여주기 위한 학습 계획</a><br><a href="https://rhostem.github.io/posts/2017-01-07-git-basic/" target="_blank" rel="external">버전 관리 시스템 Git 기초</a></p>
-</blockquote>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[PRJTs]]></title>
-      <url>/PRJTs/index.html</url>
-      <content type="html"><![CDATA[<h2 id="quiz-aws"><a href="#quiz-aws" class="header-anchor">1. </a><a href="#Quiz-AWS" class="headerlink" title="Quiz-AWS"></a>Quiz-AWS</h2><pre><code>- ing ...
-</code></pre><blockquote>
-<p>To be continue…</p>
 </blockquote>
 ]]></content>
     </entry>
@@ -390,9 +369,24 @@
     </entry>
     
     <entry>
-      <title><![CDATA[Categories]]></title>
-      <url>/categories/index.html</url>
-      <content type="html"></content>
+      <title><![CDATA[GraphQL]]></title>
+      <url>/GraphQL/index.html</url>
+      <content type="html"><![CDATA[<hr>
+<p>Ref . </p>
+<blockquote>
+<p><a href="https://www.howtographql.com/" target="_blank" rel="external">howtographql</a><br><a href="https://www.youtube.com/watch?v=Tpf9kVE2AY8&amp;list=RDTpf9kVE2AY8&amp;t=90" target="_blank" rel="external">How to write a GraphQL server</a><br><a href="https://scotch.io/search?q=GraphQL" target="_blank" rel="external">scotch</a><br><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">udemy</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[PRJTs]]></title>
+      <url>/PRJTs/index.html</url>
+      <content type="html"><![CDATA[<h2 id="quiz-aws"><a href="#quiz-aws" class="header-anchor">1. </a><a href="#Quiz-AWS" class="headerlink" title="Quiz-AWS"></a>Quiz-AWS</h2><pre><code>- ing ...
+</code></pre><blockquote>
+<p>To be continue…</p>
+</blockquote>
+]]></content>
     </entry>
     
     <entry>
@@ -401,6 +395,12 @@
       <content type="html"><![CDATA[
 Something about me. ;-)
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Categories]]></title>
+      <url>/categories/index.html</url>
+      <content type="html"></content>
     </entry>
     
     <entry>
