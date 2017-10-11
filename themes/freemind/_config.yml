@@ -90,6 +90,23 @@ links:
     url: https://mind42.com/
     intro: "Mind42-MindMap."
     icon: "fa fa-sitemap"
+  - title: "Blog:Awesome-Dev"
+    url: https://github.com/sarojaba/awesome-devblog
+    intro: "Blog:Awesome-Dev."
+    icon: "fa fa-star"
+  - title: "Blog:DevO:AWSps"
+    url: https://brunch.co.kr/magazine/devops
+    intro: "Blog:AWS-DevOps."
+    icon: "fa fa-pencil"
+  - title: "Blog:애자일이야기"
+    url: http://agile.egloos.com/5749946
+    intro: "Blog:애자일이야기."
+    icon: "fa fa-pencil"
+
+  - title: "Pivotal-Agile"
+    url: https://pivotal.io/kr/agile
+    intro: "Pivotal-Agile."
+    icon: "fa fa-th"
   - title: "Jira-Atlassian"
     url: https://quiz-aws.atlassian.net/secure/Dashboard.jspa
     intro: "Jira-Atlassian."
@@ -102,10 +119,6 @@ links:
     url: https://stackoverflow.com/jobs/salary
     intro: "Salary-Calculate."
     icon: "fa fa-th"
-  - title: "Awesome-devblog"
-    url: https://github.com/sarojaba/awesome-devblog
-    intro: "Awesome-devblog."
-    icon: "fa fa-star"
   
   - title: "FreecodeCamp"
     url: https://www.freecodecamp.org/chan48
@@ -196,117 +209,130 @@ links:
     url: https://qwiklabs.com/catalog
     intro: "AWS-Study."
     icon: "fa fa-cloud"
-  - title: "AWS-DevOpsBlog"
-    url: https://brunch.co.kr/magazine/devops
-    intro: "AWS-DevOpsBlog."
-    icon: "fa fa-book"
+  - title: "PIVOTAL-Cloud Foundry"
+    url: https://console.run.pivotal.io/organizations/3ff75be5-8de8-4521-a2e6-0dccb6cbe1eb
+    intro: "PIVOTAL-Cloud Foundry."
+    icon: "fa fa-cloud"
+
   - title: "AWS IAM Reference"
     url: https://iam.cloudonaut.io/
     intro: "AWS IAM Reference."
     icon: "fa fa-book"
+  - title: "AWS Quick Starts"
+    url: https://aws.amazon.com/ko/quickstart/architecture/
+    intro: "AWS Quick Starts."
+    icon: "fa fa-book"
   
-  - title: "AWS-DOCs-CLI"
+  - title: "DOCs:AWS-CLI"
     url: http://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-help.html
-    intro: "AWS-DOCs-CLI."
+    intro: "DOCs-AWS-CLI."
     icon: "fa fa-book"
-  - title: "AWS-DOCs-CODECOMMIT"
+  - title: "DOCs:AWS-CODECOMMIT"
     url: http://docs.aws.amazon.com/ko_kr/codecommit/latest/userguide/setting-up.html
-    intro: "AWS-DOCs-CODECOMMIT."
+    intro: "DOCs:AWS-CODECOMMIT."
     icon: "fa fa-book"
-  - title: "AWS-DOCs-CODEPIPELINE"
+  - title: "DOCs:AWS-CODEPIPELINE"
     url: http://docs.aws.amazon.com/ko_kr/codepipeline/latest/userguide/welcome.html
-    intro: "AWS-CODEPIPELINE."
+    intro: "DOCs:AWS-CODEPIPELINE."
     icon: "fa fa-book"
-  - title: "AWS-DOCs-Route53"
+  - title: "DOCs:AWS-Route53"
     url: http://docs.aws.amazon.com/ko_kr/Route53/latest/APIReference/Welcome.html
-    intro: "AWS-DOCs-Route53."
+    intro: "DOCs:AWS-Route53."
     icon: "fa fa-book"
 
-  - title: "AWS-DOCs-VPC"
+  - title: "DOCs:AWS-VPC"
     url: http://docs.aws.amazon.com/ko_kr/AmazonVPC/latest/UserGuide/VPC_Introduction.html
-    intro: "AWS-DOCs-VPC."
+    intro: "DOCs:AWS-VPC."
     icon: "fa fa-book"
-  - title: "AWS-DOCs-CloudFormation"
+  - title: "DOCs:AWS-CloudFormation"
     url: http://docs.aws.amazon.com/ko_kr/AWSCloudFormation/latest/UserGuide/working-with-templates-cfn-designer-overview.html
-    intro: "AWS-DOCs-CloudFormation."
+    intro: "DOCs:AWS-CloudFormation."
     icon: "fa fa-book"
-  - title: "AWS-DOCs-CloudWatch"
+  - title: "DOCs:AWS-CloudWatch"
     url: http://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html
-    intro: "AWS-DOCs-CloudWatch."
+    intro: "DOCs:AWS-CloudWatch."
     icon: "fa fa-book"
 
-  - title: "AWS-DOCs-ELB"
+  - title: "DOCs:AWS-ELB"
     url: http://docs.aws.amazon.com/ko_kr/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html
-    intro: "AWS-DOCs-ELB."
+    intro: "DOCs:AWS-ELB."
     icon: "fa fa-book"
-  - title: "AWS-DOCs-EC2"
+  - title: "DOCs:AWS-EC2"
     url: http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html
-    intro: "AWS-DOCs-EC2."
+    intro: "DOCs:AWS-EC2."
     icon: "fa fa-book"
-  - title: "AWS-DOCs-Dynamodb"
+  - title: "DOCs:AWS-Dynamodb"
     url: http://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/Introduction.html
-    intro: "AWS-DOCs-Dynamodb."
+    intro: "DOCs:AWS-Dynamodb."
     icon: "fa fa-book"
 
-  - title: "AWS-DOCs-APIGATEWAY"
+  - title: "DOCs:AWS-APIGATEWAY"
     url: http://docs.aws.amazon.com/ko_kr/apigateway/latest/developerguide/api-gateway-set-up-simple-proxy.html#api-gateway-simple-proxy-for-lambda-input-format
-    intro: "AWS-APIGATEWAY."
+    intro: "APIG:AWSATEWAY."
     icon: "fa fa-book"
-  - title: "AWS-DOCs-LAMBDA"
+  - title: "DOCs:AWS-LAMBDA"
     url: http://docs.aws.amazon.com/ko_kr/lambda/latest/dg/welcome.html
-    intro: "AWS-DOCs-LAMBDA."
+    intro: "DOCs:AWS-LAMBDA."
     icon: "fa fa-book"
-  - title: "Serverless-DOCs"
+  - title: "DOCs:Serverless"
     url: https://serverless.com/framework/docs/providers/aws/guide/serverless.yml/
-    intro: "Serverless-DOCs."
+    intro: "DOCs:Serverless."
     icon: "fa fa-book"
-  - title: "RESTpatterns-DOCs"
+  - title: "DOCs:RESTpatterns"
     url: https://restpatterns.mindtouch.us/HTTP_Status_Codes
-    intro: "Restpatterns-DOCs."
+    intro: "DOCs:Restpatterns."
     icon: "fa fa-book"
   
-  - title: "VulcanjsOnMeteror-DOCs"
+  - title: "DOCs:VulcanjsOnMeteror"
     url: http://docs.vulcanjs.org/example-movies.html
-    intro: "Vulcanjs-DOCs."
+    intro: "DOCs:Vulcanjs."
+    icon: "fa fa-book"
+  - title: "DOCs:Meteor"
+    url: https://guide.meteor.com/
+    intro: "DOCs:MeteorPlatform."
+    icon: "fa fa-book"
+  - title: "DOCs:Graphql"
+    url: http://graphql.org/learn/
+    intro: "DOCs:Graphql."
+    icon: "fa fa-book" 
+  - title: "DOCs:Apollo"
+    url: http://dev.apollodata.com/core/meteor.html#Examples
+    intro: "DOCs:Apollo."
+    icon: "fa fa-book" 
+
+  - title: "Meteor Packages"
+    url: https://atmospherejs.com/
+    intro: "Meteor Packages."
     icon: "fa fa-book"
   - title: "Vulcanjs-Blog-Ref"
     url: http://spectrumdig.blogspot.kr/search?q=vulcan
     intro: "Vulcanjs-Blog-Ref."
     icon: "fa fa-book"
-  - title: "Meteor-DOCs"
-    url: https://guide.meteor.com/
-    intro: "MeteorPlatform-DOCs."
-    icon: "fa fa-book"
   - title: "Meteor-KR-Ref"
     url: http://kr.discovermeteor.com/
     intro: "Meteor-KR-Ref."
     icon: "fa fa-book"
-  
-  - title: "React-DOCs"
-    url: https://facebook.github.io/react/docs/components-and-props.html
-    intro: "React-DOCs."
-    icon: "fa fa-book"
-  - title: "Graphql-DOCs"
-    url: http://graphql.org/learn/
-    intro: "Graphql-DOCs-DOCs."
-    icon: "fa fa-book" 
 
   # DOCs plus
-  - title: "Dev-DOCs"
+  - title: "Dev-DOC"
     url: http://devdocs.io/
     intro: "Dev-Doc."
     icon: "fa fa-book"   
-  - title: "Node-DOCs"
+  - title: "Node-DOC"
     url: https://nodejs.org/api/synopsis.html
-    intro: "Node-DOCs."
+    intro: "Node-DOC."
     icon: "fa fa-book"
-  - title: "Node-Expressjs-DOCs"
+  - title: "Node-Expressjs-DOC"
     url: http://expressjs.com/ko/4x/api.html
-    intro: "Node>Expressjs-DOCs."
+    intro: "Node>Expressjs-DOC."
     icon: "fa fa-book"
-  - title: "MERM-stack-DOCs"
+  - title: "React-DOC"
+    url: https://facebook.github.io/react/docs/components-and-props.html
+    intro: "React-DOC."
+    icon: "fa fa-book"
+  - title: "MERM-stack-DOC"
     url: http://mern.io/documentation.html
-    intro: "MERM-stack-DOCs."
+    intro: "MERM-stack-DOC."
     icon: "fa fa-book"
 
   - title: "MDN-JS-DOC"
@@ -326,27 +352,18 @@ links:
     intro: "ECMAScript-Blg-Ref."
     icon: "fa fa-book"
 
-  - title: "lib-lodash(UnderScore)-DOC"
+  - title: "Lib-lodash(UnderScore)"
     url: https://lodash.com/docs/4.17.4
-    intro: "lib-lodash(UnderScore)."
+    intro: "Lib-lodash(UnderScore)."
     icon: "fa fa-book"
-  - title: "lib-ramda-DOC"
+  - title: "Lib-ramda"
     url: http://ramdajs.com/docs/
-    intro: "lib-ramda-DOC."
-    icon: "fa fa-book"
-
-  - title: "Unpkg-CDN-service"
-    url: https://unpkg.com/#/stats
-    intro: "Unpkg-CDN-service."
-    icon: "fa fa-book"
-  - title: "Jsdelivr-CDN-service"
-    url: https://www.jsdelivr.com/
-    intro: "Jsdelivr-CDN-service."
+    intro: "Lib-ramda."
     icon: "fa fa-book"
   
-  - title: "Coffee-DOCs"
+  - title: "Coffee-DOC"
     url: http://coffeescript.org/#functions
-    intro: "Coffeescript-DOCs."
+    intro: "Coffeescript-DOC."
     icon: "fa fa-book"
   - title: "Python-DOC"
     url: https://docs.python.org/3.5/library/functions.html
@@ -364,6 +381,14 @@ links:
   - title: "Plotly-DataVisualizePy"
     url: https://plot.ly/python/ipython-notebook-tutorial/#3d-plotting
     intro: "Plotly-DataVisualize."
+    icon: "fa fa-eye"
+  - title: "CDN-service:Unpkg"
+    url: https://unpkg.com/#/stats
+    intro: "CDN-service:Unpkg."
+    icon: "fa fa-eye"
+  - title: "CDN-service:Jsdelivr"
+    url: https://www.jsdelivr.com/
+    intro: "CDN-service:Jsdelivr."
     icon: "fa fa-eye"
   
   # IDE+
