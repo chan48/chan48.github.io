@@ -54,12 +54,25 @@ links:
   - title: "MD-DraftBX"
     url: https://stackedit.io/editor
     intro: "MD-DraftBX."
-    icon: "fa fa-pencil-square"
-  
+    icon: "fa fa-pencil-square" 
   - title: "MeMo-iCloud"
     url: https://www.icloud.com/#notes2
     intro: "MeMo-iCloud."
     icon: "fa fa-pencil-square"
+
+  - title: "Google-DRV"
+    url: https://drive.google.com/drive/folders/0B5EzAQSIAOQgeFp6OWlRZVluOUk
+    intro: "Google-DRV."
+    icon: "fa fa-hdd-o"
+  - title: "Taskworld-as-trello"
+    url: https://enterprise.taskworld.com/s-chan/#/projects
+    intro: "Taskworld-as-trello."
+    icon: "fa fa-trello"
+  - title: "Mind42-MindMap"
+    url: https://mind42.com/
+    intro: "Mind42-MindMap."
+    icon: "fa fa-sitemap"
+
   - title: "Editing-Dynalist"
     url: https://dynalist.io/
     intro: "Editing-Dynalist."
@@ -90,15 +103,6 @@ links:
     intro: "Awesome-Vim."
     icon: "fa fa-plug"
 
-  # Devtool
-  - title: "Taskworld-as-trello"
-    url: https://enterprise.taskworld.com/s-chan/#/projects
-    intro: "Taskworld-as-trello."
-    icon: "fa fa-trello"
-  - title: "Mind42-MindMap"
-    url: https://mind42.com/
-    intro: "Mind42-MindMap."
-    icon: "fa fa-sitemap"
   - title: "Blog:Awesome-Dev"
     url: https://github.com/sarojaba/awesome-devblog
     intro: "Blog:Awesome-Dev."
@@ -200,7 +204,6 @@ links:
     url: https://aws.amazon.com/ko/premiumsupport/compare-plans/
     intro: "AWS-Support Plans."
     icon: "fa fa-credit-card"
-
   - title: "AWS-Whitepapers"
     url: https://aws.amazon.com/ko/whitepapers/
     intro: "AWS-Whitepapers."
