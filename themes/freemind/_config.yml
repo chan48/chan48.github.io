@@ -47,9 +47,18 @@ links:
     url: https://git-scm.com/docs
     intro: "GIT-DOCs."
     icon: "fa fa-book"
-  - title: "EditingMD-ByAdmin"
-    url: http://prose.io/#chan48/chan48.github.io/tree/gh-pages/source
-    intro: "My Github editor."
+  - title: "MD-GitHub"
+    url: http://prose.io/#chan48
+    intro: "MD-GitHub."
+    icon: "fa fa-pencil-square"
+  - title: "MD-DraftBX"
+    url: https://stackedit.io/editor
+    intro: "MD-DraftBX."
+    icon: "fa fa-pencil-square"
+  
+  - title: "MeMo-iCloud"
+    url: https://www.icloud.com/#notes2
+    intro: "MeMo-iCloud."
     icon: "fa fa-pencil-square"
   - title: "Editing-Dynalist"
     url: https://dynalist.io/
