@@ -1,5 +1,5 @@
 ---
-title: "삽질주도 학습 with 애자일 개발"
+title: test
 
 date: 2017-10-17 00:30:10
 tags: [PROJECT, qiuzAWS, 학습론, 회고, Agile, study, restart]
