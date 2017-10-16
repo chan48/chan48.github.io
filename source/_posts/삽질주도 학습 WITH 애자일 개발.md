@@ -1,7 +1,7 @@
 ---
-title: test
+title: 삽질주도 학습 WITH 애자일 개발
 
-date: 2017-10-17 00:30:10
+date: 2017-10-17 05:02:10
 tags: [PROJECT, qiuzAWS, 학습론, 회고, Agile, study, restart]
 toc: true
 
