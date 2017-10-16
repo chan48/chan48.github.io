@@ -1,5 +1,5 @@
 ---
-title: Hi~HEXO Demo-Ref-EX
+title: HEXO Demo Ref
 date: 2017-09-13 20:04:10
 description: "Hexo blog Demo Test page 입니다."
 tags: [Demo-test, start, ref-ex]

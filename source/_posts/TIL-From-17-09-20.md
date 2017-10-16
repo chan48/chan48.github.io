@@ -1,5 +1,5 @@
 ---
-title: TIL-From-17-09-20-ToDay
+title: TIL From 17-09-20
 description: "TIL Log 입니다. 오늘 한 일을 기록합니다."
 date: 2017-09-25 18:04:10
 categories: 
