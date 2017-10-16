@@ -4,7 +4,7 @@
     
     <entry>
       <title><![CDATA[삽질주도 학습 WITH 애자일 개발]]></title>
-      <url>/2017/10/17/%E1%84%89%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%AE%E1%84%83%E1%85%A9%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%20WITH%20%E1%84%8B%E1%85%A2%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF/</url>
+      <url>/2017/10/17/WITH-AGILE/</url>
       <content type="html"><![CDATA[<h2 id="javascript"><a href="#javascript" class="header-anchor">1. </a><a href="#Javascript" class="headerlink" title="Javascript"></a>Javascript</h2><hr>
 <pre><code>2000년 전후, 한창 닷컴 열풍이 불때가 있었다. 다들 한메일, 네이버 등 이런저런 포털 이메일 계정을 하나씩 만들어 
 메일주고 받거나 인터넷 카페에서 댓글 달고 답글 체크하던 게 일상생활이던 시절. 
@@ -547,12 +547,6 @@ Something about me. ;-)
     </entry>
     
     <entry>
-      <title><![CDATA[Tags]]></title>
-      <url>/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[re-invent-js]]></title>
       <url>/re-invent-js/index.html</url>
       <content type="html"><![CDATA[<h2 id="it-s-functional-programming-not-oop-method"><a href="#it-s-functional-programming-not-oop-method" class="header-anchor">1. </a><a href="#It’s-Functional-Programming-Not-OOP-method" class="headerlink" title="It’s Functional Programming Not OOP method~!!"></a>It’s Functional Programming Not OOP method~!!</h2><pre><code>- 함수형 프로그래밍 사고를 기르자
@@ -567,6 +561,12 @@ Something about me. ;-)
 <hr>
 <p>Ref-2<br><a href="https://www.codecademy.com/articles/bwa-javascript-reference" target="_blank" rel="external">JS-Basic</a><br><a href="https://www.codecademy.com/courses/intermediate-javascript-modules/lessons/modules/exercises/review?action=lesson_resume&amp;program_content_id=f76141681ae1fe73defa7f1003aa5dcc&amp;program_id=6b0a63280379cf8f3763afb1fccd186e" target="_blank" rel="external">Modules</a><br><a href="https://jongmin92.github.io/2016/08/25/Node/module-exports_exports/" target="_blank" rel="external"> module.exports와 exports 차이 이해하기</a><br><a href="https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f/" target="_blank" rel="external">require vs import</a><br><a href="http://es6-features.org/#BlockScopedVariables" target="_blank" rel="external">es6-features</a><br><a href="http://programmingsummaries.tistory.com/321" target="_blank" rel="external">commonJS</a></p>
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Tags]]></title>
+      <url>/tags/index.html</url>
+      <content type="html"></content>
     </entry>
     
   
