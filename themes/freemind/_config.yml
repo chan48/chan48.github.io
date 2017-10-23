@@ -36,7 +36,10 @@ menu:
     url: PRJTs
     intro: "PRJTs by me."
     icon: "fa fa-tasks"
-
+  - title: ABOUT-ME
+    url: aboutME
+    intro: "ABOUT-ME."
+    icon: "fa fa-user"
 
 links:
   - title: "HEXOBLG-DOCs"
@@ -55,10 +58,6 @@ links:
     url: https://stackedit.io/editor
     intro: "MD-DraftBX."
     icon: "fa fa-pencil-square" 
-  - title: "MeMo-iCloud"
-    url: https://www.icloud.com/#notes2
-    intro: "MeMo-iCloud."
-    icon: "fa fa-pencil-square"
 
   - title: "Google-DRV"
     url: https://drive.google.com/drive/folders/0B5EzAQSIAOQgeFp6OWlRZVluOUk
