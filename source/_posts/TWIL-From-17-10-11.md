@@ -1,11 +1,11 @@
 ---
-title: TWIL From 17.10.11 
+title: TWIL (This Week I Learned) From 17.10.11 
 
 date: 2017-10-22 17:50:10
 tags: [TIL-LOG, THIS-WEEK-LOG, AWS, PROJECT, qiuzAWS, serverless, graghQL]
 toc: true
 
-description: "TWIL Log 입니다. 금주 공부했던 것을 기록합니다."
+description: "Study Log 입니다. 금주 공부했던 것을 기록합니다."
 categories: 
 - TIL/THIS-WEEK-LOG
 
