@@ -3,7 +3,7 @@
   
     
     <entry>
-      <title><![CDATA[TWIL From 17.10.11]]></title>
+      <title><![CDATA[TWIL (This Week I Learned) From 17.10.11]]></title>
       <url>/2017/10/22/TWIL-From-17-10-11/</url>
       <content type="html"><![CDATA[<h2 id="10weol-11il-su"><a href="#10weol-11il-su" class="header-anchor">1. </a><a href="#10월-11일-수" class="headerlink" title="10월 11일 (수)"></a>10월 11일 (수)</h2><ul>
 <li>FrontEnd Study &gt; from Nomadcoders<br><a href="http://academy.nomadcoders.co/courses/enrolled/216871" target="_blank" rel="external">ReactJS로 웹 서비스 만들기</a> : Chapter1 (Unit6~8) 완강<blockquote>
@@ -580,16 +580,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[PRJTs]]></title>
-      <url>/PRJTs/index.html</url>
-      <content type="html"><![CDATA[<h2 id="quiz-aws"><a href="#quiz-aws" class="header-anchor">1. </a><a href="#Quiz-AWS" class="headerlink" title="Quiz-AWS"></a>Quiz-AWS</h2><pre><code>- ing ...
-</code></pre><blockquote>
-<p>To be continue…</p>
-</blockquote>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[ENG-Study-Ref]]></title>
       <url>/ENG-Study-Ref/index.html</url>
       <content type="html"><![CDATA[<h2 id="bigvoca-8000"><a href="#bigvoca-8000" class="header-anchor">1. </a><a href="#BigVoca-8000" class="headerlink" title="BigVoca - 8000"></a>BigVoca - 8000</h2><ul>
@@ -620,6 +610,16 @@
 <blockquote>
 <p><a href="https://www.howtographql.com/" target="_blank" rel="external">howtographql</a><br><a href="https://www.youtube.com/watch?v=Tpf9kVE2AY8&amp;list=RDTpf9kVE2AY8&amp;t=90" target="_blank" rel="external">How to write a GraphQL server</a><br><a href="https://scotch.io/search?q=GraphQL" target="_blank" rel="external">scotch</a><br><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">udemy</a></p>
 <p><a href="http://docs.vulcanjs.org/example-movies.html" target="_blank" rel="external">VulcanJS-DOC</a><br><a href="http://spectrumdig.blogspot.kr/search?q=vulcan" target="_blank" rel="external">VulcanJS-Blog</a><br><a href="https://www.youtube.com/channel/UCGIvQQ6zw7ov2cHgD70HFlA/playlists" target="_blank" rel="external">VulcanJS-YouTube</a><br><a href="https://www.youtube.com/watch?v=Nl0Fi40Ghh4&amp;list=PLBoa_Q6hVeSx1oP5sFYG63rPs1eDtyNOy" target="_blank" rel="external">VulcanJS-AirBnB Clone</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[PRJTs]]></title>
+      <url>/PRJTs/index.html</url>
+      <content type="html"><![CDATA[<h2 id="quiz-aws"><a href="#quiz-aws" class="header-anchor">1. </a><a href="#Quiz-AWS" class="headerlink" title="Quiz-AWS"></a>Quiz-AWS</h2><pre><code>- ing ...
+</code></pre><blockquote>
+<p>To be continue…</p>
 </blockquote>
 ]]></content>
     </entry>
