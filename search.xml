@@ -3,6 +3,98 @@
   
     
     <entry>
+      <title><![CDATA[TWIL From 17.10.11]]></title>
+      <url>/2017/10/22/TWIL-From-17-10-11/</url>
+      <content type="html"><![CDATA[<h2 id="10weol-11il-su"><a href="#10weol-11il-su" class="header-anchor">1. </a><a href="#10월-11일-수" class="headerlink" title="10월 11일 (수)"></a>10월 11일 (수)</h2><ul>
+<li>FrontEnd Study &gt; from Nomadcoders<br><a href="http://academy.nomadcoders.co/courses/enrolled/216871" target="_blank" rel="external">ReactJS로 웹 서비스 만들기</a> : Chapter1 (Unit6~8) 완강<blockquote>
+<p>“Promis &amp; async , await 관련내용이 인상깊었음”</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<h2 id="10weol-13il-geum"><a href="#10weol-13il-geum" class="header-anchor">2. </a><a href="#10월-13일-금" class="headerlink" title="10월 13일 (금)"></a>10월 13일 (금)</h2><ul>
+<li>FrontEnd Study &gt; CloneApp &gt; Meteor from Udemy<br><a href="https://www.udemy.com/meteor-react/learn/v4/content" target="_blank" rel="external">Full-Stack Web Apps with Meteor</a> : Section 1~3 (Unit1~10)<blockquote>
+<p>미뤄두었던 Udemy 강좌 수강 중… ㅠ.ㅜ </p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<h2 id="10weol-18il-su"><a href="#10weol-18il-su" class="header-anchor">3. </a><a href="#10월-18일-수" class="headerlink" title="10월 18일 (수)"></a>10월 18일 (수)</h2><ul>
+<li>FrontEnd Study &gt; CloneApp &gt; from Nomadcoders<br><a href="http://academy.nomadcoders.co/courses/enrolled/193412" target="_blank" rel="external"> 이론&gt; 카카오톡 프런트엔드 클론 코딩</a> : Chapter1~2 <blockquote>
+<p>“기존에 애매하게 알고 있던 CSS basic 개념을 간단명료하게 알 수 있어 좋았다”</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<h2 id="10weol-19il-mog"><a href="#10weol-19il-mog" class="header-anchor">4. </a><a href="#10월-19일-목" class="headerlink" title="10월 19일 (목)"></a>10월 19일 (목)</h2><ul>
+<li>FrontEnd Study &gt; CloneApp &gt; from Nomadcoders<br><a href="http://academy.nomadcoders.co/courses/enrolled/193412" target="_blank" rel="external"> 이론&gt; 카카오톡 프런트엔드 클론 코딩</a> : Chapter3~4 (완강)<blockquote>
+<p>“트랜지션, 트랜스포매이션, 애니메이션과 같은 고급효과 학습~”</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<h2 id="10weol-20il-geum"><a href="#10weol-20il-geum" class="header-anchor">5. </a><a href="#10월-20일-금" class="headerlink" title="10월 20일 (금)"></a>10월 20일 (금)</h2><ul>
+<li>FrontEnd Study &gt; CloneApp &gt; from Nomadcoders<br><a href="http://academy.nomadcoders.co/courses/enrolled/202997" target="_blank" rel="external"> 실전&gt; 카카오톡 프런트엔드 클론 코딩</a> : Chapter1~ 2.5 (Unit 1-1 ~ 2-5) <blockquote>
+<p>“실제로 Html tag 단위로 컴포넌트를 나눠가며 페이지를 구성해 나가는 것이 인상적이었다! ~”</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<h2 id="10weol-21il-to"><a href="#10weol-21il-to" class="header-anchor">6. </a><a href="#10월-21일-토" class="headerlink" title="10월 21일 (토)"></a>10월 21일 (토)</h2><ul>
+<li>FrontEnd Study &gt; CloneApp &gt; from Nomadcoders<br><a href="http://academy.nomadcoders.co/courses/enrolled/202997" target="_blank" rel="external"> 실전&gt; 카카오톡 프런트엔드 클론 코딩</a> : Chapter2.5~ 4 (완강) <blockquote>
+<p>“학습내용을 아래 MindMAP 으로 정리, 차후에 React 로 변환해보면 많은 공부가 될 듯 하다.”</p>
+</blockquote>
+</li>
+</ul>
+<iframe width="100%" height="680" frameborder="0" src="https://mind42.com/mindmap/87d7b0c1-5799-42a9-b561-1c98c88b2c1c?rel=embed"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content>
+      
+        <categories>
+            
+            <category> TIL/THIS-WEEK-LOG </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> TIL-LOG </tag>
+            
+            <tag> AWS </tag>
+            
+            <tag> PROJECT </tag>
+            
+            <tag> qiuzAWS </tag>
+            
+            <tag> serverless </tag>
+            
+            <tag> graghQL </tag>
+            
+            <tag> THIS-WEEK-LOG </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[삽질주도 학습 WITH 애자일 개발]]></title>
       <url>/2017/10/17/WITH-AGILE/</url>
       <content type="html"><![CDATA[<h2 id="javascript"><a href="#javascript" class="header-anchor">1. </a><a href="#Javascript" class="headerlink" title="Javascript"></a>Javascript</h2><hr>
@@ -145,9 +237,9 @@
     </entry>
     
     <entry>
-      <title><![CDATA[TIL From 17-09-25]]></title>
-      <url>/2017/10/09/TIL-From-17-09-25/</url>
-      <content type="html"><![CDATA[<h1 id="9weol-25il-weol"><a href="#9weol-25il-weol" class="header-anchor">1. </a><a href="#9월-25일-월" class="headerlink" title="9월 25일 (월)"></a>9월 25일 (월)</h1><ul>
+      <title><![CDATA[TIL From 17.09.25]]></title>
+      <url>/2017/10/01/TIL-From-17-09-25/</url>
+      <content type="html"><![CDATA[<h2 id="9weol-25il-weol"><a href="#9weol-25il-weol" class="header-anchor">1. </a><a href="#9월-25일-월" class="headerlink" title="9월 25일 (월)"></a>9월 25일 (월)</h2><ul>
 <li>Quiz-AWS Project Work&amp; Study<blockquote>
 <p>BackEnd Study &gt; About AWS &gt; <a href="https://acloud.guru/course/github-devops/dashboard" target="_blank" rel="external">GitHub for DevOps</a>: Section 1 ~ Section 4 (3H course 완강)</p>
 <ul>
@@ -158,7 +250,7 @@
 </li>
 </ul>
 <hr>
-<h1 id="9weol-26il-hwa"><a href="#9weol-26il-hwa" class="header-anchor">2. </a><a href="#9월-26일-화" class="headerlink" title="9월 26일 (화)"></a>9월 26일 (화)</h1><ul>
+<h2 id="9weol-26il-hwa"><a href="#9weol-26il-hwa" class="header-anchor">2. </a><a href="#9월-26일-화" class="headerlink" title="9월 26일 (화)"></a>9월 26일 (화)</h2><ul>
 <li>Quiz-AWS Project Work&amp; Study<blockquote>
 <p>BackEnd Study &gt; About AWS &gt; <a href="https://acloud.guru/course/serverless-portfolio-with-react/dashboard" target="_blank" rel="external">Create a Serverless Portfolio with AWS and React</a>: Section 1 ~ Section 5 (6H course 완강)</p>
 <ul>
@@ -169,7 +261,7 @@
 </li>
 </ul>
 <hr>
-<h1 id="9weol-27il-su"><a href="#9weol-27il-su" class="header-anchor">3. </a><a href="#9월-27일-수" class="headerlink" title="9월 27일 (수)"></a>9월 27일 (수)</h1><ul>
+<h2 id="9weol-27il-su"><a href="#9weol-27il-su" class="header-anchor">3. </a><a href="#9월-27일-수" class="headerlink" title="9월 27일 (수)"></a>9월 27일 (수)</h2><ul>
 <li>Quiz-AWS Project Work&amp; Study<blockquote>
 <p>FrontEnd Study &gt; <a href="https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbwa" target="_blank" rel="external">Codecademy Pro Intensive &gt; Build Front-End Web Apps</a> : Day 13 ~ Day 19</p>
 <ul>
@@ -179,7 +271,7 @@
 </li>
 </ul>
 <hr>
-<h1 id="9weol-28il-mog"><a href="#9weol-28il-mog" class="header-anchor">4. </a><a href="#9월-28일-목" class="headerlink" title="9월 28일 (목)"></a>9월 28일 (목)</h1><ul>
+<h2 id="9weol-28il-mog"><a href="#9weol-28il-mog" class="header-anchor">4. </a><a href="#9월-28일-목" class="headerlink" title="9월 28일 (목)"></a>9월 28일 (목)</h2><ul>
 <li><p>Quiz-AWS Project Work&amp; Study</p>
 <blockquote>
 <p>FrontEnd Study &gt; <a href="https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbwa" target="_blank" rel="external">Codecademy Pro Intensive &gt; Build Front-End Web Apps</a> : Day 19 ~ Day 25 (Unit2-D5)</p>
@@ -191,9 +283,9 @@
 </li>
 </ul>
 <hr>
-<h1 id="9weol-29il-geum"><a href="#9weol-29il-geum" class="header-anchor">5. </a><a href="#9월-29일-금" class="headerlink" title="9월 29일 (금)"></a>9월 29일 (금)</h1><ul>
+<h2 id="9weol-29il-geum"><a href="#9weol-29il-geum" class="header-anchor">5. </a><a href="#9월-29일-금" class="headerlink" title="9월 29일 (금)"></a>9월 29일 (금)</h2><ul>
 <li>Quiz-AWS Project Work&amp; Study<blockquote>
-<p>FrontEnd Study<br><a href="https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbwa" target="_blank" rel="external">Codecademy Pro Intensive &gt; Build Front-End Web Apps</a> : Day 25 ~ Day 32 (Unit2-D12)</p>
+<p>FrontEnd Study<br> <a href="https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbwa" target="_blank" rel="external">Codecademy Pro Intensive &gt; Build Front-End Web Apps</a> : Day 25 ~ Day 32 (Unit2-D12)</p>
 <ul>
 <li>React : passing info.<br><a href="http://academy.nomadcoders.co/courses/enrolled/216871" target="_blank" rel="external">Nomadcoders &gt; [실전] ReactJS로 웹 서비스 만들기</a> : Chapter1 (Unit1~5)</li>
 <li>“React 관련하여 우연히 nomadercoder 강의를 보다가 빠져들었음… 직관적으로 잘 가르치는 듯”</li>
@@ -202,7 +294,7 @@
 </li>
 </ul>
 <hr>
-<h1 id="9weol-30il-to"><a href="#9weol-30il-to" class="header-anchor">6. </a><a href="#9월-30일-토" class="headerlink" title="9월 30일 (토)"></a>9월 30일 (토)</h1><ul>
+<h2 id="9weol-30il-to"><a href="#9weol-30il-to" class="header-anchor">6. </a><a href="#9월-30일-토" class="headerlink" title="9월 30일 (토)"></a>9월 30일 (토)</h2><ul>
 <li>Quiz-AWS Project Work&amp; Study<blockquote>
 <p>BackEnd Study &gt; About AWS &gt; <a href="https://onoffmix.com/event/109466" target="_blank" rel="external">AWS 서버리스(Serverless) 워크샵 시리즈 2017</a>: 서버리스 AWS 세미나 참여; SAM 예제실습 </p>
 <ul>
@@ -242,9 +334,9 @@
     </entry>
     
     <entry>
-      <title><![CDATA[TIL From 17-09-20]]></title>
+      <title><![CDATA[TIL From 17.09.20]]></title>
       <url>/2017/09/25/TIL-From-17-09-20/</url>
-      <content type="html"><![CDATA[<h1 id="9weol-20il-su"><a href="#9weol-20il-su" class="header-anchor">1. </a><a href="#9월-20일-수" class="headerlink" title="9월 20일 (수)"></a>9월 20일 (수)</h1><ul>
+      <content type="html"><![CDATA[<h2 id="9weol-20il-su"><a href="#9weol-20il-su" class="header-anchor">1. </a><a href="#9월-20일-수" class="headerlink" title="9월 20일 (수)"></a>9월 20일 (수)</h2><ul>
 <li><p>Quiz-AWS Project Work&amp; Study</p>
 <blockquote>
 <p>FrontEnd Study &gt; <a href="https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbwa" target="_blank" rel="external">Codecademy Pro Intensive &gt; Build Front-End Web Apps</a> : Day 9 ~ Day 13</p>
@@ -260,14 +352,14 @@
 </li>
 </ul>
 <hr>
-<h1 id="9weol-21il-mog"><a href="#9weol-21il-mog" class="header-anchor">2. </a><a href="#9월-21일-목" class="headerlink" title="9월 21일 (목)"></a>9월 21일 (목)</h1><ul>
+<h2 id="9weol-21il-mog"><a href="#9weol-21il-mog" class="header-anchor">2. </a><a href="#9월-21일-목" class="headerlink" title="9월 21일 (목)"></a>9월 21일 (목)</h2><ul>
 <li>AWS DevDay &amp; Community Day 행사참여 <blockquote>
 <p><a href="https://www.facebook.com/sangjae.shin/posts/1589297184424803" target="_blank" rel="external">Serverless 로 구현한 AWS project 데모가 흥미로웠음</a> </p>
 </blockquote>
 </li>
 </ul>
 <hr>
-<h1 id="9weol-22il-geum"><a href="#9weol-22il-geum" class="header-anchor">3. </a><a href="#9월-22일-금" class="headerlink" title="9월 22일 (금)"></a>9월 22일 (금)</h1><ul>
+<h2 id="9weol-22il-geum"><a href="#9weol-22il-geum" class="header-anchor">3. </a><a href="#9월-22일-금" class="headerlink" title="9월 22일 (금)"></a>9월 22일 (금)</h2><ul>
 <li><p>Quiz-AWS Project Work&amp; Study</p>
 <blockquote>
 <p>BackEnd Study &gt; About AWS &gt; <a href="https://acloud.guru/learn/serverless-with-graphql" target="_blank" rel="external">serverless-with-graphql</a>: Section 4 ~ Section 6 (완강)</p>
@@ -310,9 +402,9 @@
     </entry>
     
     <entry>
-      <title><![CDATA[TIL From 17-09-15]]></title>
-      <url>/2017/09/15/TIL-From-17-09-15/</url>
-      <content type="html"><![CDATA[<h1 id="9weol-15il-geum"><a href="#9weol-15il-geum" class="header-anchor">1. </a><a href="#9월-15일-금" class="headerlink" title="9월 15일 (금)"></a>9월 15일 (금)</h1><ul>
+      <title><![CDATA[TIL From 17.09.15]]></title>
+      <url>/2017/09/19/TIL-From-17-09-15/</url>
+      <content type="html"><![CDATA[<h2 id="9weol-15il-geum"><a href="#9weol-15il-geum" class="header-anchor">1. </a><a href="#9월-15일-금" class="headerlink" title="9월 15일 (금)"></a>9월 15일 (금)</h2><ul>
 <li><p>Ruby 기반 Jekyll Test Blog 를 Node 기반 Hexo 로 변경</p>
 <ul>
 <li>Ref site 참고사항 및 기타 BLOG 설정완료<blockquote>
@@ -335,7 +427,7 @@
 </li>
 </ul>
 <hr>
-<h1 id="9weol-18il-weol"><a href="#9weol-18il-weol" class="header-anchor">2. </a><a href="#9월-18일-월" class="headerlink" title="9월 18일 (월)"></a>9월 18일 (월)</h1><ul>
+<h2 id="9weol-18il-weol"><a href="#9weol-18il-weol" class="header-anchor">2. </a><a href="#9월-18일-월" class="headerlink" title="9월 18일 (월)"></a>9월 18일 (월)</h2><ul>
 <li>QuizAWS Project 관련 Aws &gt; Codestar &gt; Serverless express framework 코드생성</li>
 <li>Codestar &gt; Codecommit repo 와 github repo 간의 동기화 또는 CodePipeLine 작업처리 고민</li>
 <li>serverless-with-graphql 관련자료들 확인… <blockquote>
@@ -344,7 +436,7 @@
 </li>
 </ul>
 <hr>
-<h1 id="9weol-19il-hwa"><a href="#9weol-19il-hwa" class="header-anchor">3. </a><a href="#9월-19일-화" class="headerlink" title="9월 19일 (화)"></a>9월 19일 (화)</h1><ul>
+<h2 id="9weol-19il-hwa"><a href="#9weol-19il-hwa" class="header-anchor">3. </a><a href="#9월-19일-화" class="headerlink" title="9월 19일 (화)"></a>9월 19일 (화)</h2><ul>
 <li>Taskworld Kanban (like trello) 모듈 작업계획 수정갱신 및 일정에 따른 학습/작업 우선순위 고민 해보기</li>
 <li>Quiz-AWS Project study<blockquote>
 <p>FrontEnd Study &gt; <a href="https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbwa" target="_blank" rel="external">Codecademy Pro Intensive &gt; Build Front-End Web Apps</a> : From Day 9 ~<br>BackEnd Study &gt; About AWS &gt; <a href="https://acloud.guru/learn/serverless-with-graphql" target="_blank" rel="external">serverless-with-graphql</a>: Day 1 (CHAPTER 1&gt; Section 1) </p>
@@ -488,6 +580,16 @@
     </entry>
     
     <entry>
+      <title><![CDATA[PRJTs]]></title>
+      <url>/PRJTs/index.html</url>
+      <content type="html"><![CDATA[<h2 id="quiz-aws"><a href="#quiz-aws" class="header-anchor">1. </a><a href="#Quiz-AWS" class="headerlink" title="Quiz-AWS"></a>Quiz-AWS</h2><pre><code>- ing ...
+</code></pre><blockquote>
+<p>To be continue…</p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[ENG-Study-Ref]]></title>
       <url>/ENG-Study-Ref/index.html</url>
       <content type="html"><![CDATA[<h2 id="bigvoca-8000"><a href="#bigvoca-8000" class="header-anchor">1. </a><a href="#BigVoca-8000" class="headerlink" title="BigVoca - 8000"></a>BigVoca - 8000</h2><ul>
@@ -523,12 +625,10 @@
     </entry>
     
     <entry>
-      <title><![CDATA[PRJTs]]></title>
-      <url>/PRJTs/index.html</url>
-      <content type="html"><![CDATA[<h2 id="quiz-aws"><a href="#quiz-aws" class="header-anchor">1. </a><a href="#Quiz-AWS" class="headerlink" title="Quiz-AWS"></a>Quiz-AWS</h2><pre><code>- ing ...
-</code></pre><blockquote>
-<p>To be continue…</p>
-</blockquote>
+      <title><![CDATA[About]]></title>
+      <url>/aboutME/index.html</url>
+      <content type="html"><![CDATA[
+Something about me. ;-)
 ]]></content>
     </entry>
     
@@ -536,14 +636,6 @@
       <title><![CDATA[Categories]]></title>
       <url>/categories/index.html</url>
       <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[About]]></title>
-      <url>/about/index.html</url>
-      <content type="html"><![CDATA[
-Something about me. ;-)
-]]></content>
     </entry>
     
     <entry>
