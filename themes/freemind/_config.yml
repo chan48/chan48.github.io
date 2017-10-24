@@ -203,9 +203,26 @@ links:
     url: https://aws.amazon.com/ko/premiumsupport/compare-plans/
     intro: "AWS-Support Plans."
     icon: "fa fa-credit-card"
+  - title: "AWS-FAQ"
+    url: https://aws.amazon.com/ko/faqs/
+    intro: "AWS-FAQ."
+    icon: "fa fa-cloud"
+  - title: "AWS-AWSCertified-Guide"
+    url: https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide
+    intro: "AWS-AWSCertified-Guide."
+    icon: "fa fa-cloud"
+    
   - title: "AWS-Whitepapers"
     url: https://aws.amazon.com/ko/whitepapers/
     intro: "AWS-Whitepapers."
+    icon: "fa fa-cloud"
+  - title: "AWS-Whitepapers-list"
+    url: https://aws.amazon.com/ko/blogs/korea/ko-whitepapers/
+    intro: "AWS-Whitepapers-list."
+    icon: "fa fa-cloud"
+  - title: "AWS-Tutorial-DOC"
+    url: https://aws.amazon.com/ko/documentation/
+    intro: "AWS-Tutorial-DOC."
     icon: "fa fa-cloud"
   - title: "AWS-Webinar"
     url: https://aws.amazon.com/ko/blogs/korea/category/webinar/
