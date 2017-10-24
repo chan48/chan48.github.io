@@ -457,6 +457,26 @@ links:
     url: https://reactarmory.com/examples/hello-world/raw-hello-world
     intro: "Reactarmory-Ref."
     icon: "fa fa-terminal"
+  - title: "Repl-ES6-Editor"
+    url: https://repl.it/languages/babel
+    intro: "Repl-ES6-Editor."
+    icon: "fa fa-terminal"
+  - title: "Repl-ES6-Editor"
+    url: https://repl.it/languages/babel
+    intro: "Repl-ES6-Editor."
+    icon: "fa fa-terminal"
+  - title: "Repl-Node-Editor"
+    url: https://repl.it/languages/nodejs
+    intro: "Repl-Node-Editor."
+    icon: "fa fa-terminal"
+  - title: "Repl-Web-Editor"
+    url: https://repl.it/languages/web_project
+    intro: "Repl-Web-Editor."
+    icon: "fa fa-terminal"
+  - title: "VisualizeCode-Editor"
+    url: http://www.pythontutor.com/visualize.html#mode=edit
+    intro: "VisualizeCode-Editor."
+    icon: "fa fa-terminal"
 
   - title: "Programmers-Algo"
     url: https://programmers.co.kr/learn/challenges
