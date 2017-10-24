@@ -62,7 +62,7 @@ $ npm run git-pull
    1. Item 3b
 
 
-## Feature : Insert code, embed & Etc.
+## Feature : Insert code, embed & Etc.EX
 
 - - -
 ### Repl.it >
@@ -116,7 +116,20 @@ $ npm run git-pull
 [AWS 6월 웨비나  AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)](https://www.slideshare.net/awskorea/aws-code-star-devops)
 
 - - -
+### YouTube > 
 
+```js
+// embed code
+<iframe width="100%" height="540" src="https://www.youtube.com/embed/o8NPllzkFhE" frameborder="0" allowfullscreen></iframe>
+```
+
+#### Example > 
+
+<iframe width="100%" height="540" src="https://www.youtube.com/embed/o8NPllzkFhE" frameborder="0" allowfullscreen></iframe>
+
+
+
+- - -
 ### Mind42 > 
 
 ```js
