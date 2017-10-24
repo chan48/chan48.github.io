@@ -18,8 +18,7 @@ published: true
 >[wit.nts-corp.com/~](http://wit.nts-corp.com/2013/09/10/148)
 >[m.blog.naver.com/~](https://m.blog.naver.com/PostView.nhn?blogId=future_creator&logNo=220722153999&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
 
-- HEXO SET-UP
-  ![](/images/HEXO-SETUP.png)
+
 
 - [Codecademy Pro Intensive > Build Front-End Web Apps](https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbwa) ~ Day 8 까지 완료
 

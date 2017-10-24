@@ -3,17 +3,15 @@
 /* highlight */
 
 pre, .highlight {  
-  /* background: #565ca0 !important; */
-  /* background: #3e4175 !important; */ 
-  background: #3e3f3b !important; 
-  /* background: #333 !important; */
+  background: #F5F5F5 !important;
+  /* background: #FFE07B !important; */
   margin: 0.5em 0;
   padding: 1em 2%;
   overflow: auto;
-  color: #FFE07B !important;  
-  /* color: #ccc !important;   */
+  color: #672d82!important;
+  /* color: #D83846!important; */
   font-size: 14px;
-  text-shadow: none;
+  text-shadow: none; 
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;  
@@ -39,7 +37,8 @@ code {
   text-align: left;
   padding-right: 20px;
   width: 100%;
-  color: #666;  
+  color: #ddd; 
+  /* color: #666;   */
 }
 
 pre,
@@ -72,68 +71,7 @@ pre code {
 
 /* gist */
 
-.gist div {
-  padding: 0;
-  margin: 0;
-}
 
-.gist .gist-file {
-  border: 1px solid #dedede; /* gray */
-  /* font-family: Monaco, 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', monospace; */
-  margin-bottom: 1em;
-}
-
-.gist .gist-file .gist-meta {
-  /* overflow: hidden; */
-  font-size: 85%;
-  padding: .5em 12px;
-  color: #666;
-  background-color: #f5f5f5;
-  font-size: 12px;
-}
-
-.gist .gist-file .gist-meta a {
-  color: #666;
-}
-
-.gist .gist-file .gist-meta a:visited {
-  color: color-link;
-}
-
-.gist .gist-file .gist-data {
-  /* overflow: auto; */
-  word-wrap: normal;
-  background-color: #f8f8ff;
-  border-bottom: 1px solid #ddd;
-  font-size: 100%;
-}
-
-.gist .gist-file .gist-data pre {
-  /* font-family: 'Bitstream Vera Sans Mono', 'Courier', monospace; */
-  background: none !important;
-  /* background: transparent !important; */
-  margin: 0 !important;
-  border: none !important;
-  padding: .25em .5em .5em .5em !important;
-}
-
-.gist .gist-file .gist-data .gist-highlight {
-  background: #FFE07B !important;
-  /* background: transparent !important; */
-}
-
-.gist .gist-file .gist-data .gist-line-numbers {
-  background-color: #ececec;
-  color: #FFE07B;
-  /* color: #aaa; */
-  border-right: 1px solid #ddd;
-  text-align: right;
-}
-
-.gist .gist-file .gist-data .gist-line-numbers span {
-  clear: right;
-  display: block;
-}
 
 /* figcaption */
 
@@ -172,8 +110,7 @@ pre .html .doctype,
 pre .css .id,
 pre .css .class,
 pre .css .pseudo {
-  color: rgb(245, 186, 8);
-  /* color: #f2777a; */
+  color: #f2777a!important;
 }
 pre .number,
 pre .preprocessor,
@@ -181,12 +118,12 @@ pre .built_in,
 pre .literal,
 pre .params,
 pre .constant {
-  color: #f99157;
+  color: #f99157!important;
 }
 pre .class,
 pre .ruby .class .title,
 pre .css .rules .attribute {
-  color: #9c9;
+  color: #376137!important;
 }
 pre .string,
 pre .value,
@@ -194,10 +131,11 @@ pre .inheritance,
 pre .header,
 pre .ruby .symbol,
 pre .xml .cdata {
-  color: #9c9;
+  color: #25323B!important;
+  /* color: #25323B!important; */
 }
 pre .css .hexcolor {
-  color: #6cc;
+  color: #6cc!important;
 }
 pre .function,
 pre .python .decorator,
@@ -207,9 +145,9 @@ pre .ruby .title .keyword,
 pre .perl .sub,
 pre .javascript .title,
 pre .coffeescript .title {
-  color: #69c;
+  color: #69c!important;
 }
 pre .keyword,
 pre .javascript .function {
-  color: #c9c;
+  color: #c9c!important;
 }

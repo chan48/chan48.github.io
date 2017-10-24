@@ -1,57 +1,30 @@
 ---
-title: HEXO Demo Ref
+title: Demo Ex on Hexo 
 date: 2017-09-13 20:04:10
-description: "Hexo blog Demo Test page 입니다."
-tags: [Demo-test, start, ref-ex]
+description: "Hexo Demo page 입니다."
+tags: [Demo-test, start, ref-ex, pin]
 categories: 
 - test/ref-ex
 toc: true
 published: true
+top: true
 ---
 
 ## Quick Start
+Hexo 블로그 테스트 가이드 입니다. 
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+- HEXO SET-UP
+  ![](/images/HEXO-SETUP.png)
 
 ### Alias Generate & Deploy (My Customizing)
 
 ``` bash
+$ npm start
+$ npm run g
+...
 $ npm run git-up
 $ npm run deploy
+...
 $ npm run git-pull
 ```
 
@@ -86,17 +59,11 @@ $ npm run git-pull
 
 [AWS 6월 웨비나  AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)](https://www.slideshare.net/awskorea/aws-code-star-devops)
 
-### Gist >
-```js
-//code
-{% gist chan48/ec4c9293a5e14b88a7778692c3e64c56 %}
 
-//embed
-<script src="https://gist.github.com/chan48/ec4c9293a5e14b88a7778692c3e64c56.js"></script>
-```
-#### Example > 
+- - -
 
-{% gist chan48/ec4c9293a5e14b88a7778692c3e64c56 %}
+
+
 
 ### CodePen > 
 
