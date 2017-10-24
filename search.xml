@@ -405,16 +405,15 @@
       <title><![CDATA[TIL From 17.09.15]]></title>
       <url>/2017/09/19/TIL-From-17-09-15/</url>
       <content type="html"><![CDATA[<h2 id="9weol-15il-geum"><a href="#9weol-15il-geum" class="header-anchor">1. </a><a href="#9월-15일-금" class="headerlink" title="9월 15일 (금)"></a>9월 15일 (금)</h2><ul>
-<li><p>Ruby 기반 Jekyll Test Blog 를 Node 기반 Hexo 로 변경</p>
-<ul>
+<li>Ruby 기반 Jekyll Test Blog 를 Node 기반 Hexo 로 변경<ul>
 <li>Ref site 참고사항 및 기타 BLOG 설정완료<blockquote>
 <p><a href="https://www.holaxprogramming.com/2017/04/16/github-page-and-hexo/" target="_blank" rel="external">holaxprogramming.com/github-page-and-hexo/</a><br><a href="https://hexo.io/ko/docs/commands.html" target="_blank" rel="external">hexo.io/ko/docs/commands</a><br><a href="http://blog.lattecom.xyz/2016/06/28/hexo-blog-github-pages/" target="_blank" rel="external">blog.lattecom.xyz/hexo-blog-github-pages/</a><br><a href="http://wit.nts-corp.com/2013/09/10/148" target="_blank" rel="external">wit.nts-corp.com/~</a><br><a href="https://m.blog.naver.com/PostView.nhn?blogId=future_creator&amp;logNo=220722153999&amp;proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F" target="_blank" rel="external">m.blog.naver.com/~</a></p>
 </blockquote>
 </li>
 </ul>
 </li>
-<li><p>HEXO SET-UP<br><img src="/images/HEXO-SETUP.png" alt=""></p>
-</li>
+</ul>
+<ul>
 <li><p><a href="https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbwa" target="_blank" rel="external">Codecademy Pro Intensive &gt; Build Front-End Web Apps</a> ~ Day 8 까지 완료</p>
 </li>
 <li><p>Aws root 계정 MFA 적용 및 IAM 관리자계정 설정, Only IAM 로그인 &amp; AWS CLI 관련패치 </p>
@@ -471,19 +470,14 @@
     </entry>
     
     <entry>
-      <title><![CDATA[HEXO Demo Ref]]></title>
-      <url>/2017/09/13/Hi-HEXO-Demo-Ref-EX/</url>
-      <content type="html"><![CDATA[<h2 id="quick-start"><a href="#quick-start" class="header-anchor">1. </a><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h3 id="create-a-new-post"><a href="#create-a-new-post" class="header-anchor">1.1. </a><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="run-server"><a href="#run-server" class="header-anchor">1.2. </a><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="generate-static-files"><a href="#generate-static-files" class="header-anchor">1.3. </a><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="deploy-to-remote-sites"><a href="#deploy-to-remote-sites" class="header-anchor">1.4. </a><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-<h3 id="alias-generate-amp-deploy-my-customizing"><a href="#alias-generate-amp-deploy-my-customizing" class="header-anchor">1.5. </a><a href="#Alias-Generate-amp-Deploy-My-Customizing" class="headerlink" title="Alias Generate &amp; Deploy (My Customizing)"></a>Alias Generate &amp; Deploy (My Customizing)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">$ npm run git-up</div><div class="line">$ npm run deploy</div><div class="line">$ npm run git-pull</div></pre></td></tr></table></figure>
-<h3 id="deulyeosseugi-tests-list-tab"><a href="#deulyeosseugi-tests-list-tab" class="header-anchor">1.6. </a><a href="#들여쓰기-Tests-list-tab" class="headerlink" title="들여쓰기 Tests (list-tab)"></a>들여쓰기 Tests (list-tab)</h3><blockquote>
+      <title><![CDATA[Demo Ex on Hexo]]></title>
+      <url>/2017/09/13/HEXO-Demo-EX/</url>
+      <content type="html"><![CDATA[<h2 id="quick-start"><a href="#quick-start" class="header-anchor">1. </a><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>Hexo 블로그 테스트 가이드 입니다. </p>
+<ul>
+<li>HEXO SET-UP<br><img src="/images/HEXO-SETUP.png" alt=""></li>
+</ul>
+<h3 id="alias-generate-amp-deploy-my-customizing"><a href="#alias-generate-amp-deploy-my-customizing" class="header-anchor">1.1. </a><a href="#Alias-Generate-amp-Deploy-My-Customizing" class="headerlink" title="Alias Generate &amp; Deploy (My Customizing)"></a>Alias Generate &amp; Deploy (My Customizing)</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">$ npm start</div><div class="line">$ npm run g</div><div class="line">...</div><div class="line">$ npm run git-up</div><div class="line">$ npm run deploy</div><div class="line">...</div><div class="line">$ npm run git-pull</div></pre></td></tr></table></figure>
+<h3 id="deulyeosseugi-tests-list-tab"><a href="#deulyeosseugi-tests-list-tab" class="header-anchor">1.2. </a><a href="#들여쓰기-Tests-list-tab" class="headerlink" title="들여쓰기 Tests (list-tab)"></a>들여쓰기 Tests (list-tab)</h3><blockquote>
 <ul>
 <li>test1<ul>
 <li><strong>test2</strong> <ul>
@@ -514,24 +508,23 @@
 <h4 id="example-gt"><a href="#example-gt" class="header-anchor">2.1.1. </a><a href="#Example-gt" class="headerlink" title="Example &gt;"></a>Example &gt;</h4><iframe src="//www.slideshare.net/slideshow/embed_code/key/3G6d3GWSW3COF4" width="860" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 <p><a href="https://www.slideshare.net/awskorea/aws-code-star-devops" target="_blank" rel="external">AWS 6월 웨비나  AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)</a></p>
-<h3 id="gist-gt"><a href="#gist-gt" class="header-anchor">2.2. </a><a href="#Gist-gt" class="headerlink" title="Gist &gt;"></a>Gist &gt;</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//code</span></div><div class="line">&#123;% gist chan48/ec4c9293a5e14b88a7778692c3e64c56 %&#125;</div><div class="line"></div><div class="line"><span class="comment">//embed</span></div><div class="line">&lt;script src=<span class="string">"https://gist.github.com/chan48/ec4c9293a5e14b88a7778692c3e64c56.js"</span>&gt;&lt;/script&gt;</div></pre></td></tr></table></figure>
-<h4 id="example-gt"><a href="#example-gt" class="header-anchor">2.2.1. </a><a href="#Example-gt-1" class="headerlink" title="Example &gt;"></a>Example &gt;</h4><script src="//gist.github.com/chan48/ec4c9293a5e14b88a7778692c3e64c56.js"></script>
-<h3 id="codepen-gt"><a href="#codepen-gt" class="header-anchor">2.3. </a><a href="#CodePen-gt" class="headerlink" title="CodePen &gt;"></a>CodePen &gt;</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//mk code</span></div><div class="line">&#123;% codepen ch9|anonymous|anon slugHash theme [defaultTab [height [width]]] %&#125;</div><div class="line"></div><div class="line"><span class="comment">//html code</span></div><div class="line">&lt;p data-height=<span class="string">"265"</span> data-theme-id=<span class="string">"0"</span> data-slug-hash=<span class="string">"RLPyzJ"</span> data-<span class="keyword">default</span>-tab=<span class="string">"html,result"</span> data-user=<span class="string">"ch9"</span> data-embed-version=<span class="string">"2"</span> data-pen-title=<span class="string">"Das Video-Element"</span> <span class="class"><span class="keyword">class</span></span>=<span class="string">"codepen"</span>&gt;See the Pen &lt;a href=<span class="string">"https://codepen.io/ch9/pen/RLPyzJ/"</span>&gt;Das Video-Element&lt;<span class="regexp">/a&gt; by chan (&lt;a href="https:/</span><span class="regexp">/codepen.io/</span>ch9<span class="string">"&gt;@ch9&lt;/a&gt;) on &lt;a href="</span>https:<span class="comment">//codepen.io"&gt;CodePen&lt;/a&gt;.&lt;/p&gt;</span></div><div class="line">&lt;script <span class="keyword">async</span> src=<span class="string">"https://production-assets.codepen.io/assets/embed/ei.js"</span>&gt;&lt;/script&gt;</div></pre></td></tr></table></figure>
 <hr>
-<h4 id="example-gt"><a href="#example-gt" class="header-anchor">2.3.1. </a><a href="#Example-gt-2" class="headerlink" title="Example &gt;"></a>Example &gt;</h4><p></p><p data-height="600" data-theme-id="0" data-slug-hash="RLPyzJ" data-default-tab="html,result" data-user="ch9" data-embed-version="2" data-pen-title="Das Video-Element" class="codepen">See the Pen <a href="https://codepen.io/ch9/pen/RLPyzJ/" target="_blank" rel="external">Das Video-Element</a> by chan (<a href="https://codepen.io/ch9" target="_blank" rel="external">@ch9</a>) on <a href="https://codepen.io" target="_blank" rel="external">CodePen</a>.</p><p></p>
+<h3 id="codepen-gt"><a href="#codepen-gt" class="header-anchor">2.2. </a><a href="#CodePen-gt" class="headerlink" title="CodePen &gt;"></a>CodePen &gt;</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//mk code</span></div><div class="line">&#123;% codepen ch9|anonymous|anon slugHash theme [defaultTab [height [width]]] %&#125;</div><div class="line"></div><div class="line"><span class="comment">//html code</span></div><div class="line">&lt;p data-height=<span class="string">"265"</span> data-theme-id=<span class="string">"0"</span> data-slug-hash=<span class="string">"RLPyzJ"</span> data-<span class="keyword">default</span>-tab=<span class="string">"html,result"</span> data-user=<span class="string">"ch9"</span> data-embed-version=<span class="string">"2"</span> data-pen-title=<span class="string">"Das Video-Element"</span> <span class="class"><span class="keyword">class</span></span>=<span class="string">"codepen"</span>&gt;See the Pen &lt;a href=<span class="string">"https://codepen.io/ch9/pen/RLPyzJ/"</span>&gt;Das Video-Element&lt;<span class="regexp">/a&gt; by chan (&lt;a href="https:/</span><span class="regexp">/codepen.io/</span>ch9<span class="string">"&gt;@ch9&lt;/a&gt;) on &lt;a href="</span>https:<span class="comment">//codepen.io"&gt;CodePen&lt;/a&gt;.&lt;/p&gt;</span></div><div class="line">&lt;script <span class="keyword">async</span> src=<span class="string">"https://production-assets.codepen.io/assets/embed/ei.js"</span>&gt;&lt;/script&gt;</div></pre></td></tr></table></figure>
+<hr>
+<h4 id="example-gt"><a href="#example-gt" class="header-anchor">2.2.1. </a><a href="#Example-gt-1" class="headerlink" title="Example &gt;"></a>Example &gt;</h4><p></p><p data-height="600" data-theme-id="0" data-slug-hash="RLPyzJ" data-default-tab="html,result" data-user="ch9" data-embed-version="2" data-pen-title="Das Video-Element" class="codepen">See the Pen <a href="https://codepen.io/ch9/pen/RLPyzJ/" target="_blank" rel="external">Das Video-Element</a> by chan (<a href="https://codepen.io/ch9" target="_blank" rel="external">@ch9</a>) on <a href="https://codepen.io" target="_blank" rel="external">CodePen</a>.</p><p></p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 
-<h3 id="stackblitz-gt"><a href="#stackblitz-gt" class="header-anchor">2.4. </a><a href="#Stackblitz-gt" class="headerlink" title="Stackblitz &gt;"></a>Stackblitz &gt;</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;iframe style=<span class="string">"border:none"</span> width=<span class="string">"100%"</span> height=<span class="string">"650px"</span> src=<span class="string">"https://stackblitz.com/edit/react-sb6bgp?embed=1&amp;file=index.js"</span>&gt;&lt;/iframe&gt;</div></pre></td></tr></table></figure>
+<h3 id="stackblitz-gt"><a href="#stackblitz-gt" class="header-anchor">2.3. </a><a href="#Stackblitz-gt" class="headerlink" title="Stackblitz &gt;"></a>Stackblitz &gt;</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;iframe style=<span class="string">"border:none"</span> width=<span class="string">"100%"</span> height=<span class="string">"650px"</span> src=<span class="string">"https://stackblitz.com/edit/react-sb6bgp?embed=1&amp;file=index.js"</span>&gt;&lt;/iframe&gt;</div></pre></td></tr></table></figure>
 <hr>
-<h4 id="example-gt"><a href="#example-gt" class="header-anchor">2.4.1. </a><a href="#Example-gt-3" class="headerlink" title="Example &gt;"></a>Example &gt;</h4><iframe style="border:none" width="100%" height="650px" src="https://stackblitz.com/edit/react-sb6bgp?embed=1&file=index.js"></iframe>
+<h4 id="example-gt"><a href="#example-gt" class="header-anchor">2.3.1. </a><a href="#Example-gt-2" class="headerlink" title="Example &gt;"></a>Example &gt;</h4><iframe style="border:none" width="100%" height="650px" src="https://stackblitz.com/edit/react-sb6bgp?embed=1&file=index.js"></iframe>
 
 
 
 
-<h3 id="mind42-gt"><a href="#mind42-gt" class="header-anchor">2.5. </a><a href="#Mind42-gt" class="headerlink" title="Mind42 &gt;"></a>Mind42 &gt;</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// embed code</span></div><div class="line">&lt;iframe width=<span class="string">'100%'</span> height=<span class="string">'860'</span> frameborder=<span class="string">'0'</span> src=<span class="string">'https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed'</span>&gt;&lt;/iframe&gt;</div></pre></td></tr></table></figure>
+<h3 id="mind42-gt"><a href="#mind42-gt" class="header-anchor">2.4. </a><a href="#Mind42-gt" class="headerlink" title="Mind42 &gt;"></a>Mind42 &gt;</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// embed code</span></div><div class="line">&lt;iframe width=<span class="string">'100%'</span> height=<span class="string">'860'</span> frameborder=<span class="string">'0'</span> src=<span class="string">'https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed'</span>&gt;&lt;/iframe&gt;</div></pre></td></tr></table></figure>
 <hr>
-<h4 id="example-gt"><a href="#example-gt" class="header-anchor">2.5.1. </a><a href="#Example-gt-4" class="headerlink" title="Example &gt;"></a>Example &gt;</h4><iframe width="100%" height="760" frameborder="0" src="https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed"></iframe>
+<h4 id="example-gt"><a href="#example-gt" class="header-anchor">2.4.1. </a><a href="#Example-gt-3" class="headerlink" title="Example &gt;"></a>Example &gt;</h4><iframe width="100%" height="760" frameborder="0" src="https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed"></iframe>
 
 
 ]]></content>
@@ -551,33 +544,14 @@
             
             <tag> ref-ex </tag>
             
+            <tag> pin </tag>
+            
         </tags>
         
     </entry>
     
   
   
-    
-    <entry>
-      <title><![CDATA[Dev-Roadmap]]></title>
-      <url>/Dev-Roadmap/index.html</url>
-      <content type="html"><![CDATA[<h2 id="basic-knowledge"><a href="#basic-knowledge" class="header-anchor">1. </a><a href="#🚀-Basic-knowledge" class="headerlink" title="🚀 Basic-knowledge"></a>🚀 Basic-knowledge</h2><p><img src="/images/intro-map.png" alt=""></p>
-<h2 id="frondend-roadmap"><a href="#frondend-roadmap" class="header-anchor">2. </a><a href="#🎨-FrondEnd-RoadMap" class="headerlink" title="🎨 FrondEnd-RoadMap"></a>🎨 FrondEnd-RoadMap</h2><p><img src="/images/frontend-map.png" alt=""></p>
-<h2 id="backend-roadmap"><a href="#backend-roadmap" class="header-anchor">3. </a><a href="#👽-BackEnd-RoadMap" class="headerlink" title="👽 BackEnd-RoadMap"></a>👽 BackEnd-RoadMap</h2><p><img src="/images/backend-map.png" alt=""></p>
-<h2 id="devops-roadmap"><a href="#devops-roadmap" class="header-anchor">4. </a><a href="#👷-DevOps-RoadMap" class="headerlink" title="👷 DevOps-RoadMap"></a>👷 DevOps-RoadMap</h2><p><img src="/images/devops-map.png" alt=""></p>
-<p><br></p>
-<h2 id="listed"><a href="#listed" class="header-anchor">5. </a><a href="#☑-Listed" class="headerlink" title="☑ Listed"></a>☑ Listed</h2><ul>
-<li>[X] 기본 지식</li>
-<li>[X] 프런트엔드 로드맵</li>
-<li>[X] 백엔드 로드맵</li>
-<li>[X] 데브옵스 로드맵</li>
-</ul>
-<hr>
-<blockquote>
-<p>Ref .<br><a href="https://github.com/WegraLee/developer-roadmap" target="_blank" rel="external">웹 개발자가 되는 로드맵 (2017년 버전)</a><br><a href="https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/" target="_blank" rel="external">자바스크립트 피로감을 줄여주기 위한 학습 계획</a><br><a href="https://rhostem.github.io/posts/2017-01-07-git-basic/" target="_blank" rel="external">버전 관리 시스템 Git 기초</a></p>
-</blockquote>
-]]></content>
-    </entry>
     
     <entry>
       <title><![CDATA[ENG-Study-Ref]]></title>
@@ -598,6 +572,27 @@
 <p>Ref . </p>
 <blockquote>
 <p><a href="http://kimjongwook.com/2016/07/21/voca-howandwhat/" target="_blank" rel="external">어떻게 영어 단어를 공부해야 할까</a><br><a href="http://m.wikitree.co.kr/main/news_view.php?id=188593&amp;ref=m.facebook.com#read" target="_blank" rel="external">통째 외워두면 쏠쏠한 영어문장 130선</a><br><a href="https://m.blog.naver.com/PostView.nhn?blogId=justalive&amp;logNo=220983117860&amp;proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F" target="_blank" rel="external">빅보카</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Dev-Roadmap]]></title>
+      <url>/Dev-Roadmap/index.html</url>
+      <content type="html"><![CDATA[<h2 id="basic-knowledge"><a href="#basic-knowledge" class="header-anchor">1. </a><a href="#🚀-Basic-knowledge" class="headerlink" title="🚀 Basic-knowledge"></a>🚀 Basic-knowledge</h2><p><img src="/images/intro-map.png" alt=""></p>
+<h2 id="frondend-roadmap"><a href="#frondend-roadmap" class="header-anchor">2. </a><a href="#🎨-FrondEnd-RoadMap" class="headerlink" title="🎨 FrondEnd-RoadMap"></a>🎨 FrondEnd-RoadMap</h2><p><img src="/images/frontend-map.png" alt=""></p>
+<h2 id="backend-roadmap"><a href="#backend-roadmap" class="header-anchor">3. </a><a href="#👽-BackEnd-RoadMap" class="headerlink" title="👽 BackEnd-RoadMap"></a>👽 BackEnd-RoadMap</h2><p><img src="/images/backend-map.png" alt=""></p>
+<h2 id="devops-roadmap"><a href="#devops-roadmap" class="header-anchor">4. </a><a href="#👷-DevOps-RoadMap" class="headerlink" title="👷 DevOps-RoadMap"></a>👷 DevOps-RoadMap</h2><p><img src="/images/devops-map.png" alt=""></p>
+<p><br></p>
+<h2 id="listed"><a href="#listed" class="header-anchor">5. </a><a href="#☑-Listed" class="headerlink" title="☑ Listed"></a>☑ Listed</h2><ul>
+<li>[X] 기본 지식</li>
+<li>[X] 프런트엔드 로드맵</li>
+<li>[X] 백엔드 로드맵</li>
+<li>[X] 데브옵스 로드맵</li>
+</ul>
+<hr>
+<blockquote>
+<p>Ref .<br><a href="https://github.com/WegraLee/developer-roadmap" target="_blank" rel="external">웹 개발자가 되는 로드맵 (2017년 버전)</a><br><a href="https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/" target="_blank" rel="external">자바스크립트 피로감을 줄여주기 위한 학습 계획</a><br><a href="https://rhostem.github.io/posts/2017-01-07-git-basic/" target="_blank" rel="external">버전 관리 시스템 Git 기초</a></p>
 </blockquote>
 ]]></content>
     </entry>
@@ -633,6 +628,12 @@ Something about me. ;-)
     </entry>
     
     <entry>
+      <title><![CDATA[Categories]]></title>
+      <url>/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[re-invent-js]]></title>
       <url>/re-invent-js/index.html</url>
       <content type="html"><![CDATA[<h2 id="it-s-functional-programming-not-oop-method"><a href="#it-s-functional-programming-not-oop-method" class="header-anchor">1. </a><a href="#It’s-Functional-Programming-Not-OOP-method" class="headerlink" title="It’s Functional Programming Not OOP method~!!"></a>It’s Functional Programming Not OOP method~!!</h2><pre><code>- 함수형 프로그래밍 사고를 기르자
@@ -647,12 +648,6 @@ Something about me. ;-)
 <hr>
 <p>Ref-2<br><a href="https://www.codecademy.com/articles/bwa-javascript-reference" target="_blank" rel="external">JS-Basic</a><br><a href="https://www.codecademy.com/courses/intermediate-javascript-modules/lessons/modules/exercises/review?action=lesson_resume&amp;program_content_id=f76141681ae1fe73defa7f1003aa5dcc&amp;program_id=6b0a63280379cf8f3763afb1fccd186e" target="_blank" rel="external">Modules</a><br><a href="https://jongmin92.github.io/2016/08/25/Node/module-exports_exports/" target="_blank" rel="external"> module.exports와 exports 차이 이해하기</a><br><a href="https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f/" target="_blank" rel="external">require vs import</a><br><a href="http://es6-features.org/#BlockScopedVariables" target="_blank" rel="external">es6-features</a><br><a href="http://programmingsummaries.tistory.com/321" target="_blank" rel="external">commonJS</a></p>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Categories]]></title>
-      <url>/categories/index.html</url>
-      <content type="html"></content>
     </entry>
     
     <entry>
