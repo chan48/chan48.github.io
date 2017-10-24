@@ -211,6 +211,10 @@ links:
     url: https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide
     intro: "AWS-AWSCertified-Guide."
     icon: "fa fa-cloud"
+  - title: "AWS-AWSCertified-Guide2"
+    url: https://aws.amazon.com/ko/certification/certification-prep/
+    intro: "AWS-AWSCertified-Guide2."
+    icon: "fa fa-cloud"
   - title: "AWS-AWSCertified-Blog"
     url: https://kyupokaws.wordpress.com/2017/01/20/aws-certified-solution-architect-associatesaa-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0/
     intro: "AWS-AWSCertified-Blog."
