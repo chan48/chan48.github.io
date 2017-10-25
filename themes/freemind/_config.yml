@@ -473,11 +473,20 @@ links:
     url: https://repl.it/languages/web_project
     intro: "Repl-Web-Editor."
     icon: "fa fa-terminal"
+
+  - title: "Jade&pug-Converter"
+    url: http://html2jade.org/
+    intro: "Jade&pug-Converter."
+    icon: "fa fa-terminal"
+  - title: "Jade&pug-Converter2"
+    url: http://aramboyajyan.github.io/online-jade-template-editor/
+    intro: "Jade&pug-Converter2."
+    icon: "fa fa-terminal"
+
   - title: "VisualizeCode-Editor"
     url: http://www.pythontutor.com/visualize.html#mode=edit
     intro: "VisualizeCode-Editor."
     icon: "fa fa-terminal"
-
   - title: "Programmers-Algo"
     url: https://programmers.co.kr/learn/challenges
     intro: "Programmers-Algo."
