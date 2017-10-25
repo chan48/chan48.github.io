@@ -366,6 +366,11 @@ links:
     url: https://facebook.github.io/react/docs/components-and-props.html
     intro: "React-DOC."
     icon: "fa fa-book"
+  
+  - title: "JADE&PUG-DOC"
+    url: https://pugjs.org/language/interpolation.html
+    intro: "JADE&PUG-DOC."
+    icon: "fa fa-book"
   - title: "MERM-stack-DOC"
     url: http://mern.io/documentation.html
     intro: "MERM-stack-DOC."
