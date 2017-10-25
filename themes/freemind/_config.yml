@@ -28,10 +28,10 @@ menu:
     url: re-invent-js
     intro: "Re-Invent-JS."
     icon: "fa fa-refresh"
-  - title: GraphQL
-    url: GraphQL
-    intro: "GraphQL."
-    icon: "fa fa-pie-chart"
+  - title: API&GraphQL
+    url: API&GraphQL
+    intro: "API&GraphQL."
+    icon: "fa fa-arrows"
   - title: PRJTs
     url: PRJTs
     intro: "PRJTs by me."

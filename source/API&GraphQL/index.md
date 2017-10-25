@@ -1,5 +1,5 @@
 ---
-title: GraphQL
+title: API&GraphQL
 date: 2017-09-28 06:48:38
 ---
 
