@@ -75,6 +75,7 @@ $ npm run git-pull
 
 <script src="//repl.it/embed/NJmv/0.js"></script>
 
+[VisualizeCode](https://goo.gl/fdcT8M)
 - - -
 ### Stackblitz > 
 ```js
@@ -142,13 +143,4 @@ $ npm run git-pull
 <iframe width='100%' height='760' frameborder='0' src='https://mind42.com/mindmap/58f4458e-3a87-4532-9134-e6e466ed4556?rel=embed'></iframe>
 
 - - -
-### VisualizeCode >
-```js
-// embed code
-<iframe width="100%" height="300" frameborder="0" src="http://bit.ly/2yOtABD"> </iframe>
 
-```
-
-#### Example > [Embed-code](https://goo.gl/fdcT8M)
-
-<iframe width="100%" height="300" frameborder="0" src="http://bit.ly/2yOtABD"> </iframe>
