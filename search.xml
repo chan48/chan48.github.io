@@ -582,29 +582,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[ENG-Study-Ref]]></title>
-      <url>/ENG-Study-Ref/index.html</url>
-      <content type="html"><![CDATA[<h2 id="bigvoca-8000"><a href="#bigvoca-8000" class="header-anchor">1. </a><a href="#BigVoca-8000" class="headerlink" title="BigVoca - 8000"></a>BigVoca - 8000</h2><ul>
-<li><a href="https://www.listennotes.com/search/?q=%EB%B9%85%EB%B3%B4%EC%B9%B4%20%EC%98%88%EB%AC%B8%201&amp;sort_by_date=0&amp;scope=episode&amp;offset=0" target="_blank" rel="external">빅보카 예문</a></li>
-<li><a href="https://www.youtube.com/playlist?list=PLWJO94GPBqA7ZWUkaUEK4WbwBubseLoBF" target="_blank" rel="external">빅보카 암기</a></li>
-</ul>
-<h2 id="top-voca"><a href="#top-voca" class="header-anchor">2. </a><a href="#Top-Voca" class="headerlink" title="Top Voca"></a>Top Voca</h2><ul>
-<li><a href="http://ko.talkenglish.com/vocabulary/english-vocabulary.aspx" target="_blank" rel="external">자주 쓰이는 영단어</a></li>
-</ul>
-<hr>
-<h2 id="media"><a href="#media" class="header-anchor">3. </a><a href="#Media" class="headerlink" title="Media"></a>Media</h2><ul>
-<li><a href="https://www.youtube.com/channel/UC28bjCQmwcux8QoImFomIEQ" target="_blank" rel="external">2쌤영어!</a> </li>
-<li><a href="https://learningenglish.voanews.com/a/toefl-or-ielts-comparing/2904490.html" target="_blank" rel="external">VOA</a></li>
-<li><a href="https://www.ted.com/" target="_blank" rel="external">TED</a> </li>
-</ul>
-<p>Ref . </p>
-<blockquote>
-<p><a href="http://kimjongwook.com/2016/07/21/voca-howandwhat/" target="_blank" rel="external">어떻게 영어 단어를 공부해야 할까</a><br><a href="http://m.wikitree.co.kr/main/news_view.php?id=188593&amp;ref=m.facebook.com#read" target="_blank" rel="external">통째 외워두면 쏠쏠한 영어문장 130선</a><br><a href="https://m.blog.naver.com/PostView.nhn?blogId=justalive&amp;logNo=220983117860&amp;proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F" target="_blank" rel="external">빅보카</a></p>
-</blockquote>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[GraphQL]]></title>
       <url>/GraphQL/index.html</url>
       <content type="html"><![CDATA[<hr>
@@ -635,8 +612,37 @@ Something about me. ;-)
     </entry>
     
     <entry>
+      <title><![CDATA[ENG-Study-Ref]]></title>
+      <url>/ENG-Study-Ref/index.html</url>
+      <content type="html"><![CDATA[<h2 id="bigvoca-8000"><a href="#bigvoca-8000" class="header-anchor">1. </a><a href="#BigVoca-8000" class="headerlink" title="BigVoca - 8000"></a>BigVoca - 8000</h2><ul>
+<li><a href="https://www.listennotes.com/search/?q=%EB%B9%85%EB%B3%B4%EC%B9%B4%20%EC%98%88%EB%AC%B8%201&amp;sort_by_date=0&amp;scope=episode&amp;offset=0" target="_blank" rel="external">빅보카 예문</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLWJO94GPBqA7ZWUkaUEK4WbwBubseLoBF" target="_blank" rel="external">빅보카 암기</a></li>
+</ul>
+<h2 id="top-voca"><a href="#top-voca" class="header-anchor">2. </a><a href="#Top-Voca" class="headerlink" title="Top Voca"></a>Top Voca</h2><ul>
+<li><a href="http://ko.talkenglish.com/vocabulary/english-vocabulary.aspx" target="_blank" rel="external">자주 쓰이는 영단어</a></li>
+</ul>
+<hr>
+<h2 id="media"><a href="#media" class="header-anchor">3. </a><a href="#Media" class="headerlink" title="Media"></a>Media</h2><ul>
+<li><a href="https://www.youtube.com/channel/UC28bjCQmwcux8QoImFomIEQ" target="_blank" rel="external">2쌤영어!</a> </li>
+<li><a href="https://learningenglish.voanews.com/a/toefl-or-ielts-comparing/2904490.html" target="_blank" rel="external">VOA</a></li>
+<li><a href="https://www.ted.com/" target="_blank" rel="external">TED</a> </li>
+</ul>
+<p>Ref . </p>
+<blockquote>
+<p><a href="http://kimjongwook.com/2016/07/21/voca-howandwhat/" target="_blank" rel="external">어떻게 영어 단어를 공부해야 할까</a><br><a href="http://m.wikitree.co.kr/main/news_view.php?id=188593&amp;ref=m.facebook.com#read" target="_blank" rel="external">통째 외워두면 쏠쏠한 영어문장 130선</a><br><a href="https://m.blog.naver.com/PostView.nhn?blogId=justalive&amp;logNo=220983117860&amp;proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F" target="_blank" rel="external">빅보카</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Categories]]></title>
       <url>/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Tags]]></title>
+      <url>/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -651,16 +657,39 @@ Something about me. ;-)
 <p>To be continue…</p>
 </blockquote>
 <hr>
-<p>Ref-1<br><a href="https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/" target="_blank" rel="external">자바스크립트 언어에 대한 애정의 90%를 쓰레기통에 버리면서 다시 발견했던 과정</a><br><a href="https://rhostem.github.io/posts/2017-04-20-curry-and-partial-application/" target="_blank" rel="external">함수형 프로그래밍: partial application과 curry</a></p>
+<p>Ref-1</p>
+<ul>
+<li><a href="https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/" target="_blank" rel="external">자바스크립트 언어에 대한 애정의 90%를 쓰레기통에 버리면서 다시 발견했던 과정</a></li>
+<li><a href="https://rhostem.github.io/posts/2017-04-20-curry-and-partial-application/" target="_blank" rel="external">함수형 프로그래밍: partial application과 curry</a></li>
+</ul>
 <hr>
-<p>Ref-2<br><a href="https://www.codecademy.com/articles/bwa-javascript-reference" target="_blank" rel="external">JS-Basic</a><br><a href="https://www.codecademy.com/courses/intermediate-javascript-modules/lessons/modules/exercises/review?action=lesson_resume&amp;program_content_id=f76141681ae1fe73defa7f1003aa5dcc&amp;program_id=6b0a63280379cf8f3763afb1fccd186e" target="_blank" rel="external">Modules</a><br><a href="https://jongmin92.github.io/2016/08/25/Node/module-exports_exports/" target="_blank" rel="external"> module.exports와 exports 차이 이해하기</a><br><a href="https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f/" target="_blank" rel="external">require vs import</a><br><a href="http://es6-features.org/#BlockScopedVariables" target="_blank" rel="external">es6-features</a><br><a href="http://programmingsummaries.tistory.com/321" target="_blank" rel="external">commonJS</a></p>
+<p>Ref-2 </p>
+<ul>
+<li><a href="https://www.codecademy.com/articles/bwa-javascript-reference" target="_blank" rel="external">JS-Basic</a></li>
+<li><a href="https://www.codecademy.com/courses/intermediate-javascript-modules/lessons/modules/exercises/review?action=lesson_resume&amp;program_content_id=f76141681ae1fe73defa7f1003aa5dcc&amp;program_id=6b0a63280379cf8f3763afb1fccd186e" target="_blank" rel="external">Modules</a></li>
+<li><a href="https://jongmin92.github.io/2016/08/25/Node/module-exports_exports/" target="_blank" rel="external">module.exports와 exports 차이 이해하기</a></li>
+<li><a href="https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f/" target="_blank" rel="external">require vs import</a></li>
+<li><a href="http://es6-features.org/#BlockScopedVariables" target="_blank" rel="external">es6-features</a></li>
+<li><a href="http://programmingsummaries.tistory.com/321" target="_blank" rel="external">commonJS</a></li>
+</ul>
+<hr>
+<p>Ref-3 for interview</p>
+<ul>
+<li><p><a href="https://github.com/chan48/CtCI-6th-Edition-JavaScript-interview" target="_blank" rel="external">Coding-Interview-Toy-JS</a></p>
+</li>
+<li><p><a href="https://www.youtube.com/user/TheEasyoung/playlists" target="_blank" rel="external">Coding-Interview-Toy-Video</a></p>
+</li>
+<li><p><a href="https://github.com/chan48/Interview_Question_for_Beginner-2" target="_blank" rel="external">Tech Interview</a></p>
+</li>
+<li><p><a href="http://www.thatjsdude.com/interview/index.html" target="_blank" rel="external">Interview Questions for front-end-Developer</a></p>
+</li>
+<li><p><a href="https://github.com/chan48/Interview-Front-end-Developer-Questions-1/tree/master/Translations/Korean" target="_blank" rel="external">인터뷰 질문들</a></p>
+</li>
+</ul>
+<blockquote>
+<p>For CS<br>    <a href="https://github.com/chan48/interview-coding-university-4/blob/master/translations/README-ko.md#recursion" target="_blank" rel="external">구글인터뷰</a><br>    <a href="https://github.com/chan48/computer-science-interview/blob/master/extras/courses.md" target="_blank" rel="external">OOCU</a><br>    <a href="https://github.com/mission-peace/interview/wiki" target="_blank" rel="external">ETC-ref</a></p>
+</blockquote>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Tags]]></title>
-      <url>/tags/index.html</url>
-      <content type="html"></content>
     </entry>
     
   
