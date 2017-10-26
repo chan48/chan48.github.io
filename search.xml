@@ -560,28 +560,6 @@
   
     
     <entry>
-      <title><![CDATA[API&GraphQL]]></title>
-      <url>/API&amp;GraphQL/index.html</url>
-      <content type="html"><![CDATA[<hr>
-<p>Ref . </p>
-<blockquote>
-<ol>
-<li><a href="https://www.howtographql.com/" target="_blank" rel="external">howtographql</a></li>
-<li><a href="http://dev.apollodata.com/core/apollo-client-api.html" target="_blank" rel="external">Apollo-tool</a></li>
-<li><a href="https://snipcart.com/blog/graphql-nodejs-express-tutorial" target="_blank" rel="external">graphql-nodejs-express-tip</a></li>
-<li><a href="Build a GraphQL Server with Node.js and MongoDB">Build a GraphQL Server with Node.js and MongoDB</a></li>
-<li><a href="https://www.youtube.com/watch?v=Tpf9kVE2AY8&amp;list=RDTpf9kVE2AY8&amp;t=90" target="_blank" rel="external">How to write a GraphQL server</a></li>
-</ol>
-<ul>
-<li><a href="https://scotch.io/search?q=GraphQL" target="_blank" rel="external">scotch</a></li>
-<li><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">udemy</a></li>
-</ul>
-<p>Etc.<br><a href="http://docs.vulcanjs.org/example-movies.html" target="_blank" rel="external">VulcanJS-DOC</a><br><a href="http://spectrumdig.blogspot.kr/search?q=vulcan" target="_blank" rel="external">VulcanJS-Blog</a><br><a href="https://www.youtube.com/channel/UCGIvQQ6zw7ov2cHgD70HFlA/playlists" target="_blank" rel="external">VulcanJS-YouTube</a><br><a href="https://www.youtube.com/watch?v=Nl0Fi40Ghh4&amp;list=PLBoa_Q6hVeSx1oP5sFYG63rPs1eDtyNOy" target="_blank" rel="external">VulcanJS-AirBnB Clone</a></p>
-</blockquote>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[Dev-Roadmap]]></title>
       <url>/Dev-Roadmap/index.html</url>
       <content type="html"><![CDATA[<h2 id="basic-knowledge"><a href="#basic-knowledge" class="header-anchor">1. </a><a href="#🚀-Basic-knowledge" class="headerlink" title="🚀 Basic-knowledge"></a>🚀 Basic-knowledge</h2><p><img src="/images/intro-map.png" alt=""></p>
@@ -620,7 +598,29 @@
 </ul>
 <p>Ref . </p>
 <blockquote>
-<p><a href="http://kimjongwook.com/2016/07/21/voca-howandwhat/" target="_blank" rel="external">어떻게 영어 단어를 공부해야 할까</a><br><a href="http://m.wikitree.co.kr/main/news_view.php?id=188593&amp;ref=m.facebook.com#read" target="_blank" rel="external">통째 외워두면 쏠쏠한 영어문장 130선</a><br><a href="https://m.blog.naver.com/PostView.nhn?blogId=justalive&amp;logNo=220983117860&amp;proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F" target="_blank" rel="external">빅보카</a></p>
+<p><a href="http://kimjongwook.com/2016/07/21/voca-howandwhat/" target="_blank" rel="external">어떻게 영어 단어를 공부해야 할까</a><br><a href="http://m.wikitree.co.kr/main/news_view.php?id=188593&amp;ref=m.facebook.com#read" target="_blank" rel="external">통째 외워두면 쏠쏠한 영어문장 130선</a><br><a href="https://m.blog.naver.com/PostView.nhn?blogId=justalive&amp;logNo=220983117860&amp;proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F" target="_blank" rel="external">빅보카</a><br><a href="https://freekidsbooks.org/" target="_blank" rel="external">ForKid</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[API&GraphQL]]></title>
+      <url>/API&amp;GraphQL/index.html</url>
+      <content type="html"><![CDATA[<hr>
+<p>Ref . </p>
+<blockquote>
+<ol>
+<li><a href="https://www.howtographql.com/" target="_blank" rel="external">howtographql</a></li>
+<li><a href="http://dev.apollodata.com/core/apollo-client-api.html" target="_blank" rel="external">Apollo-tool</a></li>
+<li><a href="https://snipcart.com/blog/graphql-nodejs-express-tutorial" target="_blank" rel="external">graphql-nodejs-express-tip</a></li>
+<li><a href="Build a GraphQL Server with Node.js and MongoDB">Build a GraphQL Server with Node.js and MongoDB</a></li>
+<li><a href="https://www.youtube.com/watch?v=Tpf9kVE2AY8&amp;list=RDTpf9kVE2AY8&amp;t=90" target="_blank" rel="external">How to write a GraphQL server</a></li>
+</ol>
+<ul>
+<li><a href="https://scotch.io/search?q=GraphQL" target="_blank" rel="external">scotch</a></li>
+<li><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">udemy</a></li>
+</ul>
+<p>Etc.<br><a href="http://docs.vulcanjs.org/example-movies.html" target="_blank" rel="external">VulcanJS-DOC</a><br><a href="http://spectrumdig.blogspot.kr/search?q=vulcan" target="_blank" rel="external">VulcanJS-Blog</a><br><a href="https://www.youtube.com/channel/UCGIvQQ6zw7ov2cHgD70HFlA/playlists" target="_blank" rel="external">VulcanJS-YouTube</a><br><a href="https://www.youtube.com/watch?v=Nl0Fi40Ghh4&amp;list=PLBoa_Q6hVeSx1oP5sFYG63rPs1eDtyNOy" target="_blank" rel="external">VulcanJS-AirBnB Clone</a></p>
 </blockquote>
 ]]></content>
     </entry>
@@ -652,9 +652,9 @@ Something about me. ;-)
     <entry>
       <title><![CDATA[re-invent-js]]></title>
       <url>/re-invent-js/index.html</url>
-      <content type="html"><![CDATA[<h2 id="it-s-functional-programming-not-oop-method"><a href="#it-s-functional-programming-not-oop-method" class="header-anchor">1. </a><a href="#It’s-Functional-Programming-Not-OOP-method" class="headerlink" title="It’s Functional Programming Not OOP method~!!"></a>It’s Functional Programming Not OOP method~!!</h2><pre><code>- 함수형 프로그래밍 사고를 기르자
+      <content type="html"><![CDATA[<h1 id="it-s-functional-programming-not-oop-method"><a href="#it-s-functional-programming-not-oop-method" class="header-anchor">1. </a><a href="#It’s-Functional-Programming-Not-OOP-method" class="headerlink" title="It’s Functional Programming Not OOP method~!!"></a>It’s Functional Programming Not OOP method~!!</h1><pre><code>- 함수형 프로그래밍 사고를 기르자
 - JS 뿐만 아닌 CoffeeScript 나 Python Code 에도 익숙해지자
-</code></pre><h2 id="algorijeum-hunryeoneul-ggujunhi-haja"><a href="#algorijeum-hunryeoneul-ggujunhi-haja" class="header-anchor">2. </a><a href="#알고리즘-훈련을-꾸준히-하자" class="headerlink" title="알고리즘 훈련을 꾸준히 하자~!!"></a>알고리즘 훈련을 꾸준히 하자~!!</h2><pre><code>- CodeWar 나 기타 사이트를 통한 트레이닝
+</code></pre><h2 id="algorijeum-hunryeoneul-ggujunhi-haja"><a href="#algorijeum-hunryeoneul-ggujunhi-haja" class="header-anchor">1.1. </a><a href="#알고리즘-훈련을-꾸준히-하자" class="headerlink" title="알고리즘 훈련을 꾸준히 하자~!!"></a>알고리즘 훈련을 꾸준히 하자~!!</h2><pre><code>- CodeWar 나 기타 사이트를 통한 트레이닝
 - 자료구조나 기타 주요한 수학적 알고리즘 익히기
 </code></pre><blockquote>
 <p>To be continue…</p>
@@ -690,8 +690,11 @@ Something about me. ;-)
 </li>
 </ul>
 <blockquote>
-<p>For CS<br>    <a href="https://github.com/chan48/interview-coding-university-4/blob/master/translations/README-ko.md#recursion" target="_blank" rel="external">구글인터뷰</a><br>    <a href="https://github.com/chan48/computer-science-interview/blob/master/extras/courses.md" target="_blank" rel="external">OOCU</a><br>    <a href="https://github.com/mission-peace/interview/wiki" target="_blank" rel="external">ETC-ref</a></p>
-</blockquote>
+<h4 id="for-cs"><a href="#for-cs" class="header-anchor">1.1.1. </a><a href="#For-CS" class="headerlink" title="For CS"></a>For CS</h4></blockquote>
+<p><a href="https://github.com/chan48/interview-coding-university-4/blob/master/translations/README-ko.md#recursion" target="_blank" rel="external">구글인터뷰</a><br><a href="https://github.com/chan48/computer-science-interview/blob/master/extras/courses.md" target="_blank" rel="external">OOCU</a><br><a href="https://github.com/mission-peace/interview/wiki" target="_blank" rel="external">ETC-ref</a></p>
+<blockquote>
+<h4 id="youtube-about-coding"><a href="#youtube-about-coding" class="header-anchor">1.1.2. </a><a href="#YouTube-about-coding" class="headerlink" title="YouTube about coding"></a>YouTube about coding</h4></blockquote>
+<p><a href="https://www.youtube.com/user/learncodeacademy" target="_blank" rel="external">LearnCode.academy</a></p>
 ]]></content>
     </entry>
     
