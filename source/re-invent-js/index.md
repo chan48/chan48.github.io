@@ -48,9 +48,10 @@ Ref-3 for interview
 [OOCU](https://github.com/chan48/computer-science-interview/blob/master/extras/courses.md)
 [ETC-ref](https://github.com/mission-peace/interview/wiki)
 	
-> #### YouTube about coding
+> #### YouTube about coding & algorithm
 
 [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
+[바보도 배우는 알고리즘](https://www.youtube.com/channel/UCcMW283tl-0u9ZZSwOvkupQ/playlists)
 
 
 
