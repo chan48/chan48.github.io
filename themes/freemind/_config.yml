@@ -97,6 +97,10 @@ links:
     url: http://fontawesome.io/icons/
     intro: "Awesome icon."
     icon: "fa fa-file-image-o"
+  - title: "Image-Optimizer"
+    url: http://picresize.com/
+    intro: "Image-Optimizer."
+    icon: "fa fa-pie-chart"
   - title: "Awesome-Vim"
     url: https://vimawesome.com/
     intro: "Awesome-Vim."
