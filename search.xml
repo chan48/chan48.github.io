@@ -563,8 +563,17 @@
       <title><![CDATA[API&GraphQL]]></title>
       <url>/API&amp;GraphQL/index.html</url>
       <content type="html"><![CDATA[<hr>
-<p>Ref . </p>
 <blockquote>
+<p><strong> API Tool </strong></p>
+<ol>
+<li><a href="https://swagger.io/" target="_blank" rel="external">swagger</a></li>
+<li><a href="https://www.youtube.com/watch?v=plbJolNkn_c&amp;feature=share" target="_blank" rel="external">GraphCMS</a></li>
+</ol>
+</blockquote>
+<hr>
+<hr>
+<blockquote>
+<p>Ref . </p>
 <ol>
 <li><a href="https://www.howtographql.com/" target="_blank" rel="external">howtographql</a></li>
 <li><a href="http://dev.apollodata.com/core/apollo-client-api.html" target="_blank" rel="external">Apollo-tool</a></li>
@@ -693,8 +702,8 @@ Something about me. ;-)
 <h4 id="for-cs"><a href="#for-cs" class="header-anchor">1.1.1. </a><a href="#For-CS" class="headerlink" title="For CS"></a>For CS</h4></blockquote>
 <p><a href="https://github.com/chan48/interview-coding-university-4/blob/master/translations/README-ko.md#recursion" target="_blank" rel="external">구글인터뷰</a><br><a href="https://github.com/chan48/computer-science-interview/blob/master/extras/courses.md" target="_blank" rel="external">OOCU</a><br><a href="https://github.com/mission-peace/interview/wiki" target="_blank" rel="external">ETC-ref</a></p>
 <blockquote>
-<h4 id="youtube-about-coding"><a href="#youtube-about-coding" class="header-anchor">1.1.2. </a><a href="#YouTube-about-coding" class="headerlink" title="YouTube about coding"></a>YouTube about coding</h4></blockquote>
-<p><a href="https://www.youtube.com/user/learncodeacademy" target="_blank" rel="external">LearnCode.academy</a></p>
+<h4 id="youtube-about-coding-amp-algorithm"><a href="#youtube-about-coding-amp-algorithm" class="header-anchor">1.1.2. </a><a href="#YouTube-about-coding-amp-algorithm" class="headerlink" title="YouTube about coding &amp; algorithm"></a>YouTube about coding &amp; algorithm</h4></blockquote>
+<p><a href="https://www.youtube.com/user/learncodeacademy" target="_blank" rel="external">LearnCode.academy</a><br><a href="https://www.youtube.com/channel/UCcMW283tl-0u9ZZSwOvkupQ/playlists" target="_blank" rel="external">바보도 배우는 알고리즘</a></p>
 ]]></content>
     </entry>
     
