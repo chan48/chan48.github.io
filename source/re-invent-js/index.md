@@ -3,7 +3,8 @@ title: re-invent-js
 date: 2017-09-28 05:52:59
 ---
 
-## It's Functional Programming Not OOP method~!!
+It's Functional Programming Not OOP method~!!
+=====
 	- 함수형 프로그래밍 사고를 기르자
 	- JS 뿐만 아닌 CoffeeScript 나 Python Code 에도 익숙해지자
 
@@ -41,10 +42,15 @@ Ref-3 for interview
 
 - [인터뷰 질문들](https://github.com/chan48/Interview-Front-end-Developer-Questions-1/tree/master/Translations/Korean)
 
-> For CS
-	[구글인터뷰](https://github.com/chan48/interview-coding-university-4/blob/master/translations/README-ko.md#recursion)
-	[OOCU](https://github.com/chan48/computer-science-interview/blob/master/extras/courses.md)
-	[ETC-ref](https://github.com/mission-peace/interview/wiki)
+> #### For CS
 	
+[구글인터뷰](https://github.com/chan48/interview-coding-university-4/blob/master/translations/README-ko.md#recursion)
+[OOCU](https://github.com/chan48/computer-science-interview/blob/master/extras/courses.md)
+[ETC-ref](https://github.com/mission-peace/interview/wiki)
+	
+> #### YouTube about coding
+
+[LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
+
 
 
