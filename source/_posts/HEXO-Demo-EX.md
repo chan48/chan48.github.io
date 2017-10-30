@@ -128,7 +128,6 @@ contents ~
 <summary><strong> Example > (자세한 내용을 보려면 펼쳐주세요)</strong></summary>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3G6d3GWSW3COF4" width="860" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-
 [AWS 6월 웨비나  AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)](https://www.slideshare.net/awskorea/aws-code-star-devops)
 
 </details>
