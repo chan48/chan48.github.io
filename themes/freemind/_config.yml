@@ -483,6 +483,10 @@ links:
     intro: "Repl-Web-Editor."
     icon: "fa fa-terminal"
 
+  - title: "HTML-Editor"
+    url: https://htmlg.com/html-editor/
+    intro: "HTML-Editor."
+    icon: "fa fa-terminal"  
   - title: "Jade&pug-Converter"
     url: https://www.beautifyconverter.com/html-to-jade-converter.php
     intro: "Jade&pug-Converter."
