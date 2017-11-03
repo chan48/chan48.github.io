@@ -554,27 +554,6 @@
   
     
     <entry>
-      <title><![CDATA[Dev-Roadmap]]></title>
-      <url>/Dev-Roadmap/index.html</url>
-      <content type="html"><![CDATA[<h2 id="basic-knowledge"><a href="#basic-knowledge" class="header-anchor">1. </a><a href="#🚀-Basic-knowledge" class="headerlink" title="🚀 Basic-knowledge"></a>🚀 Basic-knowledge</h2><p><img src="/images/intro-map.png" alt=""></p>
-<h2 id="frondend-roadmap"><a href="#frondend-roadmap" class="header-anchor">2. </a><a href="#🎨-FrondEnd-RoadMap" class="headerlink" title="🎨 FrondEnd-RoadMap"></a>🎨 FrondEnd-RoadMap</h2><p><img src="/images/frontend-map.png" alt=""></p>
-<h2 id="backend-roadmap"><a href="#backend-roadmap" class="header-anchor">3. </a><a href="#👽-BackEnd-RoadMap" class="headerlink" title="👽 BackEnd-RoadMap"></a>👽 BackEnd-RoadMap</h2><p><img src="/images/backend-map.png" alt=""></p>
-<h2 id="devops-roadmap"><a href="#devops-roadmap" class="header-anchor">4. </a><a href="#👷-DevOps-RoadMap" class="headerlink" title="👷 DevOps-RoadMap"></a>👷 DevOps-RoadMap</h2><p><img src="/images/devops-map.png" alt=""></p>
-<p><br></p>
-<h2 id="listed"><a href="#listed" class="header-anchor">5. </a><a href="#☑-Listed" class="headerlink" title="☑ Listed"></a>☑ Listed</h2><ul>
-<li>[X] 기본 지식</li>
-<li>[X] 프런트엔드 로드맵</li>
-<li>[X] 백엔드 로드맵</li>
-<li>[X] 데브옵스 로드맵</li>
-</ul>
-<hr>
-<blockquote>
-<p>Ref .<br><a href="https://github.com/WegraLee/developer-roadmap" target="_blank" rel="external">웹 개발자가 되는 로드맵 (2017년 버전)</a><br><a href="https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/" target="_blank" rel="external">자바스크립트 피로감을 줄여주기 위한 학습 계획</a><br><a href="https://rhostem.github.io/posts/2017-01-07-git-basic/" target="_blank" rel="external">버전 관리 시스템 Git 기초</a></p>
-</blockquote>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[API&GraphQL]]></title>
       <url>/API&amp;GraphQL/index.html</url>
       <content type="html"><![CDATA[<hr>
@@ -606,6 +585,27 @@
     </entry>
     
     <entry>
+      <title><![CDATA[Dev-Roadmap]]></title>
+      <url>/Dev-Roadmap/index.html</url>
+      <content type="html"><![CDATA[<h2 id="basic-knowledge"><a href="#basic-knowledge" class="header-anchor">1. </a><a href="#🚀-Basic-knowledge" class="headerlink" title="🚀 Basic-knowledge"></a>🚀 Basic-knowledge</h2><p><img src="/images/intro-map.png" alt=""></p>
+<h2 id="frondend-roadmap"><a href="#frondend-roadmap" class="header-anchor">2. </a><a href="#🎨-FrondEnd-RoadMap" class="headerlink" title="🎨 FrondEnd-RoadMap"></a>🎨 FrondEnd-RoadMap</h2><p><img src="/images/frontend-map.png" alt=""></p>
+<h2 id="backend-roadmap"><a href="#backend-roadmap" class="header-anchor">3. </a><a href="#👽-BackEnd-RoadMap" class="headerlink" title="👽 BackEnd-RoadMap"></a>👽 BackEnd-RoadMap</h2><p><img src="/images/backend-map.png" alt=""></p>
+<h2 id="devops-roadmap"><a href="#devops-roadmap" class="header-anchor">4. </a><a href="#👷-DevOps-RoadMap" class="headerlink" title="👷 DevOps-RoadMap"></a>👷 DevOps-RoadMap</h2><p><img src="/images/devops-map.png" alt=""></p>
+<p><br></p>
+<h2 id="listed"><a href="#listed" class="header-anchor">5. </a><a href="#☑-Listed" class="headerlink" title="☑ Listed"></a>☑ Listed</h2><ul>
+<li>[X] 기본 지식</li>
+<li>[X] 프런트엔드 로드맵</li>
+<li>[X] 백엔드 로드맵</li>
+<li>[X] 데브옵스 로드맵</li>
+</ul>
+<hr>
+<blockquote>
+<p>Ref .<br><a href="https://github.com/WegraLee/developer-roadmap" target="_blank" rel="external">웹 개발자가 되는 로드맵 (2017년 버전)</a><br><a href="https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/" target="_blank" rel="external">자바스크립트 피로감을 줄여주기 위한 학습 계획</a><br><a href="https://rhostem.github.io/posts/2017-01-07-git-basic/" target="_blank" rel="external">버전 관리 시스템 Git 기초</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[ENG-Study-Ref]]></title>
       <url>/ENG-Study-Ref/index.html</url>
       <content type="html"><![CDATA[<h2 id="bigvoca-8000"><a href="#bigvoca-8000" class="header-anchor">1. </a><a href="#BigVoca-8000" class="headerlink" title="BigVoca - 8000"></a>BigVoca - 8000</h2><ul>
@@ -631,18 +631,26 @@
     <entry>
       <title><![CDATA[PRJTs]]></title>
       <url>/PRJTs/index.html</url>
-      <content type="html"><![CDATA[<h2 id="quiz-aws"><a href="#quiz-aws" class="header-anchor">1. </a><a href="#Quiz-AWS" class="headerlink" title="Quiz-AWS"></a>Quiz-AWS</h2><pre><code>- ing ...
-</code></pre><blockquote>
+      <content type="html"><![CDATA[<blockquote>
+<p><strong>QuizAWS 개발로그</strong></p>
+</blockquote>
+<p><iframe style="border:none" width="100%" height="890px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS0uuIa_FjKxmDYnoIefMjXakXFThJJA05QJ6fxl5ybNOJMAsTCjJvVG7WR_T89Ct2XnmVLaOSIYvUd/pubhtml?widget=true&amp;headers=false"></iframe><br><a href="http://bit.ly/agile-history" target="_blank" rel="external">Google-SpreadSheet</a></p>
+<blockquote>
 <p>To be continue…</p>
 </blockquote>
 ]]></content>
     </entry>
     
     <entry>
-      <title><![CDATA[About]]></title>
+      <title><![CDATA[aboutME]]></title>
       <url>/aboutME/index.html</url>
-      <content type="html"><![CDATA[
-Something about me. ;-)
+      <content type="html"><![CDATA[<blockquote>
+<p><strong>Profile</strong></p>
+</blockquote>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">export</span> <span class="keyword">const</span> S-CHAN = [</div><div class="line">&#123;</div><div class="line">	Programming:&#123; &#125;</div><div class="line"></div><div class="line">&#125;</div><div class="line">,</div><div class="line">&#123;</div><div class="line">   ETC. :&#123; &#125;</div><div class="line">&#125;</div><div class="line">,</div><div class="line">&#123;</div><div class="line">	ETC2. :&#123;&#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line">]</div></pre></td></tr></table></figure>
+<blockquote>
+<p>To be continue…</p>
+</blockquote>
 ]]></content>
     </entry>
     
