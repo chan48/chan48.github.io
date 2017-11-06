@@ -36,10 +36,10 @@ menu:
     url: PRJTs
     intro: "PRJTs by me."
     icon: "fa fa-tasks"
-  - title: ABOUT-ME
-    url: aboutME
-    intro: "ABOUT-ME."
-    icon: "fa fa-user"
+  # - title: ABOUT-ME
+    # url: aboutME
+    # intro: "ABOUT-ME."
+    # icon: "fa fa-user"
 
 links:
   - title: "HEXOBLG-DOCs"
