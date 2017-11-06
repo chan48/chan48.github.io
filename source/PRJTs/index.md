@@ -3,7 +3,7 @@ title: PRJTs
 date: 2017-09-28 05:12:59
 ---
 
-> __QuizAWS 개발로그__
+> __QuizAWS 개발로그__ : [Google-SpreadSheet](http://bit.ly/agile-history)
 
 
 
