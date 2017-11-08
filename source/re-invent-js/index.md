@@ -42,28 +42,40 @@ It's Functional Programming Not OOP method~!!
 
 > #### Ref for interview
 
-- [Coding-Interview-Toy-JS](https://github.com/chan48/CtCI-6th-Edition-JavaScript-interview)
+- [DEV Tech Interview](https://github.com/chan48/Dev_Beginner_Interview_Question)
+- [Coding-Interview-JS](https://github.com/chan48/JavaScript-interview-6th-Edition)
+	- [Coding-Interview-PY](https://github.com/chan48/Python-interview-CtCI-6th-Edition)
+	- [Coding-Interview-PY-Video](https://www.youtube.com/user/TheEasyoung/playlists)
 
-- [Coding-Interview-Toy-Video](https://www.youtube.com/user/TheEasyoung/playlists)
+-----
 
-- [Tech Interview](https://github.com/chan48/Interview_Question_for_Beginner-2)
+- [Interview Questions for front-end](http://www.thatjsdude.com/interview/index.html)
+	- [Q1](https://github.com/chan48/Interview-Front-end-Developer-Questions-KR-1/tree/master/Translations/Korean)
+	- [Q2](https://github.com/chan48/Interview-Front-end-Developer-Questions-EN-2)
+	- [REF.](https://github.com/chan48/toy-problems-hackreactor)
 
-- [Interview Questions for front-end-Developer](http://www.thatjsdude.com/interview/index.html)
-
-- [인터뷰 질문들](https://github.com/chan48/Interview-Front-end-Developer-Questions-1/tree/master/Translations/Korean)
 
 - - -
-> #### For CS
+> #### For Algorithm & CS
 	
-- [구글인터뷰](https://github.com/chan48/interview-coding-university-4/blob/master/translations/README-ko.md#recursion)
+- [구글 대학 인터뷰](https://github.com/chan48/interview-coding-G-university/blob/master/translations/README-ko.md)
 - [OOCU](https://github.com/chan48/computer-science-interview/blob/master/extras/courses.md)
-- [ETC-ref](https://github.com/mission-peace/interview/wiki)
 
-- - -
-> #### YouTube about coding & algorithm
+-----
+
+- [Data-Structure](https://github.com/chan48/toy-problems-data-structure-ex1)
+
+-----
+
+- [TOY-PROBLEMS](https://github.com/chan48/toy_mornig_problems_0)
+	- [TOY-1](https://github.com/chan48/toy-problems-1)
+	- [TOY-2](https://github.com/chan48/toy-problems-2)
+
+-----
 
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
 - [바보도 배우는 알고리즘](https://www.youtube.com/channel/UCcMW283tl-0u9ZZSwOvkupQ/playlists)
+- [ETC-ref](https://github.com/mission-peace/interview/wiki)
 
 
 
