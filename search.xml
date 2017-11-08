@@ -696,31 +696,46 @@
 <blockquote>
 <h4 id="ref-for-interview"><a href="#ref-for-interview" class="header-anchor">1.2.2. </a><a href="#Ref-for-interview" class="headerlink" title="Ref for interview"></a>Ref for interview</h4></blockquote>
 <ul>
-<li><p><a href="https://github.com/chan48/CtCI-6th-Edition-JavaScript-interview" target="_blank" rel="external">Coding-Interview-Toy-JS</a></p>
-</li>
-<li><p><a href="https://www.youtube.com/user/TheEasyoung/playlists" target="_blank" rel="external">Coding-Interview-Toy-Video</a></p>
-</li>
-<li><p><a href="https://github.com/chan48/Interview_Question_for_Beginner-2" target="_blank" rel="external">Tech Interview</a></p>
-</li>
-<li><p><a href="http://www.thatjsdude.com/interview/index.html" target="_blank" rel="external">Interview Questions for front-end-Developer</a></p>
-</li>
-<li><p><a href="https://github.com/chan48/Interview-Front-end-Developer-Questions-1/tree/master/Translations/Korean" target="_blank" rel="external">인터뷰 질문들</a></p>
+<li><a href="https://github.com/chan48/Dev_Beginner_Interview_Question" target="_blank" rel="external">DEV Tech Interview</a></li>
+<li><a href="https://github.com/chan48/JavaScript-interview-6th-Edition" target="_blank" rel="external">Coding-Interview-JS</a><ul>
+<li><a href="https://github.com/chan48/Python-interview-CtCI-6th-Edition" target="_blank" rel="external">Coding-Interview-PY</a></li>
+<li><a href="https://www.youtube.com/user/TheEasyoung/playlists" target="_blank" rel="external">Coding-Interview-PY-Video</a></li>
+</ul>
 </li>
 </ul>
 <hr>
-<blockquote>
-<h4 id="for-cs"><a href="#for-cs" class="header-anchor">1.2.3. </a><a href="#For-CS" class="headerlink" title="For CS"></a>For CS</h4></blockquote>
 <ul>
-<li><a href="https://github.com/chan48/interview-coding-university-4/blob/master/translations/README-ko.md#recursion" target="_blank" rel="external">구글인터뷰</a></li>
-<li><a href="https://github.com/chan48/computer-science-interview/blob/master/extras/courses.md" target="_blank" rel="external">OOCU</a></li>
-<li><a href="https://github.com/mission-peace/interview/wiki" target="_blank" rel="external">ETC-ref</a></li>
+<li><a href="http://www.thatjsdude.com/interview/index.html" target="_blank" rel="external">Interview Questions for front-end</a><ul>
+<li><a href="https://github.com/chan48/Interview-Front-end-Developer-Questions-KR-1/tree/master/Translations/Korean" target="_blank" rel="external">Q1</a></li>
+<li><a href="https://github.com/chan48/Interview-Front-end-Developer-Questions-EN-2" target="_blank" rel="external">Q2</a></li>
+<li><a href="https://github.com/chan48/toy-problems-hackreactor" target="_blank" rel="external">REF.</a></li>
+</ul>
+</li>
 </ul>
 <hr>
 <blockquote>
-<h4 id="youtube-about-coding-amp-algorithm"><a href="#youtube-about-coding-amp-algorithm" class="header-anchor">1.2.4. </a><a href="#YouTube-about-coding-amp-algorithm" class="headerlink" title="YouTube about coding &amp; algorithm"></a>YouTube about coding &amp; algorithm</h4></blockquote>
+<h4 id="for-algorithm-amp-cs"><a href="#for-algorithm-amp-cs" class="header-anchor">1.2.3. </a><a href="#For-Algorithm-amp-CS" class="headerlink" title="For Algorithm &amp; CS"></a>For Algorithm &amp; CS</h4></blockquote>
+<ul>
+<li><a href="https://github.com/chan48/interview-coding-G-university/blob/master/translations/README-ko.md" target="_blank" rel="external">구글 대학 인터뷰</a></li>
+<li><a href="https://github.com/chan48/computer-science-interview/blob/master/extras/courses.md" target="_blank" rel="external">OOCU</a></li>
+</ul>
+<hr>
+<ul>
+<li><a href="https://github.com/chan48/toy-problems-data-structure-ex1" target="_blank" rel="external">Data-Structure</a></li>
+</ul>
+<hr>
+<ul>
+<li><a href="https://github.com/chan48/toy_mornig_problems_0" target="_blank" rel="external">TOY-PROBLEMS</a><ul>
+<li><a href="https://github.com/chan48/toy-problems-1" target="_blank" rel="external">TOY-1</a></li>
+<li><a href="https://github.com/chan48/toy-problems-2" target="_blank" rel="external">TOY-2</a></li>
+</ul>
+</li>
+</ul>
+<hr>
 <ul>
 <li><a href="https://www.youtube.com/user/learncodeacademy" target="_blank" rel="external">LearnCode.academy</a></li>
 <li><a href="https://www.youtube.com/channel/UCcMW283tl-0u9ZZSwOvkupQ/playlists" target="_blank" rel="external">바보도 배우는 알고리즘</a></li>
+<li><a href="https://github.com/mission-peace/interview/wiki" target="_blank" rel="external">ETC-ref</a></li>
 </ul>
 ]]></content>
     </entry>
