@@ -3,6 +3,121 @@
   
     
     <entry>
+      <title><![CDATA[TWIL (This Week I Learned) From 17.10.30]]></title>
+      <url>/2017/11/10/TWIL-From-17-10-30/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p><strong>From 17.10.30 to 17.11.10</strong></p>
+</blockquote>
+<hr>
+<p><strong> 10월 30일 (월) </strong></p>
+<ul>
+<li>BackEnd Study &gt;  GraphQL with React from udemy<blockquote>
+<p><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">GraphQL with React</a> : Unit 1~10 </p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<p><strong> 10월 31일 (화) </strong></p>
+<ul>
+<li>BackEnd Study &gt;  GraphQL with React from udemy<blockquote>
+<p><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">GraphQL with React</a> : Unit 11~19 </p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<p><strong> 11월 1일 (수) </strong></p>
+<ul>
+<li>BackEnd Study &gt;  GraphQL with React from udemy <blockquote>
+<p><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">GraphQL with React</a> : Unit 20~28</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<p><strong> 11월 2일 (목) </strong> </p>
+<ul>
+<li>BackEnd Study &gt;  GraphQL with React from udemy<blockquote>
+<p><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">GraphQL with React</a> : Unit 29~38</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<p><strong> 11월 3일 (금) </strong> </p>
+<ul>
+<li>BackEnd Study &gt;  GraphQL with React from udemy<blockquote>
+<p><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">GraphQL with React</a> : Unit 39~52</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<p><strong> 11월 6일 (월) </strong> </p>
+<ul>
+<li>BackEnd Study &gt;  GraphQL with React from udemy<blockquote>
+<p><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">GraphQL with React</a> : Unit 53~67</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<p><strong> 11월 7일 (화) </strong></p>
+<ul>
+<li>BackEnd Study &gt;  GraphQL with React from udemy<blockquote>
+<p><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">GraphQL with React</a> : Unit 68~80</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<p><strong> 11월 8일 (수) </strong></p>
+<ul>
+<li>BackEnd Study &gt;  GraphQL with React from udemy<blockquote>
+<p><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">GraphQL with React</a> : Unit 81~94</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<p><strong> 11월 9일 (목) </strong> </p>
+<ul>
+<li>BackEnd Study &gt;  GraphQL with React from udemy<blockquote>
+<p><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">GraphQL with React</a> : Unit 95~103</p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<p><strong> 11월 10일 (금) </strong></p>
+<ul>
+<li>BackEnd Study &gt;  GraphQL with React from udemy<blockquote>
+<p><a href="https://www.udemy.com/graphql-with-react-course/learn/v4/content" target="_blank" rel="external">GraphQL with React</a> : Unit 104~114</p>
+</blockquote>
+</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> TIL/THIS-WEEK-LOG </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> TIL-LOG </tag>
+            
+            <tag> AWS </tag>
+            
+            <tag> PROJECT </tag>
+            
+            <tag> qiuzAWS </tag>
+            
+            <tag> serverless </tag>
+            
+            <tag> graghQL </tag>
+            
+            <tag> THIS-WEEK-LOG </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[TWIL (This Week I Learned) From 17.10.11]]></title>
       <url>/2017/10/22/TWIL-From-17-10-11/</url>
       <content type="html"><![CDATA[<h2 id="10weol-11il-su"><a href="#10weol-11il-su" class="header-anchor">1. </a><a href="#10월-11일-수" class="headerlink" title="10월 11일 (수)"></a>10월 11일 (수)</h2><ul>
@@ -572,7 +687,7 @@
 <li><a href="https://www.howtographql.com/" target="_blank" rel="external">howtographql</a></li>
 <li><a href="http://dev.apollodata.com/core/apollo-client-api.html" target="_blank" rel="external">Apollo-tool</a></li>
 <li><a href="https://snipcart.com/blog/graphql-nodejs-express-tutorial" target="_blank" rel="external">graphql-nodejs-express-tip</a></li>
-<li><a href="Build a GraphQL Server with Node.js and MongoDB">Build a GraphQL Server with Node.js and MongoDB</a></li>
+<li><a href="https://github.com/chan48/mongodb-graphql-server-template-express" target="_blank" rel="external">Build a GraphQL Server with Node.js and MongoDB</a></li>
 <li><a href="https://www.youtube.com/watch?v=Tpf9kVE2AY8&amp;list=RDTpf9kVE2AY8&amp;t=90" target="_blank" rel="external">How to write a GraphQL server</a></li>
 </ol>
 <ul>
@@ -655,12 +770,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[Categories]]></title>
-      <url>/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[re-invent-js]]></title>
       <url>/re-invent-js/index.html</url>
       <content type="html"><![CDATA[<h1 id="it-s-functional-programming-not-oop-method"><a href="#it-s-functional-programming-not-oop-method" class="header-anchor">1. </a><a href="#It’s-Functional-Programming-Not-OOP-method" class="headerlink" title="It’s Functional Programming Not OOP method~!!"></a>It’s Functional Programming Not OOP method~!!</h1><pre><code>- 함수형 프로그래밍 사고를 기르자
@@ -738,6 +847,12 @@
 <li><a href="https://github.com/mission-peace/interview/wiki" target="_blank" rel="external">ETC-ref</a></li>
 </ul>
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Categories]]></title>
+      <url>/categories/index.html</url>
+      <content type="html"></content>
     </entry>
     
     <entry>
