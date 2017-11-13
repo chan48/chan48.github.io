@@ -20,7 +20,7 @@ date: 2017-09-28 06:48:38
 > 1. [howtographql](https://www.howtographql.com/)
 > 1. [Apollo-tool](http://dev.apollodata.com/core/apollo-client-api.html)
 > 1. [graphql-nodejs-express-tip](https://snipcart.com/blog/graphql-nodejs-express-tutorial)
-> 1. [Build a GraphQL Server with Node.js and MongoDB](Build a GraphQL Server with Node.js and MongoDB)
+> 1. [Build a GraphQL Server with Node.js and MongoDB](https://github.com/chan48/mongodb-graphql-server-template-express)
 > 1. [How to write a GraphQL server](https://www.youtube.com/watch?v=Tpf9kVE2AY8&list=RDTpf9kVE2AY8&t=90)
 
 > - [scotch](https://scotch.io/search?q=GraphQL)
