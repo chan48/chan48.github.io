@@ -749,6 +749,27 @@
   
     
     <entry>
+      <title><![CDATA[Dev-Roadmap]]></title>
+      <url>/Dev-Roadmap/index.html</url>
+      <content type="html"><![CDATA[<h2 id="basic-knowledge"><a href="#basic-knowledge" class="header-anchor">1. </a><a href="#🚀-Basic-knowledge" class="headerlink" title="🚀 Basic-knowledge"></a>🚀 Basic-knowledge</h2><p><img src="/images/intro-map.png" alt=""></p>
+<h2 id="frondend-roadmap"><a href="#frondend-roadmap" class="header-anchor">2. </a><a href="#🎨-FrondEnd-RoadMap" class="headerlink" title="🎨 FrondEnd-RoadMap"></a>🎨 FrondEnd-RoadMap</h2><p><img src="/images/frontend-map.png" alt=""></p>
+<h2 id="backend-roadmap"><a href="#backend-roadmap" class="header-anchor">3. </a><a href="#👽-BackEnd-RoadMap" class="headerlink" title="👽 BackEnd-RoadMap"></a>👽 BackEnd-RoadMap</h2><p><img src="/images/backend-map.png" alt=""></p>
+<h2 id="devops-roadmap"><a href="#devops-roadmap" class="header-anchor">4. </a><a href="#👷-DevOps-RoadMap" class="headerlink" title="👷 DevOps-RoadMap"></a>👷 DevOps-RoadMap</h2><p><img src="/images/devops-map.png" alt=""></p>
+<p><br></p>
+<h2 id="listed"><a href="#listed" class="header-anchor">5. </a><a href="#☑-Listed" class="headerlink" title="☑ Listed"></a>☑ Listed</h2><ul>
+<li>[X] 기본 지식</li>
+<li>[X] 프런트엔드 로드맵</li>
+<li>[X] 백엔드 로드맵</li>
+<li>[X] 데브옵스 로드맵</li>
+</ul>
+<hr>
+<blockquote>
+<p>Ref .<br><a href="https://github.com/WegraLee/developer-roadmap" target="_blank" rel="external">웹 개발자가 되는 로드맵 (2017년 버전)</a><br><a href="https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/" target="_blank" rel="external">자바스크립트 피로감을 줄여주기 위한 학습 계획</a><br><a href="https://rhostem.github.io/posts/2017-01-07-git-basic/" target="_blank" rel="external">버전 관리 시스템 Git 기초</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[API&GraphQL]]></title>
       <url>/API&amp;GraphQL/index.html</url>
       <content type="html"><![CDATA[<hr>
@@ -780,40 +801,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[Dev-Roadmap]]></title>
-      <url>/Dev-Roadmap/index.html</url>
-      <content type="html"><![CDATA[<h2 id="basic-knowledge"><a href="#basic-knowledge" class="header-anchor">1. </a><a href="#🚀-Basic-knowledge" class="headerlink" title="🚀 Basic-knowledge"></a>🚀 Basic-knowledge</h2><p><img src="/images/intro-map.png" alt=""></p>
-<h2 id="frondend-roadmap"><a href="#frondend-roadmap" class="header-anchor">2. </a><a href="#🎨-FrondEnd-RoadMap" class="headerlink" title="🎨 FrondEnd-RoadMap"></a>🎨 FrondEnd-RoadMap</h2><p><img src="/images/frontend-map.png" alt=""></p>
-<h2 id="backend-roadmap"><a href="#backend-roadmap" class="header-anchor">3. </a><a href="#👽-BackEnd-RoadMap" class="headerlink" title="👽 BackEnd-RoadMap"></a>👽 BackEnd-RoadMap</h2><p><img src="/images/backend-map.png" alt=""></p>
-<h2 id="devops-roadmap"><a href="#devops-roadmap" class="header-anchor">4. </a><a href="#👷-DevOps-RoadMap" class="headerlink" title="👷 DevOps-RoadMap"></a>👷 DevOps-RoadMap</h2><p><img src="/images/devops-map.png" alt=""></p>
-<p><br></p>
-<h2 id="listed"><a href="#listed" class="header-anchor">5. </a><a href="#☑-Listed" class="headerlink" title="☑ Listed"></a>☑ Listed</h2><ul>
-<li>[X] 기본 지식</li>
-<li>[X] 프런트엔드 로드맵</li>
-<li>[X] 백엔드 로드맵</li>
-<li>[X] 데브옵스 로드맵</li>
-</ul>
-<hr>
-<blockquote>
-<p>Ref .<br><a href="https://github.com/WegraLee/developer-roadmap" target="_blank" rel="external">웹 개발자가 되는 로드맵 (2017년 버전)</a><br><a href="https://rhostem.github.io/posts/2016-12-19-A-Study-Plan-To-Cure-JavaScript-Fatigue/" target="_blank" rel="external">자바스크립트 피로감을 줄여주기 위한 학습 계획</a><br><a href="https://rhostem.github.io/posts/2017-01-07-git-basic/" target="_blank" rel="external">버전 관리 시스템 Git 기초</a></p>
-</blockquote>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[PRJTs]]></title>
-      <url>/PRJTs/index.html</url>
-      <content type="html"><![CDATA[<blockquote>
-<p><strong>QuizAWS 개발로그</strong> : <a href="http://bit.ly/agile-history" target="_blank" rel="external">Google-SpreadSheet</a></p>
-</blockquote>
-<p><iframe style="border:none" width="100%" height="890px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS0uuIa_FjKxmDYnoIefMjXakXFThJJA05QJ6fxl5ybNOJMAsTCjJvVG7WR_T89Ct2XnmVLaOSIYvUd/pubhtml?widget=true&amp;headers=false"></iframe><br><a href="http://bit.ly/agile-history" target="_blank" rel="external">Google-SpreadSheet</a></p>
-<blockquote>
-<p>To be continue…</p>
-</blockquote>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[ENG-Study-Ref]]></title>
       <url>/ENG-Study-Ref/index.html</url>
       <content type="html"><![CDATA[<h2 id="bigvoca-8000"><a href="#bigvoca-8000" class="header-anchor">1. </a><a href="#BigVoca-8000" class="headerlink" title="BigVoca - 8000"></a>BigVoca - 8000</h2><ul>
@@ -832,6 +819,19 @@
 <p>Ref . </p>
 <blockquote>
 <p><a href="http://kimjongwook.com/2016/07/21/voca-howandwhat/" target="_blank" rel="external">어떻게 영어 단어를 공부해야 할까</a><br><a href="http://m.wikitree.co.kr/main/news_view.php?id=188593&amp;ref=m.facebook.com#read" target="_blank" rel="external">통째 외워두면 쏠쏠한 영어문장 130선</a><br><a href="https://m.blog.naver.com/PostView.nhn?blogId=justalive&amp;logNo=220983117860&amp;proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F" target="_blank" rel="external">빅보카</a><br><a href="https://freekidsbooks.org/" target="_blank" rel="external">ForKid</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[PRJTs]]></title>
+      <url>/PRJTs/index.html</url>
+      <content type="html"><![CDATA[<blockquote>
+<p><strong>QuizAWS 개발로그</strong> : <a href="http://bit.ly/agile-history" target="_blank" rel="external">Google-SpreadSheet</a></p>
+</blockquote>
+<p><iframe style="border:none" width="100%" height="890px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS0uuIa_FjKxmDYnoIefMjXakXFThJJA05QJ6fxl5ybNOJMAsTCjJvVG7WR_T89Ct2XnmVLaOSIYvUd/pubhtml?widget=true&amp;headers=false"></iframe><br><a href="http://bit.ly/agile-history" target="_blank" rel="external">Google-SpreadSheet</a></p>
+<blockquote>
+<p>To be continue…</p>
 </blockquote>
 ]]></content>
     </entry>
@@ -901,10 +901,12 @@
 </li>
 <li><p><a href="http://cs-playground-react.surge.sh/" target="_blank" rel="external">CS-playground</a></p>
 </li>
-<li><p><a href="https://visualgo.net/ko" target="_blank" rel="external">visualgo</a></p>
-</li>
-<li><p>TOY-PROBLEMS</p>
+<li><a href="https://visualgo.net/ko" target="_blank" rel="external">visualgo</a></li>
+<li><a href="https://www.hackerrank.com/dashboard" target="_blank" rel="external">hackerrank</a></li>
+</ul>
+<hr>
 <ul>
+<li>TOY-PROBLEMS<ul>
 <li><a href="https://github.com/chan48/toy_mornig_problems_0" target="_blank" rel="external">TOY-0</a></li>
 <li><a href="https://github.com/chan48/toy-problems-1" target="_blank" rel="external">TOY-1</a></li>
 <li><a href="https://github.com/chan48/toy-problems-2" target="_blank" rel="external">TOY-2</a></li>
