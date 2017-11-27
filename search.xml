@@ -801,6 +801,19 @@
     </entry>
     
     <entry>
+      <title><![CDATA[PRJTs]]></title>
+      <url>/PRJTs/index.html</url>
+      <content type="html"><![CDATA[<blockquote>
+<p><strong>QuizAWS 개발로그</strong> : <a href="http://bit.ly/agile-history" target="_blank" rel="external">Google-SpreadSheet</a></p>
+</blockquote>
+<p><iframe style="border:none" width="100%" height="890px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS0uuIa_FjKxmDYnoIefMjXakXFThJJA05QJ6fxl5ybNOJMAsTCjJvVG7WR_T89Ct2XnmVLaOSIYvUd/pubhtml?widget=true&amp;headers=false"></iframe><br><a href="http://bit.ly/agile-history" target="_blank" rel="external">Google-SpreadSheet</a></p>
+<blockquote>
+<p>To be continue…</p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[ENG-Study-Ref]]></title>
       <url>/ENG-Study-Ref/index.html</url>
       <content type="html"><![CDATA[<h2 id="bigvoca-8000"><a href="#bigvoca-8000" class="header-anchor">1. </a><a href="#BigVoca-8000" class="headerlink" title="BigVoca - 8000"></a>BigVoca - 8000</h2><ul>
@@ -819,19 +832,6 @@
 <p>Ref . </p>
 <blockquote>
 <p><a href="http://kimjongwook.com/2016/07/21/voca-howandwhat/" target="_blank" rel="external">어떻게 영어 단어를 공부해야 할까</a><br><a href="http://m.wikitree.co.kr/main/news_view.php?id=188593&amp;ref=m.facebook.com#read" target="_blank" rel="external">통째 외워두면 쏠쏠한 영어문장 130선</a><br><a href="https://m.blog.naver.com/PostView.nhn?blogId=justalive&amp;logNo=220983117860&amp;proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F" target="_blank" rel="external">빅보카</a><br><a href="https://freekidsbooks.org/" target="_blank" rel="external">ForKid</a></p>
-</blockquote>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[PRJTs]]></title>
-      <url>/PRJTs/index.html</url>
-      <content type="html"><![CDATA[<blockquote>
-<p><strong>QuizAWS 개발로그</strong> : <a href="http://bit.ly/agile-history" target="_blank" rel="external">Google-SpreadSheet</a></p>
-</blockquote>
-<p><iframe style="border:none" width="100%" height="890px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS0uuIa_FjKxmDYnoIefMjXakXFThJJA05QJ6fxl5ybNOJMAsTCjJvVG7WR_T89Ct2XnmVLaOSIYvUd/pubhtml?widget=true&amp;headers=false"></iframe><br><a href="http://bit.ly/agile-history" target="_blank" rel="external">Google-SpreadSheet</a></p>
-<blockquote>
-<p>To be continue…</p>
 </blockquote>
 ]]></content>
     </entry>
@@ -901,12 +901,16 @@
 </li>
 <li><p><a href="http://cs-playground-react.surge.sh/" target="_blank" rel="external">CS-playground</a></p>
 </li>
+<li><p><a href="https://visualgo.net/ko" target="_blank" rel="external">visualgo</a></p>
+</li>
 <li><p>TOY-PROBLEMS</p>
 <ul>
 <li><a href="https://github.com/chan48/toy_mornig_problems_0" target="_blank" rel="external">TOY-0</a></li>
 <li><a href="https://github.com/chan48/toy-problems-1" target="_blank" rel="external">TOY-1</a></li>
 <li><a href="https://github.com/chan48/toy-problems-2" target="_blank" rel="external">TOY-2</a></li>
 <li><a href="https://github.com/chan48/toy-problems-data-structure-ex1" target="_blank" rel="external">Data-Structure</a></li>
+<li><a href="https://programmers.co.kr/learn/challenges" target="_blank" rel="external">programmers</a></li>
+<li>… </li>
 </ul>
 </li>
 </ul>
